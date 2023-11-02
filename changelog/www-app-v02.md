@@ -1,0 +1,1410 @@
+### 2023-11-02 10:59:07 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-11-02 10:59:07 UTC  
+utime: 1698922747  
+added: 0  
+modified: 2  
+removed: 2  
+message: Retweet id
+
+### 2023-11-02 04:30:23 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-11-02 04:30:23 UTC  
+utime: 1698899423  
+added: 0  
+modified: 1  
+removed: 1  
+message: changed status appearance in navigation menu
+
+### 2023-11-01 10:44:13 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-11-01 10:44:13 UTC  
+utime: 1698835453  
+added: 0  
+modified: 2  
+removed: 2  
+message: Update news
+
+### 2023-10-31 07:46:51 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-10-31 07:46:51 UTC  
+utime: 1698738411  
+added: 0  
+modified: 4  
+removed: 4  
+message: changed menu navigation appearance and made some adaptive
+
+### 2023-10-30 06:17:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-30 06:17:06 UTC  
+utime: 1698646626  
+added: 0  
+modified: 2  
+removed: 2  
+message: Project links in modal
+
+### 2023-10-27 14:37:25 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-27 14:37:25 UTC  
+utime: 1698417445  
+added: 0  
+modified: 2  
+removed: 2  
+message: Trust wallet icon
+
+### 2023-10-27 14:33:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-27 14:33:06 UTC  
+utime: 1698417186  
+added: 9  
+modified: 26  
+removed: 26  
+message: Platform v2
+
+### 2023-10-26 12:05:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-26 12:05:06 UTC  
+utime: 1698321906  
+added: 0  
+modified: 2  
+removed: 2  
+message: Retweet id
+
+### 2023-10-26 11:20:49 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-26 11:20:49 UTC  
+utime: 1698319249  
+added: 1  
+modified: 1  
+removed: 1  
+message: some fix
+
+### 2023-10-26 11:19:37 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-26 11:19:37 UTC  
+utime: 1698319177  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix approve line
+
+### 2023-10-26 04:53:51 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-26 04:53:51 UTC  
+utime: 1698296031  
+added: 1  
+modified: 1  
+removed: 1  
+message: Go to top btn
+
+### 2023-10-26 04:39:02 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-26 04:39:02 UTC  
+utime: 1698295142  
+added: 39  
+modified: 18  
+removed: 1  
+message: News
+
+### 2023-10-25 08:20:19 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-25 08:20:19 UTC  
+utime: 1698222019  
+added: 0  
+modified: 1  
+removed: 1  
+message: upd
+
+### 2023-10-25 04:57:51 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-25 04:57:51 UTC  
+utime: 1698209871  
+added: 0  
+modified: 2  
+removed: 2  
+message: Remove dev logs
+
+### 2023-10-24 19:25:53 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 19:25:53 UTC  
+utime: 1698175553  
+added: 0  
+modified: 1  
+removed: 1  
+message: optimize page
+
+### 2023-10-24 19:22:39 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 19:22:39 UTC  
+utime: 1698175359  
+added: 0  
+modified: 1  
+removed: 1  
+message: optimize page
+
+### 2023-10-24 19:21:13 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 19:21:13 UTC  
+utime: 1698175273  
+added: 0  
+modified: 1  
+removed: 1  
+message: optimize page
+
+### 2023-10-24 19:19:13 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 19:19:13 UTC  
+utime: 1698175153  
+added: 1  
+modified: 5  
+removed: 5  
+message: optimize page
+
+### 2023-10-24 13:13:17 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 13:13:17 UTC  
+utime: 1698153197  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix image url
+
+### 2023-10-24 13:11:54 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 13:11:54 UTC  
+utime: 1698153114  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix image url
+
+### 2023-10-24 11:30:28 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 11:30:28 UTC  
+utime: 1698147028  
+added: 2  
+modified: 2  
+removed: 2  
+message: fix wallect connect error after cahched
+
+### 2023-10-24 11:17:33 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 11:17:33 UTC  
+utime: 1698146253  
+added: 1  
+modified: 2  
+removed: 2  
+message: add new circle for zksync
+
+### 2023-10-24 10:44:08 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 10:44:08 UTC  
+utime: 1698144248  
+added: 0  
+modified: 1  
+removed: 1  
+message: add page time
+
+### 2023-10-24 10:43:55 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 10:43:55 UTC  
+utime: 1698144235  
+added: 0  
+modified: 1  
+removed: 1  
+message: add page time
+
+### 2023-10-24 10:28:38 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 10:28:38 UTC  
+utime: 1698143318  
+added: 0  
+modified: 1  
+removed: 1  
+message: add cache on js2 and abi
+
+### 2023-10-24 10:27:09 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 10:27:09 UTC  
+utime: 1698143229  
+added: 0  
+modified: 1  
+removed: 1  
+message: add cache on js2 and abi
+
+### 2023-10-24 10:26:32 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 10:26:32 UTC  
+utime: 1698143192  
+added: 2  
+modified: 3  
+removed: 3  
+message: add cache on js2 and abi
+
+### 2023-10-24 06:46:59 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-24 06:46:59 UTC  
+utime: 1698130019  
+added: 0  
+modified: 1  
+removed: 1  
+message: Temp turn off the chat
+
+### 2023-10-21 13:11:12 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-21 13:11:12 UTC  
+utime: 1697893872  
+added: 0  
+modified: 3  
+removed: 3  
+message: Retweet id
+
+### 2023-10-21 11:13:07 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-21 11:13:07 UTC  
+utime: 1697886787  
+added: 1  
+modified: 9  
+removed: 9  
+message: modify log_id and title
+
+### 2023-10-20 15:23:49 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-20 15:23:49 UTC  
+utime: 1697815429  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix get100
+
+### 2023-10-20 13:00:40 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-20 13:00:40 UTC  
+utime: 1697806840  
+added: 0  
+modified: 3  
+removed: 3  
+message: Nginx log update
+
+### 2023-10-20 09:10:04 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-20 09:10:04 UTC  
+utime: 1697793004  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix
+
+### 2023-10-19 20:01:30 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-19 20:01:30 UTC  
+utime: 1697745690  
+added: 0  
+modified: 2  
+removed: 2  
+message: add support review info
+
+### 2023-10-18 07:13:38 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-18 07:13:38 UTC  
+utime: 1697613218  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix tg
+
+### 2023-10-16 10:15:01 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-16 10:15:01 UTC  
+utime: 1697451301  
+added: 0  
+modified: 1  
+removed: 1  
+message: add 404 header
+
+### 2023-10-14 13:35:24 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-14 13:35:24 UTC  
+utime: 1697290524  
+added: 0  
+modified: 1  
+removed: 1  
+message: change ai widget
+
+### 2023-10-13 12:40:37 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-13 12:40:37 UTC  
+utime: 1697200837  
+added: 0  
+modified: 4  
+removed: 4  
+message: Change retweet link
+
+### 2023-10-12 10:33:05 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-12 10:33:05 UTC  
+utime: 1697106785  
+added: 0  
+modified: 4  
+removed: 4  
+message: Tg get 100
+
+### 2023-10-11 13:27:39 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-11 13:27:39 UTC  
+utime: 1697030859  
+added: 0  
+modified: 1  
+removed: 1  
+message: change ai chat extension
+
+### 2023-10-11 13:25:55 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-11 13:25:55 UTC  
+utime: 1697030755  
+added: 1  
+modified: 1  
+removed: 0  
+message: change ai chat extension
+
+### 2023-10-11 10:40:07 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-11 10:40:07 UTC  
+utime: 1697020807  
+added: 0  
+modified: 2  
+removed: 2  
+message: change tarif cost
+
+### 2023-10-11 09:25:52 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-11 09:25:52 UTC  
+utime: 1697016352  
+added: 0  
+modified: 1  
+removed: 1  
+message: change tarif cost
+
+### 2023-10-10 11:42:29 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-10 11:42:29 UTC  
+utime: 1696938149  
+added: 1  
+modified: 1  
+removed: 0  
+message: add $country
+
+### 2023-10-10 11:41:43 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-10 11:41:43 UTC  
+utime: 1696938103  
+added: 0  
+modified: 1  
+removed: 1  
+message: add $country
+
+### 2023-10-10 11:32:36 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-10 11:32:36 UTC  
+utime: 1696937556  
+added: 0  
+modified: 2  
+removed: 2  
+message: skip metriks for ru and ua
+
+### 2023-10-10 11:03:42 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-10 11:03:42 UTC  
+utime: 1696935822  
+added: 1  
+modified: 1  
+removed: 0  
+message: yandex
+
+### 2023-10-10 11:02:55 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-10 11:02:55 UTC  
+utime: 1696935775  
+added: 0  
+modified: 1  
+removed: 1  
+message: yandex
+
+### 2023-10-10 09:46:31 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-10 09:46:31 UTC  
+utime: 1696931191  
+added: 0  
+modified: 1  
+removed: 1  
+message: change yandex
+
+### 2023-10-09 07:41:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-09 07:41:06 UTC  
+utime: 1696837266  
+added: 0  
+modified: 4  
+removed: 4  
+message: Work on get100
+
+### 2023-10-09 07:08:00 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-09 07:08:00 UTC  
+utime: 1696835280  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix id name
+
+### 2023-10-09 07:05:19 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-09 07:05:19 UTC  
+utime: 1696835119  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix id name
+
+### 2023-10-07 10:42:28 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-07 10:42:28 UTC  
+utime: 1696675348  
+added: 0  
+modified: 1  
+removed: 1  
+message: sync
+
+### 2023-10-07 10:40:34 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-07 10:40:34 UTC  
+utime: 1696675234  
+added: 1  
+modified: 1  
+removed: 1  
+message: sync
+
+### 2023-10-07 10:37:28 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-07 10:37:28 UTC  
+utime: 1696675048  
+added: 0  
+modified: 2  
+removed: 2  
+message: sync
+
+### 2023-10-07 10:03:57 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-07 10:03:57 UTC  
+utime: 1696673037  
+added: 0  
+modified: 2  
+removed: 2  
+message: fix txt price
+
+### 2023-10-07 09:59:31 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-07 09:59:31 UTC  
+utime: 1696672771  
+added: 1  
+modified: 7  
+removed: 1  
+message: modify get100 and add nodes and venm change
+
+### 2023-10-06 09:01:56 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-06 09:01:56 UTC  
+utime: 1696582916  
+added: 19  
+modified: 28  
+removed: 1  
+message: Work on get 100
+
+### 2023-10-03 09:19:56 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-03 09:19:56 UTC  
+utime: 1696324796  
+added: 2  
+modified: 2  
+removed: 2  
+message: modify cards
+
+### 2023-10-02 13:50:57 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-02 13:50:57 UTC  
+utime: 1696254657  
+added: 1  
+modified: 3  
+removed: 3  
+message: Nginx log
+
+### 2023-10-02 12:00:44 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-10-02 12:00:44 UTC  
+utime: 1696248044  
+added: 1  
+modified: 3  
+removed: 3  
+message: Hide ref nick
+
+### 2023-09-21 12:41:30 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-21 12:41:30 UTC  
+utime: 1695300090  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix connect wal btn
+
+### 2023-09-21 10:46:38 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-21 10:46:38 UTC  
+utime: 1695293198  
+added: 0  
+modified: 1  
+removed: 1  
+message: change test
+
+### 2023-09-21 10:38:18 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-21 10:38:18 UTC  
+utime: 1695292698  
+added: 0  
+modified: 3  
+removed: 3  
+message: change css and change price for l0
+
+### 2023-09-20 09:33:41 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-20 09:33:41 UTC  
+utime: 1695202421  
+added: 0  
+modified: 2  
+removed: 2  
+message: Twitter coming soon
+
+### 2023-09-19 16:20:57 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 16:20:57 UTC  
+utime: 1695140457  
+added: 1  
+modified: 1  
+removed: 1  
+message: scroll tarif change
+
+### 2023-09-19 12:10:33 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 12:10:33 UTC  
+utime: 1695125433  
+added: 0  
+modified: 2  
+removed: 2  
+message: C98 default provider fix
+
+### 2023-09-19 10:53:01 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 10:53:01 UTC  
+utime: 1695120781  
+added: 0  
+modified: 1  
+removed: 1  
+message: Copy ref nick fix
+
+### 2023-09-19 10:43:17 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 10:43:17 UTC  
+utime: 1695120197  
+added: 0  
+modified: 2  
+removed: 2  
+message: Hide eth in buy modal
+
+### 2023-09-19 09:59:10 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 09:59:10 UTC  
+utime: 1695117550  
+added: 0  
+modified: 1  
+removed: 1  
+message: hide get100 button for ref page
+
+### 2023-09-19 09:51:59 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 09:51:59 UTC  
+utime: 1695117119  
+added: 0  
+modified: 2  
+removed: 2  
+message: Retweet coming soon
+
+### 2023-09-19 09:04:56 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 09:04:56 UTC  
+utime: 1695114296  
+added: 0  
+modified: 1  
+removed: 1  
+message: hide ai from any urls
+
+### 2023-09-19 08:37:08 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 08:37:08 UTC  
+utime: 1695112628  
+added: 0  
+modified: 1  
+removed: 1  
+message: Retweet fix
+
+### 2023-09-19 06:46:50 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-19 06:46:50 UTC  
+utime: 1695106010  
+added: 0  
+modified: 1  
+removed: 1  
+message: Retweet fix
+
+### 2023-09-18 12:27:26 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-18 12:27:26 UTC  
+utime: 1695040046  
+added: 0  
+modified: 1  
+removed: 1  
+message: Retweet fix
+
+### 2023-09-18 11:48:51 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-18 11:48:51 UTC  
+utime: 1695037731  
+added: 0  
+modified: 1  
+removed: 1  
+message: Change retweet link
+
+### 2023-09-18 11:37:48 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-18 11:37:48 UTC  
+utime: 1695037068  
+added: 0  
+modified: 4  
+removed: 4  
+message: Remove twitter_user_id cookie
+
+### 2023-09-16 15:50:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-16 15:50:06 UTC  
+utime: 1694879406  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix anisybil
+
+### 2023-09-15 09:05:59 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-15 09:05:59 UTC  
+utime: 1694768759  
+added: 0  
+modified: 3  
+removed: 3  
+message: fix ref error
+
+### 2023-09-15 07:28:58 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-15 07:28:58 UTC  
+utime: 1694762938  
+added: 0  
+modified: 1  
+removed: 1  
+message: add skip line to git ignore
+
+### 2023-09-15 07:22:12 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-15 07:22:12 UTC  
+utime: 1694762532  
+added: 0  
+modified: 1  
+removed: 1  
+message: add skip line to git ignore
+
+### 2023-09-15 07:20:47 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-15 07:20:47 UTC  
+utime: 1694762447  
+added: 3  
+modified: 14  
+removed: 1  
+message: change twitter mechanism and some fixes
+
+### 2023-09-14 05:30:54 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-14 05:30:54 UTC  
+utime: 1694669454  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix get100 btn
+
+### 2023-09-14 01:30:46 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-14 01:30:46 UTC  
+utime: 1694655046  
+added: 0  
+modified: 1  
+removed: 1  
+message: change rpc
+
+### 2023-09-13 19:03:56 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 19:03:56 UTC  
+utime: 1694631836  
+added: 0  
+modified: 1  
+removed: 1  
+message: reload off
+
+### 2023-09-13 19:00:08 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 19:00:08 UTC  
+utime: 1694631608  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix wrong js functions
+
+### 2023-09-13 18:43:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 18:43:06 UTC  
+utime: 1694630586  
+added: 0  
+modified: 1  
+removed: 1  
+message: change tag to for mobile version
+
+### 2023-09-13 18:37:59 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 18:37:59 UTC  
+utime: 1694630279  
+added: 0  
+modified: 1  
+removed: 1  
+message: change tag to for mobile version
+
+### 2023-09-13 15:27:04 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 15:27:04 UTC  
+utime: 1694618824  
+added: 0  
+modified: 1  
+removed: 1  
+message: some fix
+
+### 2023-09-13 15:25:53 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 15:25:53 UTC  
+utime: 1694618753  
+added: 0  
+modified: 3  
+removed: 3  
+message: some fix
+
+### 2023-09-13 15:16:30 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 15:16:30 UTC  
+utime: 1694618190  
+added: 0  
+modified: 2  
+removed: 2  
+message: add temporary reload page if wallet change
+
+### 2023-09-13 14:57:40 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 14:57:40 UTC  
+utime: 1694617060  
+added: 0  
+modified: 1  
+removed: 1  
+message: add changelog
+
+### 2023-09-13 14:55:27 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-13 14:55:27 UTC  
+utime: 1694616927  
+added: 15  
+modified: 12  
+removed: 5  
+message: add get100
+
+### 2023-09-12 09:18:51 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-12 09:18:51 UTC  
+utime: 1694510331  
+added: 0  
+modified: 1  
+removed: 1  
+message: update stat
+
+### 2023-09-11 19:23:34 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-11 19:23:34 UTC  
+utime: 1694460214  
+added: 1  
+modified: 1  
+removed: 1  
+message: upd mm
+
+### 2023-09-11 06:43:42 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-11 06:43:42 UTC  
+utime: 1694414622  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix cost in arb nove
+
+### 2023-09-09 07:29:11 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-09 07:29:11 UTC  
+utime: 1694244551  
+added: 0  
+modified: 1  
+removed: 1  
+message: change tg link
+
+### 2023-09-08 21:29:54 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-08 21:29:54 UTC  
+utime: 1694208594  
+added: 0  
+modified: 1  
+removed: 1  
+message: skip debug for email in prod
+
+### 2023-09-08 21:27:40 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-08 21:27:40 UTC  
+utime: 1694208460  
+added: 0  
+modified: 1  
+removed: 1  
+message: skip debug for email in prod
+
+### 2023-09-08 21:15:46 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-08 21:15:46 UTC  
+utime: 1694207746  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix web_log name
+
+### 2023-09-08 21:09:47 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-08 21:09:47 UTC  
+utime: 1694207387  
+added: 5  
+modified: 2  
+removed: 2  
+message: add ref alpha
+
+### 2023-09-08 14:36:55 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-08 14:36:55 UTC  
+utime: 1694183815  
+added: 30  
+modified: 20  
+removed: 33  
+message: sync
+
+### 2023-09-04 18:59:13 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-04 18:59:13 UTC  
+utime: 1693853953  
+added: 0  
+modified: 1  
+removed: 1  
+message: remove hot
+
+### 2023-09-04 18:58:51 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-04 18:58:51 UTC  
+utime: 1693853931  
+added: 1  
+modified: 1  
+removed: 1  
+message: remove hot
+
+### 2023-09-04 18:51:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-04 18:51:06 UTC  
+utime: 1693853466  
+added: 2  
+modified: 5  
+removed: 1  
+message: add recomendation
+
+### 2023-09-04 09:37:52 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-04 09:37:52 UTC  
+utime: 1693820272  
+added: 0  
+modified: 3  
+removed: 3  
+message: off y metrika
+
+### 2023-09-04 09:22:32 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-04 09:22:32 UTC  
+utime: 1693819352  
+added: 1  
+modified: 2  
+removed: 2  
+message: change arr to obj
+
+### 2023-09-03 09:18:56 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-03 09:18:56 UTC  
+utime: 1693732736  
+added: 0  
+modified: 2  
+removed: 2  
+message: some fixes for GA
+
+### 2023-09-03 08:59:06 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-03 08:59:06 UTC  
+utime: 1693731546  
+added: 0  
+modified: 2  
+removed: 2  
+message: some fixes for GA
+
+### 2023-09-03 08:58:09 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-03 08:58:09 UTC  
+utime: 1693731489  
+added: 0  
+modified: 1  
+removed: 1  
+message: some fixes for GA
+
+### 2023-09-03 08:54:48 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-03 08:54:48 UTC  
+utime: 1693731288  
+added: 0  
+modified: 2  
+removed: 2  
+message: some fixes for GA
+
+### 2023-09-03 08:43:16 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-03 08:43:16 UTC  
+utime: 1693730596  
+added: 0  
+modified: 1  
+removed: 1  
+message: add GA event push
+
+### 2023-09-03 08:41:15 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-03 08:41:15 UTC  
+utime: 1693730475  
+added: 1  
+modified: 1  
+removed: 1  
+message: add GA event push
+
+### 2023-09-03 08:16:51 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-03 08:16:51 UTC  
+utime: 1693729011  
+added: 0  
+modified: 1  
+removed: 1  
+message: add domen to prod
+
+### 2023-09-02 10:32:12 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-02 10:32:12 UTC  
+utime: 1693650732  
+added: 2  
+modified: 1  
+removed: 2  
+message: change l0 tarif cost
+
+### 2023-09-01 21:47:36 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 21:47:36 UTC  
+utime: 1693604856  
+added: 0  
+modified: 2  
+removed: 2  
+message: check prod
+
+### 2023-09-01 20:38:54 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 20:38:54 UTC  
+utime: 1693600734  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix arbnova
+
+### 2023-09-01 20:33:04 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 20:33:04 UTC  
+utime: 1693600384  
+added: 0  
+modified: 1  
+removed: 1  
+message: change stat url
+
+### 2023-09-01 20:17:31 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 20:17:31 UTC  
+utime: 1693599451  
+added: 3  
+modified: 5  
+removed: 1  
+message: fix arbnova airdrop
+
+### 2023-09-01 17:57:04 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 17:57:04 UTC  
+utime: 1693591024  
+added: 0  
+modified: 4  
+removed: 4  
+message: fix support message send
+
+### 2023-09-01 15:18:25 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 15:18:25 UTC  
+utime: 1693581505  
+added: 0  
+modified: 1  
+removed: 1  
+message: upd default amount of deposit
+
+### 2023-09-01 15:15:58 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 15:15:58 UTC  
+utime: 1693581358  
+added: 0  
+modified: 1  
+removed: 1  
+message: upd deposit amounts
+
+### 2023-09-01 15:00:29 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 15:00:29 UTC  
+utime: 1693580429  
+added: 0  
+modified: 1  
+removed: 1  
+message: add ico
+
+### 2023-09-01 14:55:43 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 14:55:43 UTC  
+utime: 1693580143  
+added: 2  
+modified: 2  
+removed: 2  
+message: add google analitics
+
+### 2023-09-01 13:26:29 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-09-01 13:26:29 UTC  
+utime: 1693574789  
+added: 38  
+modified: 20  
+removed: 28  
+message: V2
+
+### 2023-08-30 16:41:20 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-08-30 16:41:20 UTC  
+utime: 1693413680  
+added: 14  
+modified: 12  
+removed: 2  
+message: pre alpha wc2
+
+### 2023-08-30 12:26:11 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-08-30 12:26:11 UTC  
+utime: 1693398371  
+added: 3  
+modified: 6  
+removed: 6  
+message: Work on v2
+
+### 2023-08-30 08:26:59 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-08-30 08:26:59 UTC  
+utime: 1693384019  
+added: 0  
+modified: 1  
+removed: 1  
+message: Work on v2
+
+### 2023-08-30 08:25:36 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-08-30 08:25:36 UTC  
+utime: 1693383936  
+added: 0  
+modified: 11  
+removed: 11  
+message: Work on v2
+
+### 2023-08-29 10:27:32 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-08-29 10:27:32 UTC  
+utime: 1693304852  
+added: 1  
+modified: 1  
+removed: 0  
+message: add .gitignore
+
+### 2023-08-29 10:24:41 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-29 10:24:41 UTC  
+utime: 1693304681  
+added: 2  
+modified: 5  
+removed: 5  
+message: Work on get 100
+
+### 2023-08-29 06:42:47 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-29 06:42:47 UTC  
+utime: 1693291367  
+added: 1  
+modified: 7  
+removed: 7  
+message: Work on get 100
+
+### 2023-08-27 13:04:54 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-27 13:04:54 UTC  
+utime: 1693141494  
+added: 9  
+modified: 3  
+removed: 3  
+message: Work on get 100
+
+### 2023-08-24 12:47:16 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-24 12:47:16 UTC  
+utime: 1692881236  
+added: 0  
+modified: 10  
+removed: 10  
+message: Layout update
+
+### 2023-08-23 12:36:19 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-23 12:36:19 UTC  
+utime: 1692794179  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix
+
+### 2023-08-18 22:11:09 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-18 22:11:09 UTC  
+utime: 1692396669  
+added: 10  
+modified: 21  
+removed: 3  
+message: add arbitrum nova airdrop
+
+### 2023-08-18 12:33:44 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-18 12:33:44 UTC  
+utime: 1692362024  
+added: 0  
+modified: 1  
+removed: 1  
+message: Connect to wc in mobile phone
+
+### 2023-08-17 20:07:02 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-17 20:07:02 UTC  
+utime: 1692302822  
+added: 1  
+modified: 2  
+removed: 2  
+message: modify top-tabs
+
+### 2023-08-17 17:07:19 UTC
+name: www-app-v02  
+commiter: kirillkuzin  
+time: 2023-08-17 17:07:19 UTC  
+utime: 1692292039  
+added: 1  
+modified: 5  
+removed: 12  
+message: upd
+
+### 2023-08-17 15:39:41 UTC
+name: www-app-v02  
+commiter: ah_dev  
+time: 2023-08-17 15:39:41 UTC  
+utime: 1692286781  
+added: 1  
+modified: 6  
+removed: 11  
+message: sync
+
+### 2023-08-16 23:01:50 UTC
+name: www-app-v02  
+commiter: ah_dev  
+time: 2023-08-16 23:01:50 UTC  
+utime: 1692226910  
+added: 676  
+modified: 676  
+removed: 0  
+message: init v02
+
