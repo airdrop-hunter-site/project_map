@@ -1,3 +1,14 @@
+### 2023-11-03 11:31:33 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-03 11:31:33 UTC  
+utime: 1699011093  
+added: 1  
+modified: 2  
+removed: 2  
+message: - finish eywa best bridge cube
+- add eywa approve cube for find the max balance token
+
 ### 2023-11-03 05:16:17 UTC
 name: cubes  
 commiter: 0xZonaV  
