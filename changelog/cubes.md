@@ -1,3 +1,14 @@
+### 2023-11-03 05:12:51 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-03 05:12:51 UTC  
+utime: 1698988371  
+added: 0  
+modified: 5  
+removed: 5  
+message: - add manual sending tx for debugging with private key from .env
+- add new flag -sendManual
+
 ### 2023-11-03 04:53:14 UTC
 name: cubes  
 commiter: 0xZonaV  
