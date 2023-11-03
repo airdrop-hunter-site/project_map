@@ -1,3 +1,13 @@
+### 2023-11-03 04:53:14 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-03 04:53:14 UTC  
+utime: 1698987194  
+added: 0  
+modified: 1  
+removed: 1  
+message: - remove stargate pool id from usdc on polygon
+
 ### 2023-11-02 10:46:49 UTC
 name: cubes  
 commiter: 0xZonaV  
