@@ -1,3 +1,16 @@
+### 2023-11-04 02:07:55 UTC
+name: noevm  
+commiter: chokomar  
+time: 2023-11-04 02:07:55 UTC  
+utime: 1699063675  
+added: 45  
+modified: 49  
+removed: 52  
+message: Refactoring in progress:
+- changed structure (common parts are organized in separate modules and moved into utils folder)
+- revised html templates for reusability
+- adjusted the automatic upload of scripts based on the description for each app (drop)
+
 ### 2023-10-31 23:38:23 UTC
 name: noevm  
 commiter: chokomar  
