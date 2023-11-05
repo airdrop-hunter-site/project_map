@@ -1,3 +1,14 @@
+### 2023-11-05 13:39:10 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-05 13:39:10 UTC  
+utime: 1699191550  
+added: 1  
+modified: 1  
+removed: 1  
+message: - add owlto finance bytecode
+- remove abi from deployContract.js
+
 ### 2023-11-04 05:34:39 UTC
 name: cubes  
 commiter: 0xZonaV  
