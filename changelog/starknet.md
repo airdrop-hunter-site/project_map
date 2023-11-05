@@ -1,3 +1,14 @@
+### 2023-11-05 13:51:06 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2023-11-05 13:51:06 UTC  
+utime: 1699192266  
+added: 0  
+modified: 2  
+removed: 2  
+message: - fix action.js
+- edit percent to bridge from starknet
+
 ### 2023-09-18 14:39:57 UTC
 name: starknet  
 commiter: 0xZonaV  
