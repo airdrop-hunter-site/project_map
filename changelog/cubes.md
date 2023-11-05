@@ -1,3 +1,13 @@
+### 2023-11-05 16:06:25 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-05 16:06:25 UTC  
+utime: 1699200385  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix addToTable.js trowing not handling error
+
 ### 2023-11-05 13:39:10 UTC
 name: cubes  
 commiter: 0xZonaV  
