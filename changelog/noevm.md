@@ -1,3 +1,15 @@
+### 2023-11-07 14:20:40 UTC
+name: noevm  
+commiter: chokomar  
+time: 2023-11-07 14:20:40 UTC  
+utime: 1699366840  
+added: 1  
+modified: 26  
+removed: 5  
+message: - updated set of scripts for Debank and Venom
+- revised deployment/db schema updates
+- adding script manager table in progress
+
 ### 2023-11-05 01:27:05 UTC
 name: noevm  
 commiter: chokomar  
