@@ -1,3 +1,13 @@
+### 2023-11-07 13:08:42 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-07 13:08:42 UTC  
+utime: 1699362522  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add ticks flag to decodeTable.js
+
 ### 2023-11-07 11:44:47 UTC
 name: cubes  
 commiter: 0xZonaV  
