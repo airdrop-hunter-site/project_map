@@ -1,3 +1,17 @@
+### 2023-11-07 11:12:34 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-07 11:12:34 UTC  
+utime: 1699355554  
+added: 0  
+modified: 14  
+removed: 14  
+message: - remake ethereum warm up generator
+- fix uniswap V3 adding liquidity
+- add waitSec, waitRand into lido, compound, ens
+- fix error not handling when working with mysql
+- fix getAmountToSwap function
+
 ### 2023-11-05 16:32:44 UTC
 name: cubes  
 commiter: 0xZonaV  
