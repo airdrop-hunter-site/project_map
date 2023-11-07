@@ -1,3 +1,13 @@
+### 2023-11-07 13:09:52 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-07 13:09:52 UTC  
+utime: 1699362592  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update decodeTable.js for warm_up ethereum
+
 ### 2023-11-07 13:08:42 UTC
 name: cubes  
 commiter: 0xZonaV  
