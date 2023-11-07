@@ -1,3 +1,13 @@
+### 2023-11-07 04:06:09 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2023-11-07 04:06:09 UTC  
+utime: 1699329969  
+added: 0  
+modified: 18  
+removed: 18  
+message: - fix problem with starknet (Execution was reverted; failure reason: [0x496e70757420746f6f2073686f727420666f7220617267756d656e7473].)
+
 ### 2023-11-05 13:54:10 UTC
 name: starknet  
 commiter: 0xZonaV  
