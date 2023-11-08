@@ -1,3 +1,13 @@
+### 2023-11-08 09:47:49 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2023-11-08 09:47:49 UTC  
+utime: 1699436869  
+added: 0  
+modified: 6  
+removed: 6  
+message: - fix res straknet error
+
 ### 2023-11-08 09:39:54 UTC
 name: starknet  
 commiter: 0xZonaV  
