@@ -1,3 +1,13 @@
+### 2023-11-08 12:30:14 UTC
+name: airdrop_checker  
+commiter: 0xZonaV  
+time: 2023-11-08 12:30:14 UTC  
+utime: 1699446614  
+added: 2  
+modified: 3  
+removed: 3  
+message: Add moonsDust checker
+
 ### 2023-11-06 05:41:59 UTC
 name: airdrop_checker  
 commiter: 0xZonaV  
