@@ -1,3 +1,16 @@
+### 2023-11-08 17:23:28 UTC
+name: www-dev-37  
+commiter: Giver225  
+time: 2023-11-08 17:23:28 UTC  
+utime: 1699464208  
+added: 1  
+modified: 13  
+removed: 13  
+message: 1. fix footer
+2. add github logo
+3. change hovers
+4. fix iphone bugs
+
 ### 2023-11-06 01:36:28 UTC
 name: www-dev-37  
 commiter: Giver225  
