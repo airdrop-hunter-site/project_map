@@ -1,3 +1,14 @@
+### 2023-11-08 06:41:00 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-08 06:41:00 UTC  
+utime: 1699425660  
+added: 0  
+modified: 2  
+removed: 2  
+message: - update decode for warm_up_eth
+- fix generator for warm_up_polygon
+
 ### 2023-11-08 06:11:09 UTC
 name: cubes  
 commiter: 0xZonaV  
