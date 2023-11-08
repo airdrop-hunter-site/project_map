@@ -1,3 +1,13 @@
+### 2023-11-08 14:47:13 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-11-08 14:47:13 UTC  
+utime: 1699454833  
+added: 0  
+modified: 6  
+removed: 6  
+message: changed modal appearance after clicking "Read more" at the card
+
 ### 2023-11-08 04:20:31 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
