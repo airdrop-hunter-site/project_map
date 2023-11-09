@@ -1,3 +1,13 @@
+### 2023-11-09 05:57:57 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-09 05:57:57 UTC  
+utime: 1699509477  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix compound allow
+
 ### 2023-11-08 06:41:00 UTC
 name: cubes  
 commiter: 0xZonaV  
