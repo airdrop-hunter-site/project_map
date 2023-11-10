@@ -1,3 +1,13 @@
+### 2023-11-10 12:13:42 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-10 12:13:42 UTC  
+utime: 1699618422  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add 0 slippage in eywa for test
+
 ### 2023-11-10 11:41:51 UTC
 name: cubes  
 commiter: 0xZonaV  
