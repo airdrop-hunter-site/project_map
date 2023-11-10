@@ -1,3 +1,13 @@
+### 2023-11-10 07:21:44 UTC
+name: tg_bot  
+commiter: airdrop-hunter.site  
+time: 2023-11-10 07:21:44 UTC  
+utime: 1699600904  
+added: 1  
+modified: 1  
+removed: 1  
+message: New bulk messages script
+
 ### 2023-10-26 13:24:23 UTC
 name: tg_bot  
 commiter: airdrop-hunter.site  
