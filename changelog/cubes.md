@@ -1,3 +1,13 @@
+### 2023-11-10 11:41:51 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-10 11:41:51 UTC  
+utime: 1699616511  
+added: 0  
+modified: 1  
+removed: 1  
+message: - remove slippage 0 for eywa
+
 ### 2023-11-10 11:30:24 UTC
 name: cubes  
 commiter: 0xZonaV  
