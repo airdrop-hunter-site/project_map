@@ -1,3 +1,13 @@
+### 2023-11-12 12:52:20 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-12 12:52:20 UTC  
+utime: 1699793540  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add name to nfts minted on nfts2me
+
 ### 2023-11-10 12:13:42 UTC
 name: cubes  
 commiter: 0xZonaV  
