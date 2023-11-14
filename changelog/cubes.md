@@ -1,3 +1,18 @@
+### 2023-11-14 10:48:51 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-14 10:48:51 UTC  
+utime: 1699958931  
+added: 15  
+modified: 4  
+removed: 4  
+message: Starknet:
+- add myswap swap, add liquidity, remove liquidity
+- add avnu swap
+
+Other:
+- add all contracts used by Airdrop Hunter (Contracts.md)
+
 ### 2023-11-13 12:29:34 UTC
 name: cubes  
 commiter: 0xZonaV  
