@@ -1,3 +1,14 @@
+### 2023-11-15 02:58:42 UTC
+name: noevm  
+commiter: chokomar  
+time: 2023-11-15 02:58:42 UTC  
+utime: 1700017122  
+added: 0  
+modified: 13  
+removed: 1  
+message: - removed page with recent changes in scripts (wss)
+- added linking between each script for each user with the latest log in order to display directly in the script manager page
+
 ### 2023-11-11 01:40:35 UTC
 name: noevm  
 commiter: chokomar  
