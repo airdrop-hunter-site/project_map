@@ -1,3 +1,18 @@
+### 2023-11-15 11:45:50 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-15 11:45:50 UTC  
+utime: 1700048750  
+added: 0  
+modified: 4  
+removed: 4  
+message: Uniswap:
+- debugging lp
+
+Template generator:
+- fix warm_up polygon generator
+- fix warm_up eth generator
+
 ### 2023-11-15 11:26:37 UTC
 name: cubes  
 commiter: 0xZonaV  
