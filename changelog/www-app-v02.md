@@ -1,3 +1,13 @@
+### 2023-11-15 13:15:32 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-11-15 13:15:32 UTC  
+utime: 1700054132  
+added: 0  
+modified: 16  
+removed: 16  
+message: made buyTariffModal responsive and updated prices for StarkNet
+
 ### 2023-11-15 07:27:35 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
