@@ -1,3 +1,20 @@
+### 2023-11-15 11:21:59 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-15 11:21:59 UTC  
+utime: 1700047319  
+added: 0  
+modified: 3  
+removed: 3  
+message: Compound:
+- remove debug log
+
+Aave:
+- fixing borrowing
+
+Table:
+- fix query to table when inserting signature
+
 ### 2023-11-15 10:09:14 UTC
 name: cubes  
 commiter: 0xZonaV  
