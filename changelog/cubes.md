@@ -1,3 +1,17 @@
+### 2023-11-15 12:36:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-15 12:36:46 UTC  
+utime: 1700051806  
+added: 0  
+modified: 5  
+removed: 5  
+message: Eywa:
+- update eywa fix emergency to update table not to insert after sign
+
+Uniswap:
+- remove debugging logs
+
 ### 2023-11-15 12:11:28 UTC
 name: cubes  
 commiter: 0xZonaV  
