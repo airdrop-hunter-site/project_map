@@ -1,3 +1,13 @@
+### 2023-11-15 22:25:58 UTC
+name: noevm  
+commiter: chokomar  
+time: 2023-11-15 22:25:58 UTC  
+utime: 1700087158  
+added: 0  
+modified: 3  
+removed: 3  
+message: - updated UI for linking between each script for each user with the latest log in order to display directly in the script manager page
+
 ### 2023-11-15 02:58:42 UTC
 name: noevm  
 commiter: chokomar  
