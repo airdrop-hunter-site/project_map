@@ -1,3 +1,15 @@
+### 2023-11-15 15:28:23 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-15 15:28:23 UTC  
+utime: 1700062103  
+added: 0  
+modified: 2  
+removed: 2  
+message: Eywa:
+- fix eywaBestBridge.js
+- add getting srcChain for eywa approve
+
 ### 2023-11-15 15:24:58 UTC
 name: cubes  
 commiter: 0xZonaV  
