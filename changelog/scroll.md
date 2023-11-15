@@ -1,3 +1,16 @@
+### 2023-11-15 06:32:41 UTC
+name: scroll  
+commiter: 0xZonaV  
+time: 2023-11-15 06:32:41 UTC  
+utime: 1700029961  
+added: 2  
+modified: 1  
+removed: 1  
+message: add 3 new steps:
+bridge via streamer to scroll goerli
+bridge via streamer to scroll sepolia
+bridge via streamer to scroll mainnet
+
 ### 2023-11-10 04:39:26 UTC
 name: scroll  
 commiter: 0xZonaV  
