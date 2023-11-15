@@ -1,3 +1,13 @@
+### 2023-11-15 12:19:41 UTC
+name: scroll  
+commiter: 0xZonaV  
+time: 2023-11-15 12:19:41 UTC  
+utime: 1700050781  
+added: 0  
+modified: 1  
+removed: 1  
+message: remove step bridge to scroll goerli via orbiter
+
 ### 2023-11-15 06:32:41 UTC
 name: scroll  
 commiter: 0xZonaV  
