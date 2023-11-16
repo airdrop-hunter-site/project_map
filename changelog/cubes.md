@@ -1,3 +1,17 @@
+### 2023-11-16 06:14:26 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 06:14:26 UTC  
+utime: 1700115266  
+added: 0  
+modified: 2  
+removed: 2  
+message: Decode table:
+- fix percent decode
+
+Send Tx:
+- add log when debug is true
+
 ### 2023-11-15 16:29:21 UTC
 name: cubes  
 commiter: 0xZonaV  
