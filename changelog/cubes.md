@@ -1,3 +1,18 @@
+### 2023-11-16 12:20:48 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 12:20:48 UTC  
+utime: 1700137248  
+added: 2  
+modified: 5  
+removed: 5  
+message: Starknet:
+   zkLend:
+      -add supply
+
+   Ekubo:
+    - fix getting class hash
+
 ### 2023-11-16 12:06:31 UTC
 name: cubes  
 commiter: 0xZonaV  
