@@ -1,3 +1,14 @@
+### 2023-11-16 07:30:02 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 07:30:02 UTC  
+utime: 1700119802  
+added: 0  
+modified: 1  
+removed: 1  
+message: ENS:
+- fix resolver address
+
 ### 2023-11-16 07:24:22 UTC
 name: cubes  
 commiter: 0xZonaV  
