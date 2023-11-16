@@ -1,3 +1,17 @@
+### 2023-11-16 08:15:23 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 08:15:23 UTC  
+utime: 1700122523  
+added: 0  
+modified: 2  
+removed: 2  
+message: Pancake:
+- add dai to wizard
+
+Template generator:
+- fix percents for eth warm_up
+
 ### 2023-11-16 08:09:29 UTC
 name: cubes  
 commiter: 0xZonaV  
