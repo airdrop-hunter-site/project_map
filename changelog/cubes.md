@@ -1,3 +1,14 @@
+### 2023-11-16 12:31:12 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 12:31:12 UTC  
+utime: 1700137872  
+added: 2  
+modified: 2  
+removed: 2  
+message: Starknet:
+   - add mint stark stars
+
 ### 2023-11-16 12:20:48 UTC
 name: cubes  
 commiter: 0xZonaV  
