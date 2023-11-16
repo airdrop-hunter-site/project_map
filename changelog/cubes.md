@@ -1,3 +1,14 @@
+### 2023-11-16 07:24:22 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 07:24:22 UTC  
+utime: 1700119462  
+added: 0  
+modified: 2  
+removed: 2  
+message: ENS:
+- add goerli address
+
 ### 2023-11-16 07:21:43 UTC
 name: cubes  
 commiter: 0xZonaV  
