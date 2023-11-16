@@ -1,3 +1,17 @@
+### 2023-11-16 07:21:43 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 07:21:43 UTC  
+utime: 1700119303  
+added: 0  
+modified: 3  
+removed: 3  
+message: Send tx:
+- fix max priority fee for eth mainnet
+
+ENS:
+- add goerli address
+
 ### 2023-11-16 06:51:09 UTC
 name: cubes  
 commiter: 0xZonaV  
