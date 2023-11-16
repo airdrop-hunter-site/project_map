@@ -1,3 +1,14 @@
+### 2023-11-16 13:42:57 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-16 13:42:57 UTC  
+utime: 1700142177  
+added: 0  
+modified: 2  
+removed: 2  
+message: Holograph:
+ - fix polygon mint reverted
+
 ### 2023-11-16 12:31:12 UTC
 name: cubes  
 commiter: 0xZonaV  
