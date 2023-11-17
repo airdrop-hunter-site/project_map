@@ -1,3 +1,13 @@
+### 2023-11-17 12:03:37 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2023-11-17 12:03:37 UTC  
+utime: 1700222617  
+added: 0  
+modified: 1  
+removed: 1  
+message: add gide debug key
+
 ### 2023-11-17 12:00:39 UTC
 name: api-cube  
 commiter: liksagen.com  
