@@ -1,3 +1,13 @@
+### 2023-11-17 16:54:27 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-11-17 16:54:27 UTC  
+utime: 1700240067  
+added: 0  
+modified: 1  
+removed: 1  
+message: add detail link
+
 ### 2023-11-17 16:33:46 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
