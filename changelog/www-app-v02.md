@@ -1,3 +1,13 @@
+### 2023-11-17 14:09:11 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-11-17 14:09:11 UTC  
+utime: 1700230151  
+added: 0  
+modified: 2  
+removed: 13  
+message: add eywa detail info
+
 ### 2023-11-17 14:05:12 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
