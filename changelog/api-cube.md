@@ -1,3 +1,13 @@
+### 2023-11-17 11:59:52 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2023-11-17 11:59:52 UTC  
+utime: 1700222392  
+added: 2  
+modified: 2  
+removed: 0  
+message: add eywa get synt balance
+
 ### 2023-11-16 16:34:58 UTC
 name: api-cube  
 commiter: liksagen.com  
