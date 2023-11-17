@@ -1,3 +1,13 @@
+### 2023-11-17 07:30:14 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2023-11-17 07:30:14 UTC  
+utime: 1700206214  
+added: 0  
+modified: 2  
+removed: 2  
+message: - fix argent x account address calculating
+
 ### 2023-11-17 07:20:18 UTC
 name: starknet  
 commiter: 0xZonaV  
