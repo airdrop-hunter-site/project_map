@@ -1,3 +1,13 @@
+### 2023-11-18 11:46:36 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-11-18 11:46:36 UTC  
+utime: 1700307996  
+added: 0  
+modified: 2  
+removed: 2  
+message: deleted accessory link in the description of the 1st news and removed fire from venom
+
 ### 2023-11-17 16:54:27 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
