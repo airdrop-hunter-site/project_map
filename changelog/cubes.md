@@ -1,3 +1,14 @@
+### 2023-11-19 09:57:45 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-19 09:57:45 UTC  
+utime: 1700387865  
+added: 0  
+modified: 1  
+removed: 1  
+message: Starknet:
+ - update maxPriorityFeePerGas in eth mainnet
+
 ### 2023-11-19 09:21:37 UTC
 name: cubes  
 commiter: 0xZonaV  
