@@ -1,3 +1,14 @@
+### 2023-11-19 09:21:37 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-19 09:21:37 UTC  
+utime: 1700385697  
+added: 0  
+modified: 1  
+removed: 1  
+message: Starknet:
+ - delete logs from bridge
+
 ### 2023-11-19 09:20:30 UTC
 name: cubes  
 commiter: 0xZonaV  
