@@ -1,3 +1,16 @@
+### 2023-11-19 09:10:04 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-19 09:10:04 UTC  
+utime: 1700385004  
+added: 1  
+modified: 8  
+removed: 8  
+message: Starknet:
+ - add bridge to starknet
+
+ - some updates starknet cubes
+
 ### 2023-11-17 15:02:46 UTC
 name: cubes  
 commiter: 0xZonaV  
