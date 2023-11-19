@@ -1,3 +1,14 @@
+### 2023-11-19 09:20:30 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-19 09:20:30 UTC  
+utime: 1700385630  
+added: 0  
+modified: 17  
+removed: 17  
+message: Starknet:
+ - update get starknet account function
+
 ### 2023-11-19 09:10:04 UTC
 name: cubes  
 commiter: 0xZonaV  
