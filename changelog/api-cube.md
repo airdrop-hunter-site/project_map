@@ -1,3 +1,13 @@
+### 2023-11-20 17:02:39 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2023-11-20 17:02:39 UTC  
+utime: 1700499759  
+added: 5  
+modified: 6  
+removed: 6  
+message: add example for post and get
+
 ### 2023-11-20 16:38:16 UTC
 name: api-cube  
 commiter: liksagen.com  
