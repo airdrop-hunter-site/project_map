@@ -1,3 +1,22 @@
+### 2023-11-20 07:42:27 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-20 07:42:27 UTC  
+utime: 1700466147  
+added: 4  
+modified: 2  
+removed: 2  
+message: EYWA:
+- add getting best route from cubes api
+
+Cubes:
+- add sending coin to other wallet
+
+- add sending token to other wallet
+
+Send Tx to table:
+- add check coin balance for less than 1$
+
 ### 2023-11-19 09:57:45 UTC
 name: cubes  
 commiter: 0xZonaV  
