@@ -1,3 +1,13 @@
+### 2023-11-20 07:50:27 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-11-20 07:50:27 UTC  
+utime: 1700466627  
+added: 0  
+modified: 2  
+removed: 2  
+message: Open trust wallet conn in the built-in browser
+
 ### 2023-11-20 04:43:53 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
