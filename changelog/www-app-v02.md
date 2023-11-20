@@ -1,3 +1,13 @@
+### 2023-11-20 15:36:33 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-11-20 15:36:33 UTC  
+utime: 1700494593  
+added: 0  
+modified: 4  
+removed: 4  
+message: changed starknet and eywa readmore description
+
 ### 2023-11-20 13:11:52 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
