@@ -1,3 +1,13 @@
+### 2023-11-20 12:37:49 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2023-11-20 12:37:49 UTC  
+utime: 1700483869  
+added: 0  
+modified: 1  
+removed: 1  
+message: Hide c98 on mobile devices
+
 ### 2023-11-20 07:50:27 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
