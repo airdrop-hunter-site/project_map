@@ -1,3 +1,13 @@
+### 2023-11-21 13:23:53 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2023-11-21 13:23:53 UTC  
+utime: 1700573033  
+added: 0  
+modified: 1  
+removed: 1  
+message: add new news link
+
 ### 2023-11-21 12:47:39 UTC
 name: www-app-v02  
 commiter: liksagen.com  
