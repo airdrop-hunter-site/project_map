@@ -1,3 +1,13 @@
+### 2023-11-21 12:47:39 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2023-11-21 12:47:39 UTC  
+utime: 1700570859  
+added: 1  
+modified: 1  
+removed: 0  
+message: add symlink for subdomain in item
+
 ### 2023-11-20 16:55:22 UTC
 name: www-app-v02  
 commiter: liksagen.com  
