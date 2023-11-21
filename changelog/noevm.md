@@ -1,3 +1,15 @@
+### 2023-11-21 00:50:36 UTC
+name: noevm  
+commiter: chokomar  
+time: 2023-11-21 00:50:36 UTC  
+utime: 1700527836  
+added: 1  
+modified: 12  
+removed: 12  
+message: - fixed bug with latest log in the script manager
+- added displaying latest script status row in the folded state for user rows in the script manager
+- added redis helper functions to check currently pending user script chains
+
 ### 2023-11-15 22:25:58 UTC
 name: noevm  
 commiter: chokomar  
