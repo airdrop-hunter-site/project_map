@@ -1,3 +1,13 @@
+### 2023-11-23 11:43:02 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2023-11-23 11:43:02 UTC  
+utime: 1700739782  
+added: 0  
+modified: 3  
+removed: 3  
+message: Add news link without translate
+
 ### 2023-11-22 14:54:16 UTC
 name: www-main-v02  
 commiter: airdrop-hunter.site  
