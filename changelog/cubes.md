@@ -1,3 +1,13 @@
+### 2023-11-24 10:25:22 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-24 10:25:22 UTC  
+utime: 1700821522  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix starknet bridge
+
 ### 2023-11-24 07:03:45 UTC
 name: cubes  
 commiter: 0xZonaV  
