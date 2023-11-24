@@ -1,3 +1,13 @@
+### 2023-11-24 23:06:59 UTC
+name: noevm-scripts  
+commiter: Alexandr Golikov  
+time: 2023-11-24 23:06:59 UTC  
+utime: 1700867219  
+added: 0  
+modified: 1  
+removed: 1  
+message: added setup project
+
 ### 2023-10-16 22:12:26 UTC
 name: noevm-scripts  
 commiter: chokomar  
