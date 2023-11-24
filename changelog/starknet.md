@@ -1,3 +1,13 @@
+### 2023-11-24 10:29:21 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2023-11-24 10:29:21 UTC  
+utime: 1700821761  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update percent to bridge out
+
 ### 2023-11-19 08:22:56 UTC
 name: starknet  
 commiter: 0xZonaV  
