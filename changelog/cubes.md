@@ -1,3 +1,15 @@
+### 2023-11-25 09:18:48 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-25 09:18:48 UTC  
+utime: 1700903928  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add amount, slippage flag
+
+- add token getting by address 1inch
+
 ### 2023-11-25 08:47:22 UTC
 name: cubes  
 commiter: 0xZonaV  
