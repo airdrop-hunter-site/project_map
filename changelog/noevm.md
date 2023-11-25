@@ -1,3 +1,13 @@
+### 2023-11-25 11:09:21 UTC
+name: noevm  
+commiter: linus_spacehead  
+time: 2023-11-25 11:09:21 UTC  
+utime: 1700910561  
+added: 2  
+modified: 5  
+removed: 2  
+message: updated gitignore; updated permissions for sh scripts and executables; updated nginx conf, static files' path and symlink
+
 ### 2023-11-24 18:39:02 UTC
 name: noevm  
 commiter: chokomar  
