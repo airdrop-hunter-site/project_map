@@ -1,3 +1,13 @@
+### 2023-11-26 10:25:17 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2023-11-26 10:25:17 UTC  
+utime: 1700994317  
+added: 0  
+modified: 1  
+removed: 1  
+message: add avax manual rate
+
 ### 2023-11-26 10:21:54 UTC
 name: api-cube  
 commiter: liksagen.com  
