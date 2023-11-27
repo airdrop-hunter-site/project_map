@@ -1,3 +1,13 @@
+### 2023-11-27 19:28:07 UTC
+name: noevm-scripts  
+commiter: Alexandr Golikov  
+time: 2023-11-27 19:28:07 UTC  
+utime: 1701113287  
+added: 29  
+modified: 29  
+removed: 0  
+message: Added noCaptchaAi extension
+
 ### 2023-11-27 19:12:16 UTC
 name: noevm-scripts  
 commiter: Alexandr Golikov  
