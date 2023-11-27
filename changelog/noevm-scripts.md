@@ -1,3 +1,13 @@
+### 2023-11-27 19:35:37 UTC
+name: noevm-scripts  
+commiter: Alexandr Golikov  
+time: 2023-11-27 19:35:37 UTC  
+utime: 1701113737  
+added: 1  
+modified: 1  
+removed: 0  
+message: Added show_add_to_chrome
+
 ### 2023-11-27 19:28:07 UTC
 name: noevm-scripts  
 commiter: Alexandr Golikov  
