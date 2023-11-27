@@ -1,3 +1,13 @@
+### 2023-11-27 19:47:51 UTC
+name: noevm-scripts  
+commiter: Alexandr Golikov  
+time: 2023-11-27 19:47:51 UTC  
+utime: 1701114471  
+added: 0  
+modified: 3  
+removed: 3  
+message: fix extension url
+
 ### 2023-11-27 19:35:37 UTC
 name: noevm-scripts  
 commiter: Alexandr Golikov  
