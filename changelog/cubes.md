@@ -1,3 +1,15 @@
+### 2023-11-27 06:27:36 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-27 06:27:36 UTC  
+utime: 1701066456  
+added: 1  
+modified: 2  
+removed: 2  
+message: - fix starknet when swal is object object
+
+- add fix file for starknet
+
 ### 2023-11-25 09:18:48 UTC
 name: cubes  
 commiter: 0xZonaV  
