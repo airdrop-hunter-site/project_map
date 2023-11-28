@@ -1,3 +1,13 @@
+### 2023-11-28 15:54:35 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2023-11-28 15:54:35 UTC  
+utime: 1701186875  
+added: 0  
+modified: 1  
+removed: 1  
+message: change tariff cost for starknet
+
 ### 2023-11-24 09:20:23 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
