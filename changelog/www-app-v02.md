@@ -1,3 +1,13 @@
+### 2023-11-29 12:50:27 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2023-11-29 12:50:27 UTC  
+utime: 1701262227  
+added: 0  
+modified: 1  
+removed: 1  
+message: open EYWA airdrop
+
 ### 2023-11-29 12:49:52 UTC
 name: www-app-v02  
 commiter: liksagen.com  
