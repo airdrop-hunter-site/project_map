@@ -1,3 +1,17 @@
+### 2023-11-29 14:02:10 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-29 14:02:10 UTC  
+utime: 1701266530  
+added: 5  
+modified: 103  
+removed: 103  
+message: - add retry 5 times if Server not respond in 3 sec
+
+- add mint and bridge l2marathon nft
+
+- add harmony bridge
+
 ### 2023-11-28 10:19:29 UTC
 name: cubes  
 commiter: 0xZonaV  
