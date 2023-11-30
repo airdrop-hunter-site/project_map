@@ -1,3 +1,13 @@
+### 2023-11-30 09:15:46 UTC
+name: noevm-scripts  
+commiter: Alexandr Golikov  
+time: 2023-11-30 09:15:46 UTC  
+utime: 1701335746  
+added: 0  
+modified: 9  
+removed: 9  
+message: Added opening of a new window with which the script works
+
 ### 2023-11-27 19:47:51 UTC
 name: noevm-scripts  
 commiter: Alexandr Golikov  
