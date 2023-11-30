@@ -1,3 +1,15 @@
+### 2023-11-30 14:04:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-30 14:04:46 UTC  
+utime: 1701353086  
+added: 2  
+modified: 2  
+removed: 2  
+message: - add brdige streamer
+
+- add log into get eywa best route
+
 ### 2023-11-30 11:57:48 UTC
 name: cubes  
 commiter: 0xZonaV  
