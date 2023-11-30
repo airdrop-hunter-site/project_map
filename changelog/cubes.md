@@ -1,3 +1,13 @@
+### 2023-11-30 15:20:07 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-30 15:20:07 UTC  
+utime: 1701357607  
+added: 1  
+modified: 1  
+removed: 1  
+message: - add eywa log best bridge
+
 ### 2023-11-30 14:50:51 UTC
 name: cubes  
 commiter: 0xZonaV  
