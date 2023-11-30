@@ -1,3 +1,13 @@
+### 2023-11-30 04:16:15 UTC
+name: airdrop_checker  
+commiter: 0xZonaV  
+time: 2023-11-30 04:16:15 UTC  
+utime: 1701317775  
+added: 1  
+modified: 1  
+removed: 1  
+message: Add zkSyncPepe checker
+
 ### 2023-11-08 12:30:14 UTC
 name: airdrop_checker  
 commiter: 0xZonaV  
