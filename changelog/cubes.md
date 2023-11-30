@@ -1,3 +1,19 @@
+### 2023-11-30 11:57:48 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-11-30 11:57:48 UTC  
+utime: 1701345468  
+added: 1  
+modified: 11  
+removed: 11  
+message: - add checkOnlyForDuplicates and checkOnlyForPreviousStep
+
+- add harmony bridge from harmony
+
+- fix pancake swap
+
+- add new chain harmony
+
 ### 2023-11-30 09:24:22 UTC
 name: cubes  
 commiter: 0xZonaV  
