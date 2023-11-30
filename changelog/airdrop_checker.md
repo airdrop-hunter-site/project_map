@@ -1,3 +1,13 @@
+### 2023-11-30 04:24:15 UTC
+name: airdrop_checker  
+commiter: 0xZonaV  
+time: 2023-11-30 04:24:15 UTC  
+utime: 1701318255  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix checkBatchOfWallets.js
+
 ### 2023-11-30 04:16:15 UTC
 name: airdrop_checker  
 commiter: 0xZonaV  
