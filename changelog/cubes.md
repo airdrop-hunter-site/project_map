@@ -1,3 +1,13 @@
+### 2023-12-01 14:59:44 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-01 14:59:44 UTC  
+utime: 1701442784  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update starknet max gas eth
+
 ### 2023-12-01 14:41:39 UTC
 name: cubes  
 commiter: 0xZonaV  
