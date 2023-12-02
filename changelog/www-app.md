@@ -1,3 +1,13 @@
+### 2023-12-02 19:53:27 UTC
+name: www-app  
+commiter: liksagen.com  
+time: 2023-12-02 19:53:27 UTC  
+utime: 1701546807  
+added: 6  
+modified: 6  
+removed: 0  
+message: add dpi info
+
 ### 2023-12-02 18:33:58 UTC
 name: www-app  
 commiter: liksagen.com  
