@@ -1,3 +1,13 @@
+### 2023-12-04 13:12:38 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-12-04 13:12:38 UTC  
+utime: 1701695558  
+added: 0  
+modified: 1  
+removed: 1  
+message: fixed deposit modal
+
 ### 2023-12-04 06:46:48 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
