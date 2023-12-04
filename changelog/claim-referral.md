@@ -1,3 +1,13 @@
+### 2023-12-04 07:08:31 UTC
+name: claim-referral  
+commiter: 0xZonaV  
+time: 2023-12-04 07:08:31 UTC  
+utime: 1701673711  
+added: 0  
+modified: 1  
+removed: 1  
+message: Remove registering nickname referral link
+
 ### 2023-11-07 09:22:20 UTC
 name: claim-referral  
 commiter: 0xZonaV  
