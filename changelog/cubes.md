@@ -1,3 +1,15 @@
+### 2023-12-04 07:03:38 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-04 07:03:38 UTC  
+utime: 1701673418  
+added: 0  
+modified: 4  
+removed: 4  
+message: - fix awaitTx
+
+- update starknet bridge to send to table for signing
+
 ### 2023-12-04 06:27:21 UTC
 name: cubes  
 commiter: 0xZonaV  
