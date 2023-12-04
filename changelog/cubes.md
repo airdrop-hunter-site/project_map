@@ -1,3 +1,17 @@
+### 2023-12-04 14:33:26 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-04 14:33:26 UTC  
+utime: 1701700406  
+added: 7  
+modified: 8  
+removed: 8  
+message: - add core dao bridge from/to
+
+- remove logs pancake swap
+
+- add send message zkBridge
+
 ### 2023-12-04 08:47:34 UTC
 name: cubes  
 commiter: 0xZonaV  
