@@ -1,3 +1,13 @@
+### 2023-12-04 06:27:21 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-04 06:27:21 UTC  
+utime: 1701671241  
+added: 1  
+modified: 2  
+removed: 2  
+message: - add starknet awaiting tx with try catch
+
 ### 2023-12-01 15:09:54 UTC
 name: cubes  
 commiter: 0xZonaV  
