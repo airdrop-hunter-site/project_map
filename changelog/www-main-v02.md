@@ -1,3 +1,17 @@
+### 2023-12-06 13:21:54 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2023-12-06 13:21:54 UTC  
+utime: 1701868914  
+added: 167  
+modified: 17  
+removed: 17  
+message: Big site update
+1. change blocks
+2. change footer like on news
+3. change header like on news
+4. start translate news
+
 ### 2023-11-29 07:29:54 UTC
 name: www-main-v02  
 commiter: airdrop-hunter.site  
