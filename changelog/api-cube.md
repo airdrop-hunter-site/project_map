@@ -1,3 +1,13 @@
+### 2023-12-06 12:31:52 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2023-12-06 12:31:52 UTC  
+utime: 1701865912  
+added: 0  
+modified: 1  
+removed: 1  
+message: add cors exeprions
+
 ### 2023-12-05 18:46:37 UTC
 name: api-cube  
 commiter: liksagen.com  
