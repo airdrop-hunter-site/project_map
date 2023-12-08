@@ -1,3 +1,13 @@
+### 2023-12-08 11:12:53 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-08 11:12:53 UTC  
+utime: 1702033973  
+added: 0  
+modified: 1  
+removed: 1  
+message: - debug fix starknet
+
 ### 2023-12-08 11:09:45 UTC
 name: cubes  
 commiter: 0xZonaV  
