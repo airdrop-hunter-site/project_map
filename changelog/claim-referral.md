@@ -1,3 +1,13 @@
+### 2023-12-08 12:45:31 UTC
+name: claim-referral  
+commiter: 0xZonaV  
+time: 2023-12-08 12:45:31 UTC  
+utime: 1702039531  
+added: 0  
+modified: 1  
+removed: 1  
+message: Remove check time before getching referrals
+
 ### 2023-12-04 07:08:31 UTC
 name: claim-referral  
 commiter: 0xZonaV  
