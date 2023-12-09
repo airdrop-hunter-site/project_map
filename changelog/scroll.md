@@ -1,3 +1,15 @@
+### 2023-12-09 00:30:56 UTC
+name: scroll  
+commiter: 0xZonaV  
+time: 2023-12-09 00:30:56 UTC  
+utime: 1702081856  
+added: 0  
+modified: 2  
+removed: 2  
+message: - fix bsc eip
+
+- update README.md
+
 ### 2023-12-07 07:04:16 UTC
 name: scroll  
 commiter: 0xZonaV  
