@@ -1,3 +1,13 @@
+### 2023-12-09 03:32:59 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-09 03:32:59 UTC  
+utime: 1702092779  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add sendCoinFull flag for streamer Bridge
+
 ### 2023-12-08 12:48:30 UTC
 name: cubes  
 commiter: 0xZonaV  
