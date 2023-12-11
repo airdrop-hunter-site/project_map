@@ -1,3 +1,13 @@
+### 2023-12-11 05:36:26 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-11 05:36:26 UTC  
+utime: 1702272986  
+added: 3  
+modified: 2  
+removed: 2  
+message: - add bridge usdv cube (not working, no liquidity)
+
 ### 2023-12-09 17:59:14 UTC
 name: cubes  
 commiter: 0xZonaV  
