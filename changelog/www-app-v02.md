@@ -1,3 +1,13 @@
+### 2023-12-13 13:57:14 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2023-12-13 13:57:14 UTC  
+utime: 1702475834  
+added: 0  
+modified: 2  
+removed: 2  
+message: fixed scroll to specific element after clicking of on icon in menu navigation
+
 ### 2023-12-12 14:40:36 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
