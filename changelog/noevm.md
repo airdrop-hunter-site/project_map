@@ -1,3 +1,13 @@
+### 2023-12-14 16:31:00 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2023-12-14 16:31:00 UTC  
+utime: 1702571460  
+added: 0  
+modified: 1  
+removed: 1  
+message: add function to encode and decode db values
+
 ### 2023-12-14 10:45:39 UTC
 name: noevm  
 commiter: Alexandr Golikov  
