@@ -1,3 +1,13 @@
+### 2023-12-14 10:45:39 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2023-12-14 10:45:39 UTC  
+utime: 1702550739  
+added: 2  
+modified: 2  
+removed: 0  
+message: add scripts for rainbow drop
+
 ### 2023-12-12 20:52:28 UTC
 name: noevm  
 commiter: Alexandr Golikov  
