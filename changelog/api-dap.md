@@ -1,3 +1,13 @@
+### 2023-12-14 17:08:45 UTC
+name: api-dap  
+commiter: liksagen.com  
+time: 2023-12-14 17:08:45 UTC  
+utime: 1702573725  
+added: 1  
+modified: 1  
+removed: 0  
+message: add error for not existsing stream hash
+
 ### 2023-09-13 23:23:24 UTC
 name: api-dap  
 commiter: liksagen.com  
