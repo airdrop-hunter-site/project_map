@@ -1,3 +1,13 @@
+### 2023-12-14 22:47:10 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2023-12-14 22:47:10 UTC  
+utime: 1702594030  
+added: 7  
+modified: 2  
+removed: 2  
+message: add scripts for rainbow wallet
+
 ### 2023-12-14 20:12:30 UTC
 name: noevm  
 commiter: Alexandr Golikov  
