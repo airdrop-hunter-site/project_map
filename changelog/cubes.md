@@ -1,3 +1,15 @@
+### 2023-12-15 08:00:33 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-15 08:00:33 UTC  
+utime: 1702627233  
+added: 2  
+modified: 6  
+removed: 6  
+message: - add mint scroll origins nft
+
+- start fixing eywa
+
 ### 2023-12-12 14:20:44 UTC
 name: cubes  
 commiter: 0xZonaV  
