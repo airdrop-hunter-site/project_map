@@ -1,3 +1,13 @@
+### 2023-12-18 14:54:01 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2023-12-18 14:54:01 UTC  
+utime: 1702911241  
+added: 6  
+modified: 6  
+removed: 0  
+message: add scripts for metamask and rabby extensions
+
 ### 2023-12-15 23:40:49 UTC
 name: noevm  
 commiter: Alexandr Golikov  
