@@ -1,3 +1,13 @@
+### 2023-12-19 00:02:06 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2023-12-19 00:02:06 UTC  
+utime: 1702944126  
+added: 0  
+modified: 6  
+removed: 6  
+message: fix modal on news
+
 ### 2023-12-14 15:37:19 UTC
 name: www-main-v02  
 commiter: airdrop-hunter.site  
