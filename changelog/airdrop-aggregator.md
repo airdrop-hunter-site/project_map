@@ -1,3 +1,13 @@
+### 2023-12-20 09:54:16 UTC
+name: airdrop-aggregator  
+commiter: 0xZonaV  
+time: 2023-12-20 09:54:16 UTC  
+utime: 1703066056  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix bridge to arb nova
+
 ### 2023-08-23 09:16:26 UTC
 name: airdrop-aggregator  
 commiter: 0xZonaV  
