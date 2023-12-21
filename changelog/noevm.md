@@ -1,3 +1,13 @@
+### 2023-12-21 21:23:32 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2023-12-21 21:23:32 UTC  
+utime: 1703193812  
+added: 1  
+modified: 1  
+removed: 1  
+message: add script for mint project nft
+
 ### 2023-12-20 19:55:56 UTC
 name: noevm  
 commiter: Alexandr Golikov  
