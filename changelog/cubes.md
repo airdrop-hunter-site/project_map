@@ -1,3 +1,13 @@
+### 2023-12-21 10:54:09 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-21 10:54:09 UTC  
+utime: 1703156049  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix endpoint error starknet
+
 ### 2023-12-19 11:38:11 UTC
 name: cubes  
 commiter: 0xZonaV  
