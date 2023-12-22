@@ -1,3 +1,13 @@
+### 2023-12-22 11:28:20 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2023-12-22 11:28:20 UTC  
+utime: 1703244500  
+added: 4  
+modified: 38  
+removed: 38  
+message: change promo and translate it
+
 ### 2023-12-19 20:07:18 UTC
 name: www-main-v02  
 commiter: airdrop-hunter.site  
