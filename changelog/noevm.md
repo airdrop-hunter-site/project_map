@@ -1,3 +1,13 @@
+### 2023-12-25 23:16:51 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2023-12-25 23:16:51 UTC  
+utime: 1703546211  
+added: 6  
+modified: 6  
+removed: 0  
+message: add scripts to manipulate with additional wallets in extensions
+
 ### 2023-12-22 20:09:41 UTC
 name: noevm  
 commiter: Alexandr Golikov  
