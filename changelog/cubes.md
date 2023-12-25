@@ -1,3 +1,19 @@
+### 2023-12-25 09:27:05 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2023-12-25 09:27:05 UTC  
+utime: 1703496425  
+added: 8  
+modified: 5  
+removed: 5  
+message: - update eywa to v1.5
+
+- add zebraSwap.js swap
+
+- add sushi swap add liq/ remoce liq
+
+- add ambient swap
+
 ### 2023-12-21 10:54:09 UTC
 name: cubes  
 commiter: 0xZonaV  
