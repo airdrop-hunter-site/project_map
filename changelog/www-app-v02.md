@@ -1,3 +1,13 @@
+### 2023-12-26 16:46:30 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2023-12-26 16:46:30 UTC  
+utime: 1703609190  
+added: 0  
+modified: 5  
+removed: 5  
+message: add swipe in instruction
+
 ### 2023-12-25 17:48:28 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
