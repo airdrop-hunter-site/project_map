@@ -1,3 +1,13 @@
+### 2023-12-26 10:12:03 UTC
+name: airdrop_checker  
+commiter: 0xZonaV  
+time: 2023-12-26 10:12:03 UTC  
+utime: 1703585523  
+added: 3  
+modified: 2  
+removed: 2  
+message: add zkRocket
+
 ### 2023-11-30 04:24:15 UTC
 name: airdrop_checker  
 commiter: 0xZonaV  
