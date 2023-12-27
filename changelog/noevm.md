@@ -1,3 +1,13 @@
+### 2023-12-27 07:56:30 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2023-12-27 07:56:30 UTC  
+utime: 1703663790  
+added: 3  
+modified: 3  
+removed: 0  
+message: add scripts for manipulating with metamask networks
+
 ### 2023-12-25 23:16:51 UTC
 name: noevm  
 commiter: Alexandr Golikov  
