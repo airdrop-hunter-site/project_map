@@ -1,3 +1,13 @@
+### 2023-12-29 08:48:56 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2023-12-29 08:48:56 UTC  
+utime: 1703839736  
+added: 19  
+modified: 11  
+removed: 3  
+message: update instruction scroll
+
 ### 2023-12-26 23:02:08 UTC
 name: www-app-v02  
 commiter: liksagen.com  
