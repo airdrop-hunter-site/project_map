@@ -1,3 +1,13 @@
+### 2024-01-02 22:06:32 UTC
+name: notevm_adminka_v02  
+commiter: mikhail.smagin  
+time: 2024-01-02 22:06:32 UTC  
+utime: 1704233192  
+added: 2  
+modified: 11  
+removed: 11  
+message: NAV02-1 fix migrations, UserProcess, RunScriptProcess infrastructure,
+
 ### 2023-12-28 14:01:19 UTC
 name: notevm_adminka_v02  
 commiter: mikhail.smagin  
