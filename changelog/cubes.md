@@ -1,3 +1,13 @@
+### 2024-01-02 18:25:47 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-02 18:25:47 UTC  
+utime: 1704219947  
+added: 0  
+modified: 2  
+removed: 2  
+message: - update getFeeAh for zkFair
+
 ### 2024-01-02 16:24:13 UTC
 name: cubes  
 commiter: 0xZonaV  
