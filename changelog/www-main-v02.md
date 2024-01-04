@@ -1,3 +1,13 @@
+### 2024-01-04 15:04:44 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2024-01-04 15:04:44 UTC  
+utime: 1704380684  
+added: 3  
+modified: 12  
+removed: 12  
+message: add header and footer on privacy and terms
+
 ### 2024-01-03 17:42:23 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
