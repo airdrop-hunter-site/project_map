@@ -1,3 +1,13 @@
+### 2024-01-04 18:48:14 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-04 18:48:14 UTC  
+utime: 1704394094  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update acton.js for zkFair claim
+
 ### 2024-01-04 18:45:12 UTC
 name: cubes  
 commiter: 0xZonaV  
