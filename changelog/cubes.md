@@ -1,3 +1,13 @@
+### 2024-01-04 08:10:10 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-04 08:10:10 UTC  
+utime: 1704355810  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add new steps for claim zkFair
+
 ### 2024-01-02 18:25:47 UTC
 name: cubes  
 commiter: 0xZonaV  
