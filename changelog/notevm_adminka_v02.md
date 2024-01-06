@@ -1,3 +1,13 @@
+### 2024-01-06 19:39:08 UTC
+name: notevm_adminka_v02  
+commiter: linus_spacehead  
+time: 2024-01-06 19:39:08 UTC  
+utime: 1704569948  
+added: 1  
+modified: 1  
+removed: 0  
+message: add app/Http/NoteVM/Domain/Exception/GetWalletInfoException.php
+
 ### 2024-01-06 19:35:38 UTC
 name: notevm_adminka_v02  
 commiter: linus_spacehead  
