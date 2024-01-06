@@ -1,3 +1,13 @@
+### 2024-01-06 09:40:59 UTC
+name: noevm-scripts  
+commiter: demmystr  
+time: 2024-01-06 09:40:59 UTC  
+utime: 1704534059  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix requirements.txt dublicates package
+
 ### 2023-12-01 22:39:48 UTC
 name: noevm-scripts  
 commiter: Alexandr Golikov  
