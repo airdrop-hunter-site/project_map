@@ -1,3 +1,13 @@
+### 2024-01-08 19:51:00 UTC
+name: notevm_adminka_v02  
+commiter: linus_spacehead  
+time: 2024-01-08 19:51:00 UTC  
+utime: 1704743460  
+added: 1  
+modified: 7  
+removed: 7  
+message: refactoring, added the ability to create custom arguments for some scenarios
+
 ### 2024-01-06 19:39:08 UTC
 name: notevm_adminka_v02  
 commiter: linus_spacehead  
