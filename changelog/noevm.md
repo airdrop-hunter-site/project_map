@@ -1,3 +1,13 @@
+### 2024-01-08 15:09:32 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-08 15:09:32 UTC  
+utime: 1704726572  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix rabby wallet opening an additional tab
+
 ### 2024-01-08 14:33:38 UTC
 name: noevm  
 commiter: Alexandr Golikov  
