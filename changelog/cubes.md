@@ -1,3 +1,15 @@
+### 2024-01-08 12:18:59 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-08 12:18:59 UTC  
+utime: 1704716339  
+added: 0  
+modified: 4  
+removed: 4  
+message: - add new step3 for processing eywa
+
+- add new processing funcs for eywa
+
 ### 2024-01-05 08:03:34 UTC
 name: cubes  
 commiter: 0xZonaV  
