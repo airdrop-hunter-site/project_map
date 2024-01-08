@@ -1,3 +1,13 @@
+### 2024-01-08 16:24:05 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-08 16:24:05 UTC  
+utime: 1704731045  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix endpoint url
+
 ### 2024-01-08 15:09:32 UTC
 name: noevm  
 commiter: Alexandr Golikov  
