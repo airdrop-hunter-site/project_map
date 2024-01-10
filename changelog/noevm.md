@@ -1,3 +1,13 @@
+### 2024-01-10 13:15:14 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-10 13:15:14 UTC  
+utime: 1704892514  
+added: 0  
+modified: 2  
+removed: 2  
+message: add new automatization for metamask popup window
+
 ### 2024-01-10 08:58:16 UTC
 name: noevm  
 commiter: Alexandr Golikov  
