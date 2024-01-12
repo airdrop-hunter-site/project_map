@@ -1,3 +1,16 @@
+### 2024-01-12 15:56:40 UTC
+name: notevm_adminka_v02  
+commiter: linus_spacehead  
+time: 2024-01-12 15:56:40 UTC  
+utime: 1705075000  
+added: 8  
+modified: 10  
+removed: 10  
+message: Implementation of the add balance and withdraw balance as console command and util traits
+Refactoring the service of the infrastructure
+Implementation ScreenSlotService (check and bind user to slot)
+Implementation Step.beforeStep service
+
 ### 2024-01-11 22:31:05 UTC
 name: notevm_adminka_v02  
 commiter: linus_spacehead  
