@@ -1,3 +1,13 @@
+### 2024-01-12 10:02:37 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-01-12 10:02:37 UTC  
+utime: 1705053757  
+added: 0  
+modified: 2  
+removed: 2  
+message: change cost for first tarif in zksync and scroll
+
 ### 2024-01-09 13:36:42 UTC
 name: www-app-v02  
 commiter: liksagen.com  
