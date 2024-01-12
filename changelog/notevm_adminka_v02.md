@@ -1,3 +1,14 @@
+### 2024-01-12 19:05:58 UTC
+name: notevm_adminka_v02  
+commiter: demmystr  
+time: 2024-01-12 19:05:58 UTC  
+utime: 1705086358  
+added: 0  
+modified: 4  
+removed: 4  
+message: Implementation f the bindWallet to user process
+CreateProcess refactoring
+
 ### 2024-01-12 18:07:31 UTC
 name: notevm_adminka_v02  
 commiter: demmystr  
