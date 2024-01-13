@@ -1,3 +1,13 @@
+### 2024-01-13 12:40:42 UTC
+name: tg_bot  
+commiter: airdrop-hunter.site  
+time: 2024-01-13 12:40:42 UTC  
+utime: 1705149642  
+added: 0  
+modified: 3  
+removed: 3  
+message: change get20 to get100
+
 ### 2024-01-11 07:24:36 UTC
 name: tg_bot  
 commiter: airdrop-hunter.site  
