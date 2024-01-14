@@ -1,3 +1,16 @@
+### 2024-01-14 21:23:19 UTC
+name: notevm_adminka_v02  
+commiter: demmystr  
+time: 2024-01-14 21:23:19 UTC  
+utime: 1705267399  
+added: 6  
+modified: 16  
+removed: 1  
+message: Implementation of linking users to screens
+Implementation of a mechanism for controlling the number of running processes
+Additional fields have been added to the "step_response" table.
+Common refactoring
+
 ### 2024-01-12 19:05:58 UTC
 name: notevm_adminka_v02  
 commiter: demmystr  
