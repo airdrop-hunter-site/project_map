@@ -1,3 +1,14 @@
+### 2024-01-16 12:13:27 UTC
+name: notevm_adminka_v02  
+commiter: demmystr  
+time: 2024-01-16 12:13:27 UTC  
+utime: 1705407207  
+added: 0  
+modified: 4  
+removed: 4  
+message: UserProcess model refactoring added field running_at.
+This field will be set to current_timestamp after locked UserProcess
+
 ### 2024-01-16 12:02:56 UTC
 name: notevm_adminka_v02  
 commiter: demmystr  
