@@ -1,3 +1,15 @@
+### 2024-01-17 01:02:49 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-17 01:02:49 UTC  
+utime: 1705453369  
+added: 0  
+modified: 1  
+removed: 1  
+message: A3 - Setup GitHub auto-tasks
+
+- not use clean-install for build due to issue this dependencies
+
 ### 2024-01-17 00:48:01 UTC
 name: claim-v02  
 commiter: vodis  
