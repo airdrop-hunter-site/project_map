@@ -1,3 +1,17 @@
+### 2024-01-17 19:01:16 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-17 19:01:16 UTC  
+utime: 1705518076  
+added: 1  
+modified: 6  
+removed: 6  
+message: A3 - Add pre-push control
+
+- add husky
+- update prettier config
+- add staged check
+
 ### 2024-01-17 01:36:49 UTC
 name: claim-v02  
 commiter: vodis  
