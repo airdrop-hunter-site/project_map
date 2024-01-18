@@ -1,3 +1,13 @@
+### 2024-01-18 10:28:58 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2024-01-18 10:28:58 UTC  
+utime: 1705573738  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix error RpcProvider
+
 ### 2023-12-22 05:09:14 UTC
 name: starknet  
 commiter: 0xZonaV  
