@@ -1,3 +1,23 @@
+### 2024-01-18 10:32:20 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2024-01-18 10:32:20 UTC  
+utime: 1705573940  
+added: 0  
+modified: 1  
+removed: 1  
+message: add domain to cors list
+
+### 2024-01-18 10:32:02 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2024-01-18 10:32:02 UTC  
+utime: 1705573922  
+added: 0  
+modified: 1  
+removed: 1  
+message: add domain to cors list
+
 ### 2024-01-16 09:54:14 UTC
 name: api-cube  
 commiter: liksagen.com  
