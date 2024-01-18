@@ -1,3 +1,13 @@
+### 2024-01-18 08:04:53 UTC
+name: claim-referral  
+commiter: 0xZonaV  
+time: 2024-01-18 08:04:53 UTC  
+utime: 1705565093  
+added: 1  
+modified: 6  
+removed: 6  
+message: - update fetching referrals method
+
 ### 2024-01-15 14:53:16 UTC
 name: claim-referral  
 commiter: 0xZonaV  
