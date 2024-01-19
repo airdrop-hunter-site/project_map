@@ -1,3 +1,15 @@
+### 2024-01-19 16:25:32 UTC
+name: claim-referral  
+commiter: vodis  
+time: 2024-01-19 16:25:32 UTC  
+utime: 1705681532  
+added: 0  
+modified: 3  
+removed: 3  
+message: Claim referral cache
+
+- use cacheManager keys
+
 ### 2024-01-19 16:12:52 UTC
 name: claim-referral  
 commiter: vodis  
