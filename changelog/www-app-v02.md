@@ -1,3 +1,13 @@
+### 2024-01-19 15:06:33 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-01-19 15:06:33 UTC  
+utime: 1705676793  
+added: 10  
+modified: 3  
+removed: 3  
+message: add nft card and modal
+
 ### 2024-01-19 13:47:56 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
