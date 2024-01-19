@@ -1,3 +1,17 @@
+### 2024-01-19 16:12:52 UTC
+name: claim-referral  
+commiter: vodis  
+time: 2024-01-19 16:12:52 UTC  
+utime: 1705680772  
+added: 1  
+modified: 3  
+removed: 3  
+message: Claim referral cache
+
+- add cacheManager
+- use cache on fetchReferralsAsync
+- update .gitignore
+
 ### 2024-01-19 05:43:48 UTC
 name: claim-referral  
 commiter: 0xZonaV  
