@@ -1,3 +1,13 @@
+### 2024-01-19 10:39:08 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2024-01-19 10:39:08 UTC  
+utime: 1705660748  
+added: 0  
+modified: 2  
+removed: 2  
+message: - fix account class hash error
+
 ### 2024-01-19 09:42:32 UTC
 name: starknet  
 commiter: 0xZonaV  
