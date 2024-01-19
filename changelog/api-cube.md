@@ -1,3 +1,13 @@
+### 2024-01-19 10:20:39 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-01-19 10:20:39 UTC  
+utime: 1705659639  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add localhost to cors
+
 ### 2024-01-18 12:12:37 UTC
 name: api-cube  
 commiter: liksagen.com  
