@@ -1,3 +1,13 @@
+### 2024-01-19 15:45:22 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-19 15:45:22 UTC  
+utime: 1705679122  
+added: 0  
+modified: 3  
+removed: 3  
+message: fix bug with closed window
+
 ### 2024-01-19 07:46:30 UTC
 name: noevm  
 commiter: Alexandr Golikov  
