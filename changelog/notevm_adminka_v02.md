@@ -1,3 +1,13 @@
+### 2024-01-19 15:20:35 UTC
+name: notevm_adminka_v02  
+commiter: demmystr  
+time: 2024-01-19 15:20:35 UTC  
+utime: 1705677635  
+added: 0  
+modified: 1  
+removed: 1  
+message: Add telegram notification when user finished with fail status
+
 ### 2024-01-19 15:13:52 UTC
 name: notevm_adminka_v02  
 commiter: demmystr  
