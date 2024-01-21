@@ -1,3 +1,14 @@
+### 2024-01-21 18:44:45 UTC
+name: notevm_adminka_v02  
+commiter: demmystr  
+time: 2024-01-21 18:44:45 UTC  
+utime: 1705862685  
+added: 3  
+modified: 3  
+removed: 3  
+message: Create console command for restart process
+Create Web form for restart process
+
 ### 2024-01-19 19:03:53 UTC
 name: notevm_adminka_v02  
 commiter: demmystr  
