@@ -1,3 +1,16 @@
+### 2024-01-22 08:15:17 UTC
+name: claim-referral  
+commiter: vodis  
+time: 2024-01-22 08:15:17 UTC  
+utime: 1705911317  
+added: 0  
+modified: 1  
+removed: 1  
+message: Claim referral cache
+
+- use ref in useWaitingUntilFetchChanges due to async issue
+- fix handleStartWaiting
+
 ### 2024-01-20 14:21:13 UTC
 name: claim-referral  
 commiter: vodis  
