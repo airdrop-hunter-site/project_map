@@ -1,3 +1,15 @@
+### 2024-01-22 14:25:06 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-22 14:25:06 UTC  
+utime: 1705933506  
+added: 0  
+modified: 2  
+removed: 2  
+message: - edit eywa fix -9 error
+
+- edit percent to send coin
+
 ### 2024-01-22 13:55:30 UTC
 name: cubes  
 commiter: 0xZonaV  
