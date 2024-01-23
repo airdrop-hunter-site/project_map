@@ -1,3 +1,13 @@
+### 2024-01-23 11:03:24 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-23 11:03:24 UTC  
+utime: 1706007804  
+added: 0  
+modified: 2  
+removed: 2  
+message: add delay for usdc token choose
+
 ### 2024-01-23 08:42:28 UTC
 name: noevm  
 commiter: Alexandr Golikov  
