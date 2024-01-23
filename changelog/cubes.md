@@ -1,3 +1,15 @@
+### 2024-01-23 07:59:11 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-23 07:59:11 UTC  
+utime: 1705996751  
+added: 0  
+modified: 3  
+removed: 3  
+message: - edit gas price for bsc
+
+- edit fix eywa -9 error
+
 ### 2024-01-23 06:43:34 UTC
 name: cubes  
 commiter: 0xZonaV  
