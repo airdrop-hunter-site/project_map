@@ -1,3 +1,13 @@
+### 2024-01-24 18:56:02 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-24 18:56:02 UTC  
+utime: 1706122562  
+added: 1  
+modified: 1  
+removed: 0  
+message: - add get dai balance cube
+
 ### 2024-01-24 17:04:03 UTC
 name: cubes  
 commiter: 0xZonaV  
