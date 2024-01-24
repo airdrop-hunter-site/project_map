@@ -1,3 +1,16 @@
+### 2024-01-24 20:44:45 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-24 20:44:45 UTC  
+utime: 1706129085  
+added: 4  
+modified: 2  
+removed: 2  
+message: A3 - Add markup in admin page
+
+- add main forms
+- add admin modal
+
 ### 2024-01-24 16:30:20 UTC
 name: claim-v02  
 commiter: vodis  
