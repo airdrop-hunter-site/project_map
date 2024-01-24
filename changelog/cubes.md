@@ -1,3 +1,13 @@
+### 2024-01-24 16:18:25 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-24 16:18:25 UTC  
+utime: 1706113105  
+added: 0  
+modified: 2  
+removed: 2  
+message: - fix starknet error not handling
+
 ### 2024-01-24 15:14:02 UTC
 name: cubes  
 commiter: 0xZonaV  
