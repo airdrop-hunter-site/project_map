@@ -1,3 +1,13 @@
+### 2024-01-24 15:10:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-24 15:10:46 UTC  
+utime: 1706109046  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add error when amount to swap = 0 avnu swap
+
 ### 2024-01-24 11:16:47 UTC
 name: cubes  
 commiter: 0xZonaV  
