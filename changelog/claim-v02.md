@@ -1,3 +1,18 @@
+### 2024-01-24 23:48:47 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-24 23:48:47 UTC  
+utime: 1706140127  
+added: 3  
+modified: 4  
+removed: 4  
+message: A3 - Add withdraw feature
+
+- add contract ABIs
+- add useWallet hook
+- update AdminModal
+- update AdminCard
+
 ### 2024-01-24 20:44:45 UTC
 name: claim-v02  
 commiter: vodis  
