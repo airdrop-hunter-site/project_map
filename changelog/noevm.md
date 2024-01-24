@@ -1,3 +1,13 @@
+### 2024-01-24 15:04:33 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-24 15:04:33 UTC  
+utime: 1706108673  
+added: 0  
+modified: 1  
+removed: 1  
+message: add xpath for popup closing button
+
 ### 2024-01-24 09:50:43 UTC
 name: noevm  
 commiter: Alexandr Golikov  
