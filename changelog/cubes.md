@@ -1,3 +1,13 @@
+### 2024-01-25 07:12:49 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-25 07:12:49 UTC  
+utime: 1706166769  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add get token balance cube for starknet
+
 ### 2024-01-24 18:56:02 UTC
 name: cubes  
 commiter: 0xZonaV  
