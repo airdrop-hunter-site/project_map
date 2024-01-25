@@ -1,3 +1,13 @@
+### 2024-01-25 07:15:37 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-25 07:15:37 UTC  
+utime: 1706166937  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add error catching getTokenBalance starknet
+
 ### 2024-01-25 07:14:29 UTC
 name: cubes  
 commiter: 0xZonaV  
