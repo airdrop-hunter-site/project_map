@@ -1,3 +1,13 @@
+### 2024-01-25 16:08:12 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-25 16:08:12 UTC  
+utime: 1706198892  
+added: 1  
+modified: 1  
+removed: 0  
+message: add minimize window script
+
 ### 2024-01-24 15:18:30 UTC
 name: noevm  
 commiter: Alexandr Golikov  
