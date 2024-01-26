@@ -1,3 +1,17 @@
+### 2024-01-26 20:59:36 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-26 20:59:36 UTC  
+utime: 1706302776  
+added: 0  
+modified: 3  
+removed: 3  
+message: A3 - Add employee
+
+- update AdminAddEmployee form
+- fix gas estimate on AdminAddTaskModal
+- update contaract getters
+
 ### 2024-01-26 15:39:01 UTC
 name: claim-v02  
 commiter: vodis  
