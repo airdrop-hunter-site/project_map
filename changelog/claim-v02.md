@@ -1,3 +1,16 @@
+### 2024-01-26 15:39:01 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-26 15:39:01 UTC  
+utime: 1706283541  
+added: 0  
+modified: 3  
+removed: 3  
+message: A3 - Due date validation
+
+- use deadline timestamp in each task
+- validate start/end date
+
 ### 2024-01-26 12:58:00 UTC
 name: claim-v02  
 commiter: vodis  
