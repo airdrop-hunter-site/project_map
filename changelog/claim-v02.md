@@ -1,3 +1,15 @@
+### 2024-01-27 12:37:27 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-27 12:37:27 UTC  
+utime: 1706359047  
+added: 1  
+modified: 2  
+removed: 1  
+message: A3 - Add chart to employee dashboard
+
+- use recharts package
+
 ### 2024-01-27 12:20:38 UTC
 name: claim-v02  
 commiter: vodis  
