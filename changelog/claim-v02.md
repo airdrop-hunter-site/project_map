@@ -1,3 +1,16 @@
+### 2024-01-27 13:46:32 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-27 13:46:32 UTC  
+utime: 1706363192  
+added: 0  
+modified: 3  
+removed: 3  
+message: A3 - Add claim
+
+- update EmployeeCard
+- update DashboardInfoEmployee
+
 ### 2024-01-27 12:37:27 UTC
 name: claim-v02  
 commiter: vodis  
