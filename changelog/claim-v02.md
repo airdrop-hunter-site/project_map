@@ -1,3 +1,16 @@
+### 2024-01-27 12:20:38 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-27 12:20:38 UTC  
+utime: 1706358038  
+added: 2  
+modified: 2  
+removed: 1  
+message: A3 - Get task info
+
+- update cards layouts
+- add DashboardInfoEmployee
+
 ### 2024-01-26 20:59:36 UTC
 name: claim-v02  
 commiter: vodis  
