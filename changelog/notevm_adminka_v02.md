@@ -1,3 +1,13 @@
+### 2024-01-28 10:51:46 UTC
+name: notevm_adminka_v02  
+commiter: demmystr  
+time: 2024-01-28 10:51:46 UTC  
+utime: 1706439106  
+added: 0  
+modified: 5  
+removed: 5  
+message: change telegram messages, add link to process page related to failed user process page
+
 ### 2024-01-27 15:26:01 UTC
 name: notevm_adminka_v02  
 commiter: demmystr  
