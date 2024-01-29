@@ -1,3 +1,18 @@
+### 2024-01-29 08:58:04 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-29 08:58:04 UTC  
+utime: 1706518684  
+added: 1  
+modified: 7  
+removed: 7  
+message: A3 - Show list of employee
+
+- update AdminCard
+- update AdminInfoCard
+- update AdminPage
+- add libResponse script
+
 ### 2024-01-28 19:01:30 UTC
 name: claim-v02  
 commiter: vodis  
