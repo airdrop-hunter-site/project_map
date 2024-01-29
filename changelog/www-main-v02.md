@@ -1,3 +1,13 @@
+### 2024-01-29 13:25:18 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2024-01-29 13:25:18 UTC  
+utime: 1706534718  
+added: 0  
+modified: 2  
+removed: 2  
+message: change logo on other pages
+
 ### 2024-01-29 07:40:20 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
