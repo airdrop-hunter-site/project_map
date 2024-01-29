@@ -1,3 +1,13 @@
+### 2024-01-29 12:58:32 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-29 12:58:32 UTC  
+utime: 1706533112  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add try catch for avnu
+
 ### 2024-01-29 12:32:45 UTC
 name: cubes  
 commiter: 0xZonaV  
