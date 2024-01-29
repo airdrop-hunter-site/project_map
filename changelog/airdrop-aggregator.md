@@ -1,3 +1,13 @@
+### 2024-01-29 12:53:07 UTC
+name: airdrop-aggregator  
+commiter: 0xZonaV  
+time: 2024-01-29 12:53:07 UTC  
+utime: 1706532787  
+added: 0  
+modified: 1  
+removed: 1  
+message: update min amount
+
 ### 2023-12-20 09:54:16 UTC
 name: airdrop-aggregator  
 commiter: 0xZonaV  
