@@ -1,3 +1,15 @@
+### 2024-01-30 17:24:52 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-01-30 17:24:52 UTC  
+utime: 1706635492  
+added: 0  
+modified: 1  
+removed: 1  
+message: Revert "fix tx index"
+
+This reverts commit 6ecdaca5cc550d56a3ae83ee574d1b59b1b3519c.
+
 ### 2024-01-30 17:11:14 UTC
 name: noevm  
 commiter: Alexandr Golikov  
