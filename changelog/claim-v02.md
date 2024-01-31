@@ -1,3 +1,16 @@
+### 2024-01-31 21:06:35 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-01-31 21:06:35 UTC  
+utime: 1706735195  
+added: 0  
+modified: 4  
+removed: 4  
+message: A3 - Update dashboard
+
+- add tabs to AdminInfoCard
+- update table fields
+
 ### 2024-01-31 20:16:39 UTC
 name: claim-v02  
 commiter: vodis  
