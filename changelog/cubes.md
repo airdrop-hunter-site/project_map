@@ -1,3 +1,13 @@
+### 2024-01-31 08:14:37 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-01-31 08:14:37 UTC  
+utime: 1706688877  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add getting custom nft address
+
 ### 2024-01-30 09:03:56 UTC
 name: cubes  
 commiter: 0xZonaV  
