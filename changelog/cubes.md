@@ -1,3 +1,15 @@
+### 2024-02-01 06:56:37 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-01 06:56:37 UTC  
+utime: 1706770597  
+added: 0  
+modified: 4  
+removed: 4  
+message: - edit bridge for zora
+
+- add new step for zkSync generator
+
 ### 2024-01-31 08:47:20 UTC
 name: cubes  
 commiter: 0xZonaV  
