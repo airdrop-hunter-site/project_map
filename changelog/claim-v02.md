@@ -1,3 +1,15 @@
+### 2024-02-02 10:34:33 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-02 10:34:33 UTC  
+utime: 1706870073  
+added: 0  
+modified: 4  
+removed: 4  
+message: A3 - Admin tabs
+
+- move logs to own tab
+
 ### 2024-02-02 10:12:05 UTC
 name: claim-v02  
 commiter: vodis  
