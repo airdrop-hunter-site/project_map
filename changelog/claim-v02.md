@@ -1,3 +1,16 @@
+### 2024-02-02 10:12:05 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-02 10:12:05 UTC  
+utime: 1706868725  
+added: 2  
+modified: 2  
+removed: 2  
+message: A3 - Add event handler hooks
+
+- add AdminAddModal
+- add AdminDeleteModal
+
 ### 2024-02-02 02:09:04 UTC
 name: claim-v02  
 commiter: vodis  
