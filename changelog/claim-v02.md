@@ -1,3 +1,16 @@
+### 2024-02-04 14:38:09 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-04 14:38:09 UTC  
+utime: 1707057489  
+added: 0  
+modified: 2  
+removed: 2  
+message: A3 - Add time range
+
+- fix table empty state handler
+- upadate contrat addresses
+
 ### 2024-02-04 14:24:49 UTC
 name: claim-v02  
 commiter: vodis  
