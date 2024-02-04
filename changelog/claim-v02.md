@@ -1,3 +1,18 @@
+### 2024-02-04 13:27:50 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-04 13:27:50 UTC  
+utime: 1707053270  
+added: 1  
+modified: 2  
+removed: 2  
+message: A3 - Update admin table info
+
+- add useEmployeesInfo hook
+- upadate AdminInfoTable
+- update AdminInfoCard
+- add table skelet and empty states
+
 ### 2024-02-04 11:16:04 UTC
 name: claim-v02  
 commiter: vodis  
