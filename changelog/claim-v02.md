@@ -1,3 +1,17 @@
+### 2024-02-04 14:24:49 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-04 14:24:49 UTC  
+utime: 1707056689  
+added: 0  
+modified: 2  
+removed: 2  
+message: A3 - Add time range
+
+- upadate AdminAddTaskModal
+- add time input
+- update EmployeeTaskPeriod time&date view
+
 ### 2024-02-04 13:27:50 UTC
 name: claim-v02  
 commiter: vodis  
