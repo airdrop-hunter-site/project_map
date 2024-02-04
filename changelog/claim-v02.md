@@ -1,3 +1,17 @@
+### 2024-02-04 11:16:04 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-04 11:16:04 UTC  
+utime: 1707045364  
+added: 1  
+modified: 8  
+removed: 8  
+message: A3 - TX catch handler
+
+- update useAddTaskEvent with filer by paid_one
+- add disable for isClaimed
+- add useDebugEvent hook
+
 ### 2024-02-02 10:34:33 UTC
 name: claim-v02  
 commiter: vodis  
