@@ -1,3 +1,15 @@
+### 2024-02-05 06:52:58 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-05 06:52:58 UTC  
+utime: 1707115978  
+added: 2  
+modified: 2  
+removed: 2  
+message: - delete abs percent in eywa bridge
+
+- add 1inch cube for l0c6
+
 ### 2024-02-02 13:34:06 UTC
 name: cubes  
 commiter: 0xZonaV  
