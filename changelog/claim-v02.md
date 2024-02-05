@@ -1,3 +1,16 @@
+### 2024-02-05 09:03:08 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-05 09:03:08 UTC  
+utime: 1707123788  
+added: 0  
+modified: 3  
+removed: 3  
+message: A3 - Table data calculations
+
+- update useEmployeesInfo by exclude duplicate between fired_employee and add_employee
+- add firedAt table field
+
 ### 2024-02-05 06:56:50 UTC
 name: claim-v02  
 commiter: vodis  
