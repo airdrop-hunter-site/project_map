@@ -1,3 +1,17 @@
+### 2024-02-05 06:56:50 UTC
+name: claim-v02  
+commiter: vodis  
+time: 2024-02-05 06:56:50 UTC  
+utime: 1707116210  
+added: 2  
+modified: 4  
+removed: 4  
+message: A3 - Table data calculations
+
+- WIP useAvailableToClaimOn5th
+- WIP useDataAggregations
+- update table data
+
 ### 2024-02-04 14:55:16 UTC
 name: claim-v02  
 commiter: vodis  
