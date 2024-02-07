@@ -1,3 +1,13 @@
+### 2024-02-07 14:11:15 UTC
+name: api-cube  
+commiter: liksagen.com  
+time: 2024-02-07 14:11:15 UTC  
+utime: 1707315075  
+added: 0  
+modified: 1  
+removed: 1  
+message: add usdc to bsc token list
+
 ### 2024-02-01 11:22:21 UTC
 name: api-cube  
 commiter: liksagen.com  
