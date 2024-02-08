@@ -1,3 +1,13 @@
+### 2024-02-08 05:22:22 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-08 05:22:22 UTC  
+utime: 1707369742  
+added: 0  
+modified: 1  
+removed: 1  
+message: - edit eywa max slippage
+
 ### 2024-02-06 15:31:30 UTC
 name: cubes  
 commiter: 0xZonaV  
