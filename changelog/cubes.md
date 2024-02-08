@@ -1,3 +1,13 @@
+### 2024-02-08 14:50:08 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-08 14:50:08 UTC  
+utime: 1707403808  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix holograph mint price
+
 ### 2024-02-08 10:56:58 UTC
 name: cubes  
 commiter: 0xZonaV  
