@@ -1,3 +1,13 @@
+### 2024-02-09 17:54:36 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-02-09 17:54:36 UTC  
+utime: 1707501276  
+added: 1  
+modified: 1  
+removed: 0  
+message: add script for bsc swap
+
 ### 2024-02-09 17:05:29 UTC
 name: noevm  
 commiter: Alexandr Golikov  
