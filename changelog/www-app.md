@@ -1,3 +1,13 @@
+### 2024-02-10 22:31:19 UTC
+name: www-app  
+commiter: liksagen.com  
+time: 2024-02-10 22:31:19 UTC  
+utime: 1707604279  
+added: 0  
+modified: 1  
+removed: 1  
+message: add wallet from factory pay to not evm processing
+
 ### 2024-02-10 22:30:14 UTC
 name: www-app  
 commiter: liksagen.com  
