@@ -1,3 +1,13 @@
+### 2024-02-10 13:14:11 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-02-10 13:14:11 UTC  
+utime: 1707570851  
+added: 1  
+modified: 2  
+removed: 2  
+message: add hash into internal tx arg
+
 ### 2024-02-10 12:59:59 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
