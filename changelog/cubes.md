@@ -1,3 +1,23 @@
+### 2024-02-10 04:05:22 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-10 04:05:22 UTC  
+utime: 1707537922  
+added: 0  
+modified: 1  
+removed: 1  
+message: - edit eywa request timeout tgMessage
+
+### 2024-02-10 04:05:03 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-10 04:05:03 UTC  
+utime: 1707537903  
+added: 0  
+modified: 1  
+removed: 1  
+message: - edit min balance to swap on step3 = 5
+
 ### 2024-02-09 09:41:03 UTC
 name: cubes  
 commiter: 0xZonaV  
