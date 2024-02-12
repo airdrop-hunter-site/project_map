@@ -1,3 +1,13 @@
+### 2024-02-12 12:35:20 UTC
+name: notevm-minimal  
+commiter: liksagen.com  
+time: 2024-02-12 12:35:20 UTC  
+utime: 1707741320  
+added: 0  
+modified: 4  
+removed: 4  
+message: add skip file extensions
+
 ### 2024-02-12 12:32:46 UTC
 name: notevm-minimal  
 commiter: liksagen.com  
