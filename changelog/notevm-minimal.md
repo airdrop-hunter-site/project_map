@@ -1,3 +1,13 @@
+### 2024-02-12 15:29:14 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 15:29:14 UTC  
+utime: 1707751754  
+added: 0  
+modified: 1  
+removed: 1  
+message: upd swap token
+
 ### 2024-02-12 12:53:30 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
