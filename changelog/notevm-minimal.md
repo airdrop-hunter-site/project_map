@@ -1,3 +1,13 @@
+### 2024-02-12 12:04:25 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 12:04:25 UTC  
+utime: 1707739465  
+added: 0  
+modified: 16  
+removed: 16  
+message: upd metamask url
+
 ### 2024-02-10 20:17:38 UTC
 name: notevm-minimal  
 commiter: demmystr  
