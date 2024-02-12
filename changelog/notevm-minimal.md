@@ -1,3 +1,13 @@
+### 2024-02-12 17:25:03 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 17:25:03 UTC  
+utime: 1707758703  
+added: 0  
+modified: 2  
+removed: 2  
+message: add skip step for skripts
+
 ### 2024-02-12 16:44:53 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
