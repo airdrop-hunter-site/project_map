@@ -1,3 +1,15 @@
+### 2024-02-12 12:50:29 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 12:50:29 UTC  
+utime: 1707742229  
+added: 0  
+modified: 32  
+removed: 40  
+message: Revert "fix db interaction"
+
+This reverts commit 5900bd3ad64bf995be01e5a1523de21e8552555c.
+
 ### 2024-02-12 12:49:23 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
