@@ -1,3 +1,13 @@
+### 2024-02-12 20:33:36 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 20:33:36 UTC  
+utime: 1707770016  
+added: 0  
+modified: 1  
+removed: 1  
+message: delete db integration
+
 ### 2024-02-12 20:02:55 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
