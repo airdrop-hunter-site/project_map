@@ -1,3 +1,13 @@
+### 2024-02-12 12:32:46 UTC
+name: notevm-minimal  
+commiter: liksagen.com  
+time: 2024-02-12 12:32:46 UTC  
+utime: 1707741166  
+added: 1  
+modified: 1  
+removed: 0  
+message: add view for db_config
+
 ### 2024-02-12 12:14:56 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
