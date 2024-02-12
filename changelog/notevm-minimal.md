@@ -1,3 +1,13 @@
+### 2024-02-12 21:09:33 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 21:09:33 UTC  
+utime: 1707772173  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix wallet value
+
 ### 2024-02-12 20:33:36 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
