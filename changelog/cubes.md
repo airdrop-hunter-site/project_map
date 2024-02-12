@@ -1,3 +1,15 @@
+### 2024-02-12 05:46:31 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-12 05:46:31 UTC  
+utime: 1707716791  
+added: 0  
+modified: 3  
+removed: 3  
+message: - edit max price impact eywa
+
+- edit fix eywa
+
 ### 2024-02-10 04:05:22 UTC
 name: cubes  
 commiter: 0xZonaV  
