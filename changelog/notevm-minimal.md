@@ -1,3 +1,13 @@
+### 2024-02-12 12:14:56 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 12:14:56 UTC  
+utime: 1707740096  
+added: 0  
+modified: 1  
+removed: 1  
+message: debug pk value
+
 ### 2024-02-12 12:04:25 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
