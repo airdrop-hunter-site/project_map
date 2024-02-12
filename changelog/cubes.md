@@ -1,3 +1,13 @@
+### 2024-02-12 13:02:16 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-12 13:02:16 UTC  
+utime: 1707742936  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix ZkLend
+
 ### 2024-02-12 12:54:22 UTC
 name: cubes  
 commiter: 0xZonaV  
