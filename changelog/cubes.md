@@ -1,3 +1,13 @@
+### 2024-02-12 12:54:22 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-12 12:54:22 UTC  
+utime: 1707742462  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix avnu swap api request
+
 ### 2024-02-12 09:34:48 UTC
 name: cubes  
 commiter: 0xZonaV  
