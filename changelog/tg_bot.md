@@ -1,3 +1,13 @@
+### 2024-02-12 18:17:15 UTC
+name: tg_bot  
+commiter: airdrop-hunter.site  
+time: 2024-02-12 18:17:15 UTC  
+utime: 1707761835  
+added: 0  
+modified: 1  
+removed: 1  
+message: add skip chat_id
+
 ### 2024-01-24 12:56:30 UTC
 name: tg_bot  
 commiter: airdrop-hunter.site  
