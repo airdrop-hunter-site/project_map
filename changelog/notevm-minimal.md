@@ -1,3 +1,13 @@
+### 2024-02-12 12:37:46 UTC
+name: notevm-minimal  
+commiter: liksagen.com  
+time: 2024-02-12 12:37:46 UTC  
+utime: 1707741466  
+added: 0  
+modified: 2  
+removed: 2  
+message: add localhost to db connect
+
 ### 2024-02-12 12:35:20 UTC
 name: notevm-minimal  
 commiter: liksagen.com  
