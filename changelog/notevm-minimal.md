@@ -1,3 +1,13 @@
+### 2024-02-12 16:44:53 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-12 16:44:53 UTC  
+utime: 1707756293  
+added: 0  
+modified: 1  
+removed: 1  
+message: add base64 decode for db
+
 ### 2024-02-12 15:29:14 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
