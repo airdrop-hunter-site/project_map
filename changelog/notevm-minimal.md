@@ -1,3 +1,13 @@
+### 2024-02-13 18:27:24 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-13 18:27:24 UTC  
+utime: 1707848844  
+added: 0  
+modified: 1  
+removed: 1  
+message: add new mm button
+
 ### 2024-02-13 10:02:21 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
