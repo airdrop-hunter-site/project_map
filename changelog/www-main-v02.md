@@ -1,3 +1,13 @@
+### 2024-02-13 09:18:01 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2024-02-13 09:18:01 UTC  
+utime: 1707815881  
+added: 0  
+modified: 12  
+removed: 12  
+message: add full translate to promo
+
 ### 2024-02-12 13:58:52 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
