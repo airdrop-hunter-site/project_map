@@ -1,3 +1,13 @@
+### 2024-02-13 16:22:34 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-02-13 16:22:34 UTC  
+utime: 1707841354  
+added: 0  
+modified: 13  
+removed: 13  
+message: fix metamask url
+
 ### 2024-02-13 16:13:09 UTC
 name: noevm  
 commiter: Alexandr Golikov  
