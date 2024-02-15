@@ -1,3 +1,13 @@
+### 2024-02-15 11:20:18 UTC
+name: www-main-v02  
+commiter: BrownieJunior  
+time: 2024-02-15 11:20:18 UTC  
+utime: 1707996018  
+added: 0  
+modified: 1  
+removed: 1  
+message: update partners_en page
+
 ### 2024-02-15 10:44:40 UTC
 name: www-main-v02  
 commiter: palenda  
