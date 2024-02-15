@@ -1,3 +1,13 @@
+### 2024-02-15 11:52:47 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-02-15 11:52:47 UTC  
+utime: 1707997967  
+added: 1  
+modified: 1  
+removed: 1  
+message: add ref_claim_china contract
+
 ### 2024-02-14 15:33:06 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
