@@ -1,3 +1,13 @@
+### 2024-02-15 16:11:16 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-15 16:11:16 UTC  
+utime: 1708013476  
+added: 1  
+modified: 1  
+removed: 0  
+message: add script for tampermonkey mm input
+
 ### 2024-02-13 18:27:24 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
