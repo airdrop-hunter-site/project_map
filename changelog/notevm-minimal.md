@@ -1,3 +1,13 @@
+### 2024-02-16 16:53:03 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-16 16:53:03 UTC  
+utime: 1708102383  
+added: 0  
+modified: 1  
+removed: 1  
+message: upd seed phrahe input
+
 ### 2024-02-16 14:44:22 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
