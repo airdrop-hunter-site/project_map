@@ -1,3 +1,13 @@
+### 2024-02-16 20:55:29 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-16 20:55:29 UTC  
+utime: 1708116929  
+added: 0  
+modified: 1  
+removed: 1  
+message: add sleep for clearing input values
+
 ### 2024-02-16 20:48:44 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
