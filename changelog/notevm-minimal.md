@@ -1,3 +1,13 @@
+### 2024-02-16 07:05:05 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-16 07:05:05 UTC  
+utime: 1708067105  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix mm url for login checker
+
 ### 2024-02-15 16:11:16 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
