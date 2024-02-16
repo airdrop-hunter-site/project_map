@@ -1,3 +1,13 @@
+### 2024-02-16 23:58:36 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-16 23:58:36 UTC  
+utime: 1708127916  
+added: 0  
+modified: 1  
+removed: 1  
+message: add mm url
+
 ### 2024-02-16 23:00:06 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
