@@ -1,3 +1,13 @@
+### 2024-02-16 18:41:47 UTC
+name: notevm-minimal  
+commiter: liksagen.com  
+time: 2024-02-16 18:41:47 UTC  
+utime: 1708108907  
+added: 1  
+modified: 1  
+removed: 0  
+message: Merge branch 'main' of ssh://github.com:22/airdrop-hunter-site/notevm-minimal into main
+
 ### 2024-02-16 18:32:43 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
