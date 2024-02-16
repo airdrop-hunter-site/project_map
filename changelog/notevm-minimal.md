@@ -1,3 +1,13 @@
+### 2024-02-16 17:17:11 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-16 17:17:11 UTC  
+utime: 1708103831  
+added: 0  
+modified: 1  
+removed: 1  
+message: upd input method
+
 ### 2024-02-16 16:53:03 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
