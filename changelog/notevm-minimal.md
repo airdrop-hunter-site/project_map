@@ -1,3 +1,13 @@
+### 2024-02-16 13:08:11 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-16 13:08:11 UTC  
+utime: 1708088891  
+added: 0  
+modified: 3  
+removed: 3  
+message: add xphath for swap scripts
+
 ### 2024-02-16 07:28:32 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
