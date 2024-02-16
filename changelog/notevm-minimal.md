@@ -1,3 +1,13 @@
+### 2024-02-16 18:32:43 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-16 18:32:43 UTC  
+utime: 1708108363  
+added: 1  
+modified: 1  
+removed: 0  
+message: add input value with js
+
 ### 2024-02-16 17:17:11 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
