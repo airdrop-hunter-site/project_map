@@ -1,3 +1,13 @@
+### 2024-02-17 00:23:39 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-17 00:23:39 UTC  
+utime: 1708129419  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix checker
+
 ### 2024-02-16 23:58:36 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
