@@ -1,3 +1,13 @@
+### 2024-02-19 17:06:14 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-02-19 17:06:14 UTC  
+utime: 1708362374  
+added: 0  
+modified: 1  
+removed: 1  
+message: modify china claim contract
+
 ### 2024-02-19 09:18:06 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
