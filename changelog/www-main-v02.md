@@ -1,3 +1,13 @@
+### 2024-02-19 16:04:13 UTC
+name: www-main-v02  
+commiter: BrownieJunior  
+time: 2024-02-19 16:04:13 UTC  
+utime: 1708358653  
+added: 3  
+modified: 45  
+removed: 2  
+message: fix main block and header on partners and update ama line
+
 ### 2024-02-19 08:07:21 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
