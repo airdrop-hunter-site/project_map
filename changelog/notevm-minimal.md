@@ -1,3 +1,13 @@
+### 2024-02-19 08:19:24 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-19 08:19:24 UTC  
+utime: 1708330764  
+added: 0  
+modified: 1  
+removed: 1  
+message: add check for an swap pair
+
 ### 2024-02-17 00:23:39 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
