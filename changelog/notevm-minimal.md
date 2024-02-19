@@ -1,3 +1,13 @@
+### 2024-02-19 09:24:35 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-19 09:24:35 UTC  
+utime: 1708334675  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix xpath
+
 ### 2024-02-19 08:19:24 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
