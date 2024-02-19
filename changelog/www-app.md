@@ -1,3 +1,13 @@
+### 2024-02-19 20:25:17 UTC
+name: www-app  
+commiter: liksagen.com  
+time: 2024-02-19 20:25:17 UTC  
+utime: 1708374317  
+added: 2  
+modified: 2  
+removed: 0  
+message: add tg informer about nft pay
+
 ### 2024-02-19 20:24:40 UTC
 name: www-app  
 commiter: liksagen.com  
