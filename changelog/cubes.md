@@ -1,3 +1,15 @@
+### 2024-02-20 08:37:12 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-20 08:37:12 UTC  
+utime: 1708418232  
+added: 0  
+modified: 4  
+removed: 4  
+message: - debugging avnu strknet
+
+- fix izumi and space fi for scroll testnet
+
 ### 2024-02-19 12:16:34 UTC
 name: cubes  
 commiter: 0xZonaV  
