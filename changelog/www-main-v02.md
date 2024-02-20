@@ -1,3 +1,13 @@
+### 2024-02-20 07:43:14 UTC
+name: www-main-v02  
+commiter: BrownieJunior  
+time: 2024-02-20 07:43:14 UTC  
+utime: 1708414994  
+added: 0  
+modified: 5  
+removed: 5  
+message: add ama line and update bonus modal
+
 ### 2024-02-19 16:04:13 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
