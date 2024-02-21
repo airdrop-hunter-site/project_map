@@ -1,3 +1,13 @@
+### 2024-02-21 08:19:02 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-02-21 08:19:02 UTC  
+utime: 1708503542  
+added: 0  
+modified: 1  
+removed: 1  
+message: add check for an logined-in wallets
+
 ### 2024-02-19 07:53:37 UTC
 name: noevm  
 commiter: Alexandr Golikov  
