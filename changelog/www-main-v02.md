@@ -1,3 +1,13 @@
+### 2024-02-21 09:28:20 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2024-02-21 09:28:20 UTC  
+utime: 1708507700  
+added: 0  
+modified: 47  
+removed: 47  
+message: change header on news and academy
+
 ### 2024-02-20 14:08:24 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
