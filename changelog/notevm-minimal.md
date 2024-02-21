@@ -1,3 +1,13 @@
+### 2024-02-21 10:12:41 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-21 10:12:41 UTC  
+utime: 1708510361  
+added: 0  
+modified: 1  
+removed: 1  
+message: add check for an loggened-in wallets
+
 ### 2024-02-19 09:24:35 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
