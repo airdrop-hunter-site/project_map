@@ -1,3 +1,13 @@
+### 2024-02-21 14:39:42 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2024-02-21 14:39:42 UTC  
+utime: 1708526382  
+added: 0  
+modified: 7  
+removed: 7  
+message: fixed support success modal on ios and hid OGC card
+
 ### 2024-02-21 10:53:39 UTC
 name: www-app-v02  
 commiter: liksagen.com  
