@@ -1,3 +1,13 @@
+### 2024-02-21 10:53:39 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-02-21 10:53:39 UTC  
+utime: 1708512819  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix depo errors in claim china contract
+
 ### 2024-02-20 18:34:54 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
