@@ -1,3 +1,15 @@
+### 2024-02-22 11:55:28 UTC
+name: notevm_adminka_v02  
+commiter: linus_spacehead  
+time: 2024-02-22 11:55:28 UTC  
+utime: 1708602928  
+added: 0  
+modified: 1  
+removed: 1  
+message: Revert "fix process status view"
+
+This reverts commit e6e1e7c8dd96e897ecf6f82b2f6b3150d06fca0d.
+
 ### 2024-02-22 11:52:10 UTC
 name: notevm_adminka_v02  
 commiter: linus_spacehead  
