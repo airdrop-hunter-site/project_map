@@ -1,3 +1,14 @@
+### 2024-02-22 09:40:41 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-22 09:40:41 UTC  
+utime: 1708594841  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add streamer address on base
+- edit getting step name for eywa processing
+
 ### 2024-02-21 07:37:59 UTC
 name: cubes  
 commiter: 0xZonaV  
