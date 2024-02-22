@@ -1,3 +1,13 @@
+### 2024-02-22 15:43:48 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-02-22 15:43:48 UTC  
+utime: 1708616628  
+added: 0  
+modified: 3  
+removed: 3  
+message: upd 3rd debank circle
+
 ### 2024-02-21 10:12:41 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
