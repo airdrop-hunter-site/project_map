@@ -1,3 +1,13 @@
+### 2024-02-23 09:57:42 UTC
+name: notevm-extension  
+commiter: Alexandr Golikov  
+time: 2024-02-23 09:57:42 UTC  
+utime: 1708682262  
+added: 301  
+modified: 301  
+removed: 0  
+message: add rainbow wallet extension
+
 ### 2024-02-16 23:04:01 UTC
 name: notevm-extension  
 commiter: airdrop-hunter-dev-rw  
