@@ -1,3 +1,17 @@
+### 2024-02-23 12:20:55 UTC
+name: airdrop_checker  
+commiter: 0xZonaV  
+time: 2024-02-23 12:20:55 UTC  
+utime: 1708690855  
+added: 4  
+modified: 1  
+removed: 1  
+message: - add optimism checker
+
+- add smart layer checker
+
+- add starknet checker via api
+
 ### 2023-12-26 10:12:03 UTC
 name: airdrop_checker  
 commiter: 0xZonaV  
