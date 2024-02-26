@@ -1,3 +1,13 @@
+### 2024-02-26 15:03:49 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-02-26 15:03:49 UTC  
+utime: 1708959829  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix swap amount
+
 ### 2024-02-26 14:15:26 UTC
 name: noevm  
 commiter: Alexandr Golikov  
