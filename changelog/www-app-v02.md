@@ -1,3 +1,13 @@
+### 2024-02-26 11:06:59 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2024-02-26 11:06:59 UTC  
+utime: 1708945619  
+added: 0  
+modified: 1  
+removed: 1  
+message: fixed get20 abi
+
 ### 2024-02-26 11:02:00 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
