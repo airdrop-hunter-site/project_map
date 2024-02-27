@@ -1,3 +1,13 @@
+### 2024-02-27 13:32:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-27 13:32:46 UTC  
+utime: 1709040766  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update zkSync bonus 2 table name
+
 ### 2024-02-27 11:40:14 UTC
 name: cubes  
 commiter: 0xZonaV  
