@@ -1,3 +1,13 @@
+### 2024-02-27 10:33:30 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2024-02-27 10:33:30 UTC  
+utime: 1709030010  
+added: 2  
+modified: 2  
+removed: 2  
+message: changed places of EYWA and metamask card
+
 ### 2024-02-26 11:06:59 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
