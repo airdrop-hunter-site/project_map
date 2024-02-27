@@ -1,3 +1,13 @@
+### 2024-02-27 10:28:41 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-27 10:28:41 UTC  
+utime: 1709029721  
+added: 5  
+modified: 5  
+removed: 0  
+message: - add processing for zksync rhinoFi bonus
+
 ### 2024-02-27 04:53:01 UTC
 name: cubes  
 commiter: 0xZonaV  
