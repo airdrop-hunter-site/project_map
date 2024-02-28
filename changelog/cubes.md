@@ -1,3 +1,13 @@
+### 2024-02-28 05:39:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-28 05:39:46 UTC  
+utime: 1709098786  
+added: 1  
+modified: 1  
+removed: 1  
+message: - add name tag for approve for spender (example: streamer_tkn_02)
+
 ### 2024-02-28 00:24:40 UTC
 name: cubes  
 commiter: 0xZonaV  
