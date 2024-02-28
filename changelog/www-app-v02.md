@@ -1,3 +1,13 @@
+### 2024-02-28 23:02:11 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-02-28 23:02:11 UTC  
+utime: 1709161331  
+added: 2  
+modified: 3  
+removed: 3  
+message: add payment func for base and zora airdrop cards
+
 ### 2024-02-27 12:17:43 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
