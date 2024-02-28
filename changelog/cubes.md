@@ -1,3 +1,13 @@
+### 2024-02-28 00:24:40 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-02-28 00:24:40 UTC  
+utime: 1709079880  
+added: 1  
+modified: 1  
+removed: 0  
+message: - add streamer v2 addresses to BridgeTkn_v2.js
+
 ### 2024-02-27 13:32:46 UTC
 name: cubes  
 commiter: 0xZonaV  
