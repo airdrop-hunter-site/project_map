@@ -1,3 +1,13 @@
+### 2024-02-29 10:57:47 UTC
+name: www-main-v02  
+commiter: airdrop-hunter.site  
+time: 2024-02-29 10:57:47 UTC  
+utime: 1709204267  
+added: 9  
+modified: 2  
+removed: 2  
+message: add guide to news
+
 ### 2024-02-29 08:31:24 UTC
 name: www-main-v02  
 commiter: airdrop-hunter.site  
