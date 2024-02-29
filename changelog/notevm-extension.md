@@ -1,3 +1,13 @@
+### 2024-02-29 09:55:12 UTC
+name: notevm-extension  
+commiter: Alexandr Golikov  
+time: 2024-02-29 09:55:12 UTC  
+utime: 1709200512  
+added: 75  
+modified: 75  
+removed: 0  
+message: add captcha solver extension
+
 ### 2024-02-23 09:57:42 UTC
 name: notevm-extension  
 commiter: Alexandr Golikov  
