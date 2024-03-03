@@ -1,3 +1,13 @@
+### 2024-03-03 16:39:16 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-03-03 16:39:16 UTC  
+utime: 1709483956  
+added: 0  
+modified: 1  
+removed: 1  
+message: add reset mm popup
+
 ### 2024-03-03 16:30:20 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
