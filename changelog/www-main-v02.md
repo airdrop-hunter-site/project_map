@@ -1,3 +1,13 @@
+### 2024-03-04 14:59:09 UTC
+name: www-main-v02  
+commiter: BrownieJunior  
+time: 2024-03-04 14:59:09 UTC  
+utime: 1709564349  
+added: 3  
+modified: 11  
+removed: 11  
+message: fix faq and add demo modal
+
 ### 2024-03-04 13:53:38 UTC
 name: www-main-v02  
 commiter: airdrop-hunter.site  
