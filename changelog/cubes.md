@@ -1,3 +1,13 @@
+### 2024-03-06 08:42:37 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-03-06 08:42:37 UTC  
+utime: 1709714557  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add full ticks flag for uniswapV3
+
 ### 2024-03-05 11:33:45 UTC
 name: cubes  
 commiter: 0xZonaV  
