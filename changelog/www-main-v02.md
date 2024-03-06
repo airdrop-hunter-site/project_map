@@ -1,3 +1,13 @@
+### 2024-03-06 11:03:49 UTC
+name: www-main-v02  
+commiter: BrownieJunior  
+time: 2024-03-06 11:03:49 UTC  
+utime: 1709723029  
+added: 2  
+modified: 8  
+removed: 8  
+message: add news and update bonus modal
+
 ### 2024-03-05 18:57:17 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
