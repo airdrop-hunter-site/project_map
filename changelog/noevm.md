@@ -1,3 +1,13 @@
+### 2024-03-07 08:42:07 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-03-07 08:42:07 UTC  
+utime: 1709800927  
+added: 0  
+modified: 1  
+removed: 1  
+message: add wallet arg
+
 ### 2024-03-07 08:27:12 UTC
 name: noevm  
 commiter: Alexandr Golikov  
