@@ -1,3 +1,13 @@
+### 2024-03-07 12:22:59 UTC
+name: www-app-v02  
+commiter: airdrop-hunter.site  
+time: 2024-03-07 12:22:59 UTC  
+utime: 1709814179  
+added: 0  
+modified: 3  
+removed: 3  
+message: moved web3 to onload func
+
 ### 2024-03-07 12:15:06 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
