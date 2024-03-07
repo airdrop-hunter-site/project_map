@@ -1,3 +1,13 @@
+### 2024-03-07 08:27:12 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-03-07 08:27:12 UTC  
+utime: 1709800032  
+added: 0  
+modified: 1  
+removed: 1  
+message: add hide scam tx button
+
 ### 2024-03-06 21:26:23 UTC
 name: noevm  
 commiter: demmystr  
