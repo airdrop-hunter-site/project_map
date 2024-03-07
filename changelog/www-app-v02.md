@@ -1,3 +1,13 @@
+### 2024-03-07 15:23:05 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-03-07 15:23:05 UTC  
+utime: 1709824985  
+added: 0  
+modified: 2  
+removed: 2  
+message: add discount to zora and base
+
 ### 2024-03-07 12:28:09 UTC
 name: www-app-v02  
 commiter: airdrop-hunter.site  
