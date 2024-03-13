@@ -1,3 +1,13 @@
+### 2024-03-13 11:04:27 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-03-13 11:04:27 UTC  
+utime: 1710327867  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix extension popup
+
 ### 2024-03-12 19:07:00 UTC
 name: noevm  
 commiter: Alexandr Golikov  
