@@ -1,3 +1,13 @@
+### 2024-03-14 12:45:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-03-14 12:45:46 UTC  
+utime: 1710420346  
+added: 1  
+modified: 4  
+removed: 4  
+message: - fix holo mint price and add new chains into mint
+
 ### 2024-03-13 11:26:07 UTC
 name: cubes  
 commiter: 0xZonaV  
