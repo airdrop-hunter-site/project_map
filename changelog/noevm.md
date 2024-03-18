@@ -1,3 +1,13 @@
+### 2024-03-18 13:08:14 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-03-18 13:08:14 UTC  
+utime: 1710767294  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix click hide scam tx
+
 ### 2024-03-15 13:36:32 UTC
 name: noevm  
 commiter: Alexandr Golikov  
