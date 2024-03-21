@@ -1,3 +1,13 @@
+### 2024-03-21 07:08:51 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-03-21 07:08:51 UTC  
+utime: 1711004931  
+added: 1  
+modified: 3  
+removed: 3  
+message: - add check for l1Fee on scroll
+
 ### 2024-03-21 06:38:49 UTC
 name: cubes  
 commiter: 0xZonaV  
