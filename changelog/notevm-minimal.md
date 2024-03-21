@@ -1,3 +1,13 @@
+### 2024-03-21 10:02:24 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-03-21 10:02:24 UTC  
+utime: 1711015344  
+added: 0  
+modified: 2  
+removed: 2  
+message: upd captcha config
+
 ### 2024-03-13 19:32:21 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
