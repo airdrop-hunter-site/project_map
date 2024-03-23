@@ -1,3 +1,13 @@
+### 2024-03-23 12:33:47 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-03-23 12:33:47 UTC  
+utime: 1711197227  
+added: 0  
+modified: 1  
+removed: 1  
+message: add info to scrool modal
+
 ### 2024-03-23 12:32:09 UTC
 name: www-app-v02  
 commiter: liksagen.com  
