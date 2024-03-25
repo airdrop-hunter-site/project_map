@@ -1,3 +1,13 @@
+### 2024-03-25 12:02:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-03-25 12:02:46 UTC  
+utime: 1711368166  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update decode table for scroll
+
 ### 2024-03-25 11:59:33 UTC
 name: cubes  
 commiter: 0xZonaV  
