@@ -1,3 +1,13 @@
+### 2024-03-25 11:59:33 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-03-25 11:59:33 UTC  
+utime: 1711367973  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update decode table for zkSync (woofi fix)
+
 ### 2024-03-25 10:21:48 UTC
 name: cubes  
 commiter: 0xZonaV  
