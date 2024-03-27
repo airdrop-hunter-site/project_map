@@ -1,3 +1,13 @@
+### 2024-03-27 10:59:47 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-03-27 10:59:47 UTC  
+utime: 1711537187  
+added: 6  
+modified: 6  
+removed: 0  
+message: Add solana token minter
+
 ### 2024-02-10 13:14:11 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
