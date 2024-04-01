@@ -1,3 +1,13 @@
+### 2024-04-01 10:00:21 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-01 10:00:21 UTC  
+utime: 1711965621  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add airdrops info for weekly stats on 11122 server
+
 ### 2024-04-01 09:49:41 UTC
 name: cubes  
 commiter: 0xZonaV  
