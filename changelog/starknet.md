@@ -1,3 +1,13 @@
+### 2024-04-02 11:08:19 UTC
+name: starknet  
+commiter: 0xZonaV  
+time: 2024-04-02 11:08:19 UTC  
+utime: 1712056099  
+added: 0  
+modified: 3  
+removed: 3  
+message: - fix rpc error starknet
+
 ### 2024-03-19 12:37:50 UTC
 name: starknet  
 commiter: 0xZonaV  
