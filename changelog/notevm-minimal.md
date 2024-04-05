@@ -1,3 +1,13 @@
+### 2024-04-05 07:34:01 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-04-05 07:34:01 UTC  
+utime: 1712302441  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix script status
+
 ### 2024-04-04 19:52:47 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
