@@ -1,3 +1,13 @@
+### 2024-04-08 18:42:27 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-08 18:42:27 UTC  
+utime: 1712601747  
+added: 2  
+modified: 2  
+removed: 0  
+message: - add zora bonus1
+
 ### 2024-04-08 11:54:59 UTC
 name: cubes  
 commiter: 0xZonaV  
