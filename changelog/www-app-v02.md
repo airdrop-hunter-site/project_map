@@ -1,3 +1,13 @@
+### 2024-04-09 11:06:17 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-04-09 11:06:17 UTC  
+utime: 1712660777  
+added: 1  
+modified: 1  
+removed: 1  
+message: fix career css
+
 ### 2024-04-09 08:24:54 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
