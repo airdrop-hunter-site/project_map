@@ -1,3 +1,13 @@
+### 2024-04-09 21:07:56 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-04-09 21:07:56 UTC  
+utime: 1712696876  
+added: 0  
+modified: 2  
+removed: 2  
+message: fix round for allowance amount for ddao pay
+
 ### 2024-04-09 20:59:21 UTC
 name: www-app-v02  
 commiter: liksagen.com  
