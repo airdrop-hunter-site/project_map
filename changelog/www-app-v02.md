@@ -1,3 +1,13 @@
+### 2024-04-09 20:50:08 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-04-09 20:50:08 UTC  
+utime: 1712695808  
+added: 9  
+modified: 7  
+removed: 4  
+message: add depo in ddao v01
+
 ### 2024-04-09 17:47:00 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
