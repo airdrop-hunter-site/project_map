@@ -1,3 +1,13 @@
+### 2024-04-09 12:58:43 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-09 12:58:43 UTC  
+utime: 1712667523  
+added: 4  
+modified: 7  
+removed: 7  
+message: - update eywa to cross curve support tokens
+
 ### 2024-04-09 08:19:15 UTC
 name: cubes  
 commiter: 0xZonaV  
