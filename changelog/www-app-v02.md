@@ -1,3 +1,13 @@
+### 2024-04-10 20:34:34 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-04-10 20:34:34 UTC  
+utime: 1712781274  
+added: 5  
+modified: 7  
+removed: 7  
+message: add deposit via ddao ver2
+
 ### 2024-04-09 21:07:56 UTC
 name: www-app-v02  
 commiter: liksagen.com  
