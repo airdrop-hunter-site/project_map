@@ -1,3 +1,13 @@
+### 2024-04-11 20:10:01 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-04-11 20:10:01 UTC  
+utime: 1712866201  
+added: 1  
+modified: 2  
+removed: 2  
+message: add debug options for white label
+
 ### 2024-04-11 20:02:22 UTC
 name: www-app-v02  
 commiter: liksagen.com  
