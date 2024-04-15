@@ -1,3 +1,13 @@
+### 2024-04-15 11:26:01 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-04-15 11:26:01 UTC  
+utime: 1713180361  
+added: 0  
+modified: 2  
+removed: 2  
+message: add skip trial button
+
 ### 2024-04-15 10:37:57 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
