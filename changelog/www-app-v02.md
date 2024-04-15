@@ -1,3 +1,13 @@
+### 2024-04-15 09:46:10 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-04-15 09:46:10 UTC  
+utime: 1713174370  
+added: 1  
+modified: 4  
+removed: 4  
+message: fix logo, favicon, aleo btn
+
 ### 2024-04-12 17:13:40 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
