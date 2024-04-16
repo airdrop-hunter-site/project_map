@@ -1,3 +1,13 @@
+### 2024-04-16 09:02:03 UTC
+name: noevm  
+commiter: Alexandr Golikov  
+time: 2024-04-16 09:02:03 UTC  
+utime: 1713258123  
+added: 0  
+modified: 1  
+removed: 1  
+message: add skip trial version bnt
+
 ### 2024-04-16 08:26:43 UTC
 name: noevm  
 commiter: Alexandr Golikov  
