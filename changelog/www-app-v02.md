@@ -1,3 +1,13 @@
+### 2024-04-16 13:46:39 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-04-16 13:46:39 UTC  
+utime: 1713275199  
+added: 21  
+modified: 11  
+removed: 20  
+message: add career card
+
 ### 2024-04-15 16:30:14 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
