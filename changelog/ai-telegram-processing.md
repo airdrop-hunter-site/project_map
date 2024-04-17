@@ -1,3 +1,15 @@
+### 2024-04-17 12:42:10 UTC
+name: ai-telegram-processing  
+commiter: Kindiy31  
+time: 2024-04-17 12:42:10 UTC  
+utime: 1713357730  
+added: 3  
+modified: 4  
+removed: 4  
+message: Add new tables (texts, langs)
+Add saving message to msg_in
+add decoding base64
+
 ### 2024-04-16 12:16:13 UTC
 name: ai-telegram-processing  
 commiter: Kindiy31  
