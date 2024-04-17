@@ -1,3 +1,15 @@
+### 2024-04-17 13:20:56 UTC
+name: ai-telegram-processing  
+commiter: Kindiy31  
+time: 2024-04-17 13:20:56 UTC  
+utime: 1713360056  
+added: 0  
+modified: 5  
+removed: 5  
+message: Add initialization languages and texts
+Insert msg_out and msg_in
+wrapper cmd
+
 ### 2024-04-17 12:42:10 UTC
 name: ai-telegram-processing  
 commiter: Kindiy31  
