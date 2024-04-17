@@ -1,3 +1,13 @@
+### 2024-04-17 10:11:15 UTC
+name: ai-telegram-sender  
+commiter: Kindiy31  
+time: 2024-04-17 10:11:15 UTC  
+utime: 1713348675  
+added: 1  
+modified: 4  
+removed: 4  
+message: Add base64 decofing and model | add logger
+
 ### 2024-04-17 09:27:20 UTC
 name: ai-telegram-sender  
 commiter: Kindiy31  
