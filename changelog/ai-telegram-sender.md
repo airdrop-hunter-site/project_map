@@ -1,3 +1,13 @@
+### 2024-04-17 16:05:28 UTC
+name: ai-telegram-sender  
+commiter: Kindiy31  
+time: 2024-04-17 16:05:28 UTC  
+utime: 1713369928  
+added: 1  
+modified: 3  
+removed: 3  
+message: Add sending keyboards
+
 ### 2024-04-17 13:53:31 UTC
 name: ai-telegram-sender  
 commiter: Kindiy31  
