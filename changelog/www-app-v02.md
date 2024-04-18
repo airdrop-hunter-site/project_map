@@ -1,3 +1,13 @@
+### 2024-04-18 12:13:06 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2024-04-18 12:13:06 UTC  
+utime: 1713442386  
+added: 0  
+modified: 2  
+removed: 2  
+message: updated referral modal
+
 ### 2024-04-17 14:35:07 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
