@@ -1,3 +1,17 @@
+### 2024-04-18 14:09:38 UTC
+name: ai-telegram-processing  
+commiter: Kindiy31  
+time: 2024-04-18 14:09:38 UTC  
+utime: 1713449378  
+added: 0  
+modified: 3  
+removed: 3  
+message: Add new models (subscribe, codes)
+add database methods
+Add generating code
+Add checking code
+Add checking request in chat
+
 ### 2024-04-17 16:04:45 UTC
 name: ai-telegram-processing  
 commiter: Kindiy31  
