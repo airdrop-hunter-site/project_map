@@ -1,3 +1,13 @@
+### 2024-04-18 15:53:14 UTC
+name: notevm-minimal  
+commiter: Alexandr Golikov  
+time: 2024-04-18 15:53:14 UTC  
+utime: 1713455594  
+added: 0  
+modified: 4  
+removed: 4  
+message: fix xpath for skip trial button
+
 ### 2024-04-15 14:44:20 UTC
 name: notevm-minimal  
 commiter: Alexandr Golikov  
