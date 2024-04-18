@@ -1,3 +1,15 @@
+### 2024-04-18 17:16:13 UTC
+name: ai-telegram-processing  
+commiter: Kindiy31  
+time: 2024-04-18 17:16:13 UTC  
+utime: 1713460573  
+added: 0  
+modified: 4  
+removed: 4  
+message: Add subscribe, codes
+Add checking subscribes every second
+add sending invite link
+
 ### 2024-04-18 14:42:07 UTC
 name: ai-telegram-processing  
 commiter: Kindiy31  
