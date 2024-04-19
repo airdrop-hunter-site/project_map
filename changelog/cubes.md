@@ -1,3 +1,15 @@
+### 2024-04-19 07:17:43 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-19 07:17:43 UTC  
+utime: 1713511063  
+added: 3  
+modified: 5  
+removed: 5  
+message: - add dyson swap and stake
+
+- update sushi add liquidity for zkEVM
+
 ### 2024-04-18 09:18:14 UTC
 name: cubes  
 commiter: 0xZonaV  
