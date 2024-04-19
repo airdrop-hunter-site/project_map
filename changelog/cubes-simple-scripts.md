@@ -1,3 +1,13 @@
+### 2024-04-19 11:53:18 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-04-19 11:53:18 UTC  
+utime: 1713527598  
+added: 3  
+modified: 3  
+removed: 0  
+message: add avail sing for airdrop checker
+
 ### 2024-03-27 10:59:47 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
