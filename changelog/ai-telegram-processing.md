@@ -1,3 +1,13 @@
+### 2024-04-19 12:44:39 UTC
+name: ai-telegram-processing  
+commiter: Kindiy31  
+time: 2024-04-19 12:44:39 UTC  
+utime: 1713530679  
+added: 0  
+modified: 1  
+removed: 1  
+message: Change default language
+
 ### 2024-04-19 11:08:50 UTC
 name: ai-telegram-processing  
 commiter: Kindiy31  
