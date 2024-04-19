@@ -1,3 +1,13 @@
+### 2024-04-19 09:28:25 UTC
+name: ai-telegram-processing  
+commiter: Kindiy31  
+time: 2024-04-19 09:28:25 UTC  
+utime: 1713518905  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix Command(lang)
+
 ### 2024-04-19 09:24:56 UTC
 name: ai-telegram-processing  
 commiter: Kindiy31  
