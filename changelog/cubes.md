@@ -1,3 +1,13 @@
+### 2024-04-19 12:02:49 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-19 12:02:49 UTC  
+utime: 1713528169  
+added: 2  
+modified: 4  
+removed: 4  
+message: - add avail send sign_data and checker for airdrop
+
 ### 2024-04-19 07:17:43 UTC
 name: cubes  
 commiter: 0xZonaV  
