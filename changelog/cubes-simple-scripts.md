@@ -1,3 +1,13 @@
+### 2024-04-22 09:04:37 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-04-22 09:04:37 UTC  
+utime: 1713776677  
+added: 3  
+modified: 2  
+removed: 2  
+message: add avail sign for checker starknet
+
 ### 2024-04-19 11:53:18 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
