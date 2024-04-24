@@ -1,3 +1,13 @@
+### 2024-04-24 06:29:24 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-04-24 06:29:24 UTC  
+utime: 1713940164  
+added: 1  
+modified: 4  
+removed: 4  
+message: add get polkadot address from menmonic
+
 ### 2024-04-22 09:04:37 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
