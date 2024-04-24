@@ -1,3 +1,13 @@
+### 2024-04-24 14:58:11 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-04-24 14:58:11 UTC  
+utime: 1713970691  
+added: 0  
+modified: 1  
+removed: 1  
+message: add timedelta
+
 ### 2024-04-24 14:57:26 UTC
 name: ton-game  
 commiter: Kindiy31  
