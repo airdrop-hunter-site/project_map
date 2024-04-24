@@ -1,3 +1,13 @@
+### 2024-04-24 12:57:54 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-04-24 12:57:54 UTC  
+utime: 1713963474  
+added: 0  
+modified: 3  
+removed: 3  
+message: add connect with api
+
 ### 2024-04-24 12:32:07 UTC
 name: ton-game  
 commiter: Kindiy31  
