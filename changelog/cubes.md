@@ -1,3 +1,13 @@
+### 2024-04-24 13:21:29 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-24 13:21:29 UTC  
+utime: 1713964889  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add amount flag for uniswapv2
+
 ### 2024-04-24 09:16:43 UTC
 name: cubes  
 commiter: 0xZonaV  
