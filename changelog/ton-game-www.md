@@ -1,3 +1,13 @@
+### 2024-04-25 13:17:58 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-25 13:17:58 UTC  
+utime: 1714051078  
+added: 3  
+modified: 1  
+removed: 1  
+message: feat: feat: finished layout the Tasks page
+
 ### 2024-04-25 11:30:05 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
