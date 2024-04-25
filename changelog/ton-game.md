@@ -1,3 +1,13 @@
+### 2024-04-25 11:08:26 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-04-25 11:08:26 UTC  
+utime: 1714043306  
+added: 1  
+modified: 2  
+removed: 2  
+message: Add exceptions
+
 ### 2024-04-25 10:10:09 UTC
 name: ton-game  
 commiter: Kindiy31  
