@@ -1,3 +1,13 @@
+### 2024-04-25 09:40:49 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2024-04-25 09:40:49 UTC  
+utime: 1714038049  
+added: 0  
+modified: 2  
+removed: 2  
+message: added link to Join button in blum card
+
 ### 2024-04-25 09:15:37 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
