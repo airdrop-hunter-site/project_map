@@ -1,3 +1,16 @@
+### 2024-04-25 18:56:37 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-04-25 18:56:37 UTC  
+utime: 1714071397  
+added: 7  
+modified: 5  
+removed: 5  
+message: Add check unique in chat
+add exception wrapper aiogram
+Add method user/isJoin
+Add webAppInfoData
+
 ### 2024-04-25 11:12:49 UTC
 name: ton-game  
 commiter: Kindiy31  
