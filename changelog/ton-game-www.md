@@ -1,3 +1,13 @@
+### 2024-04-25 13:20:45 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-25 13:20:45 UTC  
+utime: 1714051245  
+added: 0  
+modified: 2  
+removed: 2  
+message: styles: add icons to BottomNavigation.jsx
+
 ### 2024-04-25 13:19:20 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
