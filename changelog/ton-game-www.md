@@ -1,3 +1,13 @@
+### 2024-04-25 15:27:31 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-25 15:27:31 UTC  
+utime: 1714058851  
+added: 0  
+modified: 2  
+removed: 2  
+message: feat: finished bottom navigation
+
 ### 2024-04-25 15:26:14 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
