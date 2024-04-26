@@ -1,3 +1,13 @@
+### 2024-04-26 15:17:23 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-26 15:17:23 UTC  
+utime: 1714144643  
+added: 0  
+modified: 2  
+removed: 2  
+message: fix: Refactor hook useTelegram.js
+
 ### 2024-04-26 14:53:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
