@@ -1,3 +1,13 @@
+### 2024-04-26 08:41:25 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-04-26 08:41:25 UTC  
+utime: 1714120885  
+added: 0  
+modified: 2  
+removed: 2  
+message: add partners/get
+
 ### 2024-04-26 08:31:50 UTC
 name: ton-game  
 commiter: Kindiy31  
