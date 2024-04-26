@@ -1,3 +1,23 @@
+### 2024-04-26 11:06:27 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-26 11:06:27 UTC  
+utime: 1714129587  
+added: 0  
+modified: 2  
+removed: 2  
+message: npm: install axios
+
+### 2024-04-26 11:05:56 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-26 11:05:56 UTC  
+utime: 1714129556  
+added: 0  
+modified: 0  
+removed: 1  
+message: fix: remove InputNickname.jsx & input.module.css
+
 ### 2024-04-25 15:27:31 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
