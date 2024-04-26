@@ -1,3 +1,14 @@
+### 2024-04-26 10:10:37 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-04-26 10:10:37 UTC  
+utime: 1714126237  
+added: 0  
+modified: 5  
+removed: 5  
+message: Add start wrapper.
+Check refer_id
+
 ### 2024-04-26 08:41:25 UTC
 name: ton-game  
 commiter: Kindiy31  
