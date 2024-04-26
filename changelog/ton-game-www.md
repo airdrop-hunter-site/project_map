@@ -1,3 +1,13 @@
+### 2024-04-26 14:53:42 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-26 14:53:42 UTC  
+utime: 1714143222  
+added: 0  
+modified: 2  
+removed: 2  
+message: fix: Try to get user id from window.Telegram.WebApp
+
 ### 2024-04-26 14:31:06 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
