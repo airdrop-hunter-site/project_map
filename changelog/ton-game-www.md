@@ -1,3 +1,13 @@
+### 2024-04-26 14:31:06 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-26 14:31:06 UTC  
+utime: 1714141866  
+added: 1  
+modified: 3  
+removed: 1  
+message: fix: Remove Telegram Provider, using simple hooks for get user id
+
 ### 2024-04-26 13:44:12 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
