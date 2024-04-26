@@ -1,3 +1,13 @@
+### 2024-04-26 11:32:42 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-26 11:32:42 UTC  
+utime: 1714131162  
+added: 1  
+modified: 1  
+removed: 1  
+message: feat: Send nickname from clint to server
+
 ### 2024-04-26 11:06:27 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
