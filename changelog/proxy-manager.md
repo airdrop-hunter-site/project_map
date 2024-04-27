@@ -1,3 +1,13 @@
+### 2024-04-27 10:29:30 UTC
+name: proxy-manager  
+commiter: liksagen.com  
+time: 2024-04-27 10:29:30 UTC  
+utime: 1714213770  
+added: 1  
+modified: 1  
+removed: 0  
+message: add everyhour info
+
 ### 2024-04-25 14:51:12 UTC
 name: proxy-manager  
 commiter: liksagen.com  
