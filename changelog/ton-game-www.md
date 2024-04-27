@@ -1,3 +1,13 @@
+### 2024-04-27 14:07:55 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-27 14:07:55 UTC  
+utime: 1714226875  
+added: 29  
+modified: 1  
+removed: 1  
+message: styles: Add fonts from design prototype
+
 ### 2024-04-27 13:49:12 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
