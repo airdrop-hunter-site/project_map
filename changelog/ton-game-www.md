@@ -1,3 +1,13 @@
+### 2024-04-27 14:14:49 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-27 14:14:49 UTC  
+utime: 1714227289  
+added: 0  
+modified: 1  
+removed: 1  
+message: styles: import font weights
+
 ### 2024-04-27 14:07:55 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
