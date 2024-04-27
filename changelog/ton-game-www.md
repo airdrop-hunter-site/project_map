@@ -1,3 +1,13 @@
+### 2024-04-27 14:30:06 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-27 14:30:06 UTC  
+utime: 1714228206  
+added: 1  
+modified: 1  
+removed: 1  
+message: refactor: Welcome Page styles.
+
 ### 2024-04-27 14:14:49 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
