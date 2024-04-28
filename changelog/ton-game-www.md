@@ -1,3 +1,13 @@
+### 2024-04-28 08:27:11 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-28 08:27:11 UTC  
+utime: 1714292831  
+added: 0  
+modified: 2  
+removed: 2  
+message: styles: refactor avatar component
+
 ### 2024-04-27 15:45:10 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
