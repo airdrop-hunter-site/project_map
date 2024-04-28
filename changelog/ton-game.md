@@ -1,3 +1,13 @@
+### 2024-04-28 15:12:00 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-04-28 15:12:00 UTC  
+utime: 1714317120  
+added: 0  
+modified: 2  
+removed: 2  
+message: fix is join channel
+
 ### 2024-04-26 10:13:56 UTC
 name: ton-game  
 commiter: Kindiy31  
