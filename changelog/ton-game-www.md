@@ -1,3 +1,13 @@
+### 2024-04-29 15:06:59 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-04-29 15:06:59 UTC  
+utime: 1714403219  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: fix Farming animation with wrong "0"
+
 ### 2024-04-29 14:18:05 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
