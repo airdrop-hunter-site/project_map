@@ -1,3 +1,13 @@
+### 2024-04-29 09:07:22 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-29 09:07:22 UTC  
+utime: 1714381642  
+added: 0  
+modified: 1  
+removed: 1  
+message: feat: send nickname
+
 ### 2024-04-29 09:05:31 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
