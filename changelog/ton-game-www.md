@@ -1,3 +1,13 @@
+### 2024-04-29 11:25:30 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-29 11:25:30 UTC  
+utime: 1714389930  
+added: 0  
+modified: 2  
+removed: 2  
+message: feat: Transition user to homepage if user has game_username
+
 ### 2024-04-29 11:23:26 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
