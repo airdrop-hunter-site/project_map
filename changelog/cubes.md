@@ -1,3 +1,13 @@
+### 2024-04-29 11:32:55 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-29 11:32:55 UTC  
+utime: 1714390375  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add get check liquidity of eywa batch with mysql
+
 ### 2024-04-25 13:57:24 UTC
 name: cubes  
 commiter: 0xZonaV  
