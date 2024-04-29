@@ -1,3 +1,13 @@
+### 2024-04-29 09:19:12 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-29 09:19:12 UTC  
+utime: 1714382352  
+added: 1  
+modified: 3  
+removed: 1  
+message: feat: add startFarming.js
+
 ### 2024-04-29 09:07:22 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
