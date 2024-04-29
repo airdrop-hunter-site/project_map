@@ -1,3 +1,13 @@
+### 2024-04-29 08:53:41 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-29 08:53:41 UTC  
+utime: 1714380821  
+added: 0  
+modified: 1  
+removed: 1  
+message: feat: show game_username from server in home page
+
 ### 2024-04-29 08:43:46 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
