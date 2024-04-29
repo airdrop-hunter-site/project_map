@@ -1,3 +1,13 @@
+### 2024-04-29 17:45:10 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-04-29 17:45:10 UTC  
+utime: 1714412710  
+added: 0  
+modified: 1  
+removed: 1  
+message: - debugging eywa liquidity
+
 ### 2024-04-29 14:20:08 UTC
 name: cubes  
 commiter: 0xZonaV  
