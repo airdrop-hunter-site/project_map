@@ -1,3 +1,13 @@
+### 2024-04-30 15:31:10 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-04-30 15:31:10 UTC  
+utime: 1714491070  
+added: 1  
+modified: 4  
+removed: 4  
+message: add ama line and career card
+
 ### 2024-04-30 13:10:12 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
