@@ -1,3 +1,13 @@
+### 2024-04-30 12:23:22 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-04-30 12:23:22 UTC  
+utime: 1714479802  
+added: 0  
+modified: 3  
+removed: 3  
+message: feat: make animation farm from server data
+
 ### 2024-04-30 11:39:26 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
