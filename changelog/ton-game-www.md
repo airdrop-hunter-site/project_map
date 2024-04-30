@@ -1,3 +1,13 @@
+### 2024-04-30 10:58:37 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-04-30 10:58:37 UTC  
+utime: 1714474717  
+added: 0  
+modified: 1  
+removed: 1  
+message: feat: show user balance on homepage
+
 ### 2024-04-30 10:57:00 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
