@@ -1,3 +1,13 @@
+### 2024-04-30 13:10:12 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2024-04-30 13:10:12 UTC  
+utime: 1714482612  
+added: 0  
+modified: 1  
+removed: 1  
+message: changed zksync readmore
+
 ### 2024-04-30 13:05:37 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
