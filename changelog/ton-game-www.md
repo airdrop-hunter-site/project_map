@@ -1,3 +1,13 @@
+### 2024-04-30 15:00:52 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-04-30 15:00:52 UTC  
+utime: 1714489252  
+added: 0  
+modified: 1  
+removed: 1  
+message: feat: add Loader component
+
 ### 2024-04-30 14:52:22 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
