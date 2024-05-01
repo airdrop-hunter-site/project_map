@@ -1,3 +1,13 @@
+### 2024-05-01 14:29:00 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-01 14:29:00 UTC  
+utime: 1714573740  
+added: 0  
+modified: 7  
+removed: 7  
+message: bug: Animation issue
+
 ### 2024-05-01 11:01:21 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
