@@ -1,3 +1,13 @@
+### 2024-05-01 17:33:24 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-01 17:33:24 UTC  
+utime: 1714584804  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: wrong url endpoint
+
 ### 2024-05-01 17:32:53 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
