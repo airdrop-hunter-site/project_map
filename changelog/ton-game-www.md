@@ -1,3 +1,13 @@
+### 2024-05-01 11:01:21 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-01 11:01:21 UTC  
+utime: 1714561281  
+added: 1  
+modified: 3  
+removed: 3  
+message: feat: get tasks from server
+
 ### 2024-04-30 16:40:29 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
