@@ -1,3 +1,13 @@
+### 2024-05-02 09:55:15 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-02 09:55:15 UTC  
+utime: 1714643715  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: animated farm issue
+
 ### 2024-05-02 09:54:00 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
