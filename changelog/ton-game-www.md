@@ -1,3 +1,13 @@
+### 2024-05-02 11:22:06 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-02 11:22:06 UTC  
+utime: 1714648926  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: wrong user invite lefts
+
 ### 2024-05-02 10:47:11 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
