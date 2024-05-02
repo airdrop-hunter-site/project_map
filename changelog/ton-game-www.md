@@ -1,3 +1,13 @@
+### 2024-05-02 09:45:35 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-02 09:45:35 UTC  
+utime: 1714643135  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: check farming
+
 ### 2024-05-02 09:22:01 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
