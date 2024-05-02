@@ -1,3 +1,13 @@
+### 2024-05-02 10:21:38 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-02 10:21:38 UTC  
+utime: 1714645298  
+added: 0  
+modified: 1  
+removed: 1  
+message: add ckeck join
+
 ### 2024-05-02 10:14:22 UTC
 name: ton-game  
 commiter: Kindiy31  
