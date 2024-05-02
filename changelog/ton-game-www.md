@@ -1,3 +1,13 @@
+### 2024-05-02 09:54:00 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-02 09:54:00 UTC  
+utime: 1714643640  
+added: 1  
+modified: 2  
+removed: 2  
+message: Feat: add referrals list
+
 ### 2024-05-02 09:45:35 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
