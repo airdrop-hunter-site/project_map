@@ -1,3 +1,13 @@
+### 2024-05-02 11:47:16 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-02 11:47:16 UTC  
+utime: 1714650436  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: refactor homepage
+
 ### 2024-05-02 11:38:44 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
