@@ -1,3 +1,13 @@
+### 2024-05-03 12:55:58 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-03 12:55:58 UTC  
+utime: 1714740958  
+added: 0  
+modified: 1  
+removed: 1  
+message: feat: add username to initial input state on login page
+
 ### 2024-05-03 12:53:50 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
