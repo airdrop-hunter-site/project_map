@@ -1,3 +1,13 @@
+### 2024-05-03 14:06:05 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-03 14:06:05 UTC  
+utime: 1714745165  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: Finished change icon color
+
 ### 2024-05-03 13:59:40 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
