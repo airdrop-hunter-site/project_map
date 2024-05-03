@@ -1,3 +1,13 @@
+### 2024-05-03 11:45:25 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-05-03 11:45:25 UTC  
+utime: 1714736725  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix 1inch swap with eywa tokens
+
 ### 2024-05-03 11:41:36 UTC
 name: cubes  
 commiter: 0xZonaV  
