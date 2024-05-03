@@ -1,3 +1,13 @@
+### 2024-05-03 11:41:36 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-05-03 11:41:36 UTC  
+utime: 1714736496  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update uniswap to swap with token address in flag (example: -token 0x0000...)
+
 ### 2024-05-03 07:49:09 UTC
 name: cubes  
 commiter: 0xZonaV  
