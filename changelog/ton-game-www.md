@@ -1,3 +1,13 @@
+### 2024-05-03 14:39:43 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-03 14:39:43 UTC  
+utime: 1714747183  
+added: 0  
+modified: 3  
+removed: 3  
+message: Feat: init layout own drop banner on frens page
+
 ### 2024-05-03 14:24:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
