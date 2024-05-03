@@ -1,3 +1,13 @@
+### 2024-05-03 16:40:03 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-03 16:40:03 UTC  
+utime: 1714754403  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: finished with login page
+
 ### 2024-05-03 16:34:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
