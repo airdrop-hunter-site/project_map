@@ -1,3 +1,13 @@
+### 2024-05-03 13:57:24 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-05-03 13:57:24 UTC  
+utime: 1714744644  
+added: 2  
+modified: 2  
+removed: 2  
+message: add zksync 5-6 circles
+
 ### 2024-05-02 21:00:58 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
