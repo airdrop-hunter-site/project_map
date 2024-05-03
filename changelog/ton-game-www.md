@@ -1,3 +1,13 @@
+### 2024-05-03 13:34:31 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-03 13:34:31 UTC  
+utime: 1714743271  
+added: 0  
+modified: 2  
+removed: 2  
+message: feat: add first char at avatar
+
 ### 2024-05-03 12:55:58 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
