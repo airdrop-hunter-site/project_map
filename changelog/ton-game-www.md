@@ -1,3 +1,13 @@
+### 2024-05-03 15:54:35 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-03 15:54:35 UTC  
+utime: 1714751675  
+added: 0  
+modified: 1  
+removed: 1  
+message: bug: fix input nickcname
+
 ### 2024-05-03 15:53:36 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
