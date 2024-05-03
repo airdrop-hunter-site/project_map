@@ -1,3 +1,13 @@
+### 2024-05-03 12:29:51 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-03 12:29:51 UTC  
+utime: 1714739391  
+added: 0  
+modified: 1  
+removed: 1  
+message: feat: Lock to zoom on app
+
 ### 2024-05-03 12:27:56 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
