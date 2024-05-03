@@ -1,3 +1,13 @@
+### 2024-05-03 10:00:11 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-03 10:00:11 UTC  
+utime: 1714730411  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix bug callback check join
+
 ### 2024-05-03 09:56:15 UTC
 name: ton-game  
 commiter: Kindiy31  
