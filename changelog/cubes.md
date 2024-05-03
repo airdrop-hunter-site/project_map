@@ -1,3 +1,13 @@
+### 2024-05-03 11:55:13 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-05-03 11:55:13 UTC  
+utime: 1714737313  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add uniswapV3 for avax chain
+
 ### 2024-05-03 11:45:25 UTC
 name: cubes  
 commiter: 0xZonaV  
