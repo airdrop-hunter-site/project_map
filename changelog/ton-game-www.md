@@ -1,3 +1,13 @@
+### 2024-05-04 08:03:03 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 08:03:03 UTC  
+utime: 1714809783  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: correct show balance (0.000)
+
 ### 2024-05-04 07:58:19 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
