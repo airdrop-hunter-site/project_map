@@ -1,3 +1,13 @@
+### 2024-05-04 09:31:21 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 09:31:21 UTC  
+utime: 1714815081  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix IOS Scroll with webkit method
+
 ### 2024-05-04 09:12:37 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
