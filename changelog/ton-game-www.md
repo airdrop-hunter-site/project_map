@@ -1,3 +1,23 @@
+### 2024-05-04 09:41:48 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 09:41:48 UTC  
+utime: 1714815708  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix IOS padding
+
+### 2024-05-04 09:41:04 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 09:41:04 UTC  
+utime: 1714815664  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug:fix flash welcome page in the first launch
+
 ### 2024-05-04 09:31:21 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
