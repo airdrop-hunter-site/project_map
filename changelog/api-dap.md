@@ -1,3 +1,13 @@
+### 2024-05-04 20:18:42 UTC
+name: api-dap  
+commiter: liksagen.com  
+time: 2024-05-04 20:18:42 UTC  
+utime: 1714853922  
+added: 2  
+modified: 1  
+removed: 1  
+message: add minchaininfo
+
 ### 2024-05-03 17:42:24 UTC
 name: api-dap  
 commiter: liksagen.com  
