@@ -1,3 +1,13 @@
+### 2024-05-04 08:05:10 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 08:05:10 UTC  
+utime: 1714809910  
+added: 0  
+modified: 1  
+removed: 1  
+message: Style: fix body bgc
+
 ### 2024-05-04 08:03:03 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
