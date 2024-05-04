@@ -1,3 +1,13 @@
+### 2024-05-04 08:50:52 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 08:50:52 UTC  
+utime: 1714812652  
+added: 1  
+modified: 1  
+removed: 1  
+message: Feat: change field is_start to true by user
+
 ### 2024-05-04 08:05:10 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
