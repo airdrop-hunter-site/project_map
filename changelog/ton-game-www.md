@@ -1,3 +1,13 @@
+### 2024-05-04 14:42:39 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 14:42:39 UTC  
+utime: 1714833759  
+added: 1  
+modified: 1  
+removed: 1  
+message: Styles: remove png logo to svg
+
 ### 2024-05-04 14:34:23 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
