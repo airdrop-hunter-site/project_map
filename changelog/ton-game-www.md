@@ -1,3 +1,13 @@
+### 2024-05-04 10:55:04 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 10:55:04 UTC  
+utime: 1714820104  
+added: 0  
+modified: 3  
+removed: 3  
+message: Feat: onClaimed farm without redirection
+
 ### 2024-05-04 10:27:06 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
