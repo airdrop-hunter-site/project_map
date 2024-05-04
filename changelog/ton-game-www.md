@@ -1,3 +1,13 @@
+### 2024-05-04 15:18:54 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 15:18:54 UTC  
+utime: 1714835934  
+added: 10  
+modified: 7  
+removed: 8  
+message: Styles: global png remove to svg in all components
+
 ### 2024-05-04 14:42:39 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
