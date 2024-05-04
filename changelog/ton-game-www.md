@@ -1,3 +1,13 @@
+### 2024-05-04 07:58:19 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 07:58:19 UTC  
+utime: 1714809499  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: show btn continue if all options is done
+
 ### 2024-05-03 16:40:03 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
