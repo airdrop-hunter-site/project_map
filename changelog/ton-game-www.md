@@ -1,3 +1,13 @@
+### 2024-05-04 10:15:36 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 10:15:36 UTC  
+utime: 1714817736  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix IOS frens page
+
 ### 2024-05-04 10:13:15 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
