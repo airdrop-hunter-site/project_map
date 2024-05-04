@@ -1,3 +1,13 @@
+### 2024-05-04 09:06:17 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 09:06:17 UTC  
+utime: 1714813577  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: redirect user if user.is_start && user.game_username
+
 ### 2024-05-04 08:59:51 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
