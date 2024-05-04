@@ -1,3 +1,13 @@
+### 2024-05-04 09:50:31 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-04 09:50:31 UTC  
+utime: 1714816231  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix IOS padding
+
 ### 2024-05-04 09:41:48 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
