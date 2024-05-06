@@ -1,3 +1,13 @@
+### 2024-05-06 12:12:05 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-06 12:12:05 UTC  
+utime: 1714997525  
+added: 0  
+modified: 1  
+removed: 2  
+message: Refactor: move Statistic to other project
+
 ### 2024-05-06 11:11:46 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
