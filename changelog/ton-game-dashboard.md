@@ -1,3 +1,13 @@
+### 2024-05-06 15:53:06 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-06 15:53:06 UTC  
+utime: 1715010786  
+added: 3  
+modified: 4  
+removed: 4  
+message: Feat: move statistic cards to own components
+
 ### 2024-05-06 15:24:37 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
