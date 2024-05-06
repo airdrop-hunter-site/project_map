@@ -1,3 +1,13 @@
+### 2024-05-06 11:11:46 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-06 11:11:46 UTC  
+utime: 1714993906  
+added: 2  
+modified: 3  
+removed: 3  
+message: Feat: init statisic page & create layout
+
 ### 2024-05-06 10:19:31 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
