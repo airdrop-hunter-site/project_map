@@ -1,3 +1,13 @@
+### 2024-05-06 11:14:40 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-05-06 11:14:40 UTC  
+utime: 1714994080  
+added: 0  
+modified: 2  
+removed: 2  
+message: hide logo from bonus modal
+
 ### 2024-05-06 01:33:21 UTC
 name: www-app-v02  
 commiter: MarianRoshchupkin  
