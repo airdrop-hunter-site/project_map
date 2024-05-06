@@ -1,3 +1,13 @@
+### 2024-05-06 10:19:31 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-06 10:19:31 UTC  
+utime: 1714990771  
+added: 1  
+modified: 2  
+removed: 1  
+message: Refactor: wrong name home page component
+
 ### 2024-05-04 15:21:00 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
