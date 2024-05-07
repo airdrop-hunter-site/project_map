@@ -1,3 +1,13 @@
+### 2024-05-07 15:00:01 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-07 15:00:01 UTC  
+utime: 1715094001  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: wrong size token icon in referral users
+
 ### 2024-05-07 14:22:58 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
