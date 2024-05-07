@@ -1,3 +1,13 @@
+### 2024-05-07 12:42:52 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-07 12:42:52 UTC  
+utime: 1715085772  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: move username & avatar on homepage
+
 ### 2024-05-06 12:28:44 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
