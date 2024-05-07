@@ -1,3 +1,13 @@
+### 2024-05-07 13:07:10 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-07 13:07:10 UTC  
+utime: 1715087230  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: Fix token icon size on homepage
+
 ### 2024-05-07 12:42:52 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
