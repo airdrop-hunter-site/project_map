@@ -1,3 +1,13 @@
+### 2024-05-07 19:01:11 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-07 19:01:11 UTC  
+utime: 1715108471  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: finished fetch & render users data from all periods (hour, day, all time)
+
 ### 2024-05-07 18:29:25 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
