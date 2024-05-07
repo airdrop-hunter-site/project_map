@@ -1,3 +1,13 @@
+### 2024-05-07 11:05:47 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-07 11:05:47 UTC  
+utime: 1715079947  
+added: 0  
+modified: 2  
+removed: 2  
+message: fix time_finish at invite code
+
 ### 2024-05-06 12:57:23 UTC
 name: ton-game  
 commiter: Kindiy31  
