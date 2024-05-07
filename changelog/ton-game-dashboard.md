@@ -1,3 +1,13 @@
+### 2024-05-07 18:29:25 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-07 18:29:25 UTC  
+utime: 1715106565  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: fetch first data to statistic component
+
 ### 2024-05-07 18:17:16 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
