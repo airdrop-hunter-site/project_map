@@ -1,3 +1,13 @@
+### 2024-05-07 13:08:28 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-07 13:08:28 UTC  
+utime: 1715087308  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: Fix horizontal scroll in all application
+
 ### 2024-05-07 13:07:10 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
