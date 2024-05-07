@@ -1,3 +1,13 @@
+### 2024-05-07 13:34:34 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-05-07 13:34:34 UTC  
+utime: 1715088874  
+added: 1  
+modified: 1  
+removed: 0  
+message: - add get tvl endpoint for eywa
+
 ### 2024-05-01 15:01:13 UTC
 name: api-cube  
 commiter: liksagen.com  
