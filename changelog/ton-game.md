@@ -1,3 +1,13 @@
+### 2024-05-07 18:36:06 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-07 18:36:06 UTC  
+utime: 1715106966  
+added: 0  
+modified: 1  
+removed: 1  
+message: Add is_personal column
+
 ### 2024-05-07 18:21:31 UTC
 name: ton-game  
 commiter: Kindiy31  
