@@ -1,3 +1,13 @@
+### 2024-05-08 12:47:52 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-08 12:47:52 UTC  
+utime: 1715172472  
+added: 1  
+modified: 1  
+removed: 1  
+message: Styles: Separated svg token icon to own component (reason: long path)
+
 ### 2024-05-08 10:14:39 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
