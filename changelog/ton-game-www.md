@@ -1,3 +1,13 @@
+### 2024-05-08 13:32:43 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-08 13:32:43 UTC  
+utime: 1715175163  
+added: 0  
+modified: 3  
+removed: 3  
+message: Bug: fix, start & claim button. refactor home page, remove excess variables & fix wrong condition
+
 ### 2024-05-08 12:47:52 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
