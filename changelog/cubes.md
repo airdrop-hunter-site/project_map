@@ -1,3 +1,13 @@
+### 2024-05-08 15:07:56 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-05-08 15:07:56 UTC  
+utime: 1715180876  
+added: 0  
+modified: 1  
+removed: 1  
+message: - updating checkLiquidity.js to update every 24 hours table batch liquidity
+
 ### 2024-05-08 15:01:24 UTC
 name: cubes  
 commiter: 0xZonaV  
