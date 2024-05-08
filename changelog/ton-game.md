@@ -1,3 +1,13 @@
+### 2024-05-08 10:17:49 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-08 10:17:49 UTC  
+utime: 1715163469  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix trigger
+
 ### 2024-05-08 09:53:10 UTC
 name: ton-game  
 commiter: Kindiy31  
