@@ -1,3 +1,13 @@
+### 2024-05-08 08:46:24 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-08 08:46:24 UTC  
+utime: 1715157984  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: finished home page navigation
+
 ### 2024-05-07 19:01:11 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
