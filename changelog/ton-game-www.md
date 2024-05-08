@@ -1,3 +1,13 @@
+### 2024-05-08 10:14:39 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-08 10:14:39 UTC  
+utime: 1715163279  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: expand the application to the full height of the screen
+
 ### 2024-05-07 15:00:01 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
