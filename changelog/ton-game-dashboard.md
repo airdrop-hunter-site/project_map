@@ -1,3 +1,13 @@
+### 2024-05-08 16:30:38 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-08 16:30:38 UTC  
+utime: 1715185838  
+added: 1  
+modified: 4  
+removed: 4  
+message: Feat: finished create invites functional for invite pages
+
 ### 2024-05-08 12:29:10 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
