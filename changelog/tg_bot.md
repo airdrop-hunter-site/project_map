@@ -1,3 +1,13 @@
+### 2024-05-08 12:51:08 UTC
+name: tg_bot  
+commiter: airdrop-hunter.site  
+time: 2024-05-08 12:51:08 UTC  
+utime: 1715172668  
+added: 0  
+modified: 1  
+removed: 1  
+message: change ref link
+
 ### 2024-05-07 18:22:35 UTC
 name: tg_bot  
 commiter: airdrop-hunter.site  
