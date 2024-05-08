@@ -1,3 +1,13 @@
+### 2024-05-08 12:29:10 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-08 12:29:10 UTC  
+utime: 1715171350  
+added: 3  
+modified: 1  
+removed: 1  
+message: Feat: fetch channels invite data and render on dashboard
+
 ### 2024-05-08 11:55:35 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
