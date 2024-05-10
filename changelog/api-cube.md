@@ -1,3 +1,13 @@
+### 2024-05-10 18:24:53 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-05-10 18:24:53 UTC  
+utime: 1715365493  
+added: 0  
+modified: 1  
+removed: 1  
+message: add new data to get_tvl method
+
 ### 2024-05-07 14:13:41 UTC
 name: api-cube  
 commiter: 0xZonaV  
