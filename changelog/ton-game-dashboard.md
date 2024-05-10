@@ -1,3 +1,13 @@
+### 2024-05-10 15:44:12 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-10 15:44:12 UTC  
+utime: 1715355852  
+added: 0  
+modified: 2  
+removed: 2  
+message: refactor: fix typo errors & remove all time active users
+
 ### 2024-05-10 13:25:52 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
