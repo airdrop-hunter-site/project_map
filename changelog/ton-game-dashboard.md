@@ -1,3 +1,13 @@
+### 2024-05-10 13:25:52 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-10 13:25:52 UTC  
+utime: 1715347552  
+added: 2  
+modified: 2  
+removed: 2  
+message: Feat: Show active users & remove errors component
+
 ### 2024-05-10 05:58:54 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
