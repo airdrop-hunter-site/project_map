@@ -1,3 +1,13 @@
+### 2024-05-10 05:58:54 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-10 05:58:54 UTC  
+utime: 1715320734  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: finished copy link for channel on Channel list add confirm & link with real data
+
 ### 2024-05-10 05:35:25 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
