@@ -1,3 +1,13 @@
+### 2024-05-10 12:26:05 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-10 12:26:05 UTC  
+utime: 1715343965  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: animation user token amount after claim rewards
+
 ### 2024-05-08 13:32:43 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
