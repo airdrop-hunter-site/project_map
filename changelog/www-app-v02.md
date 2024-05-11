@@ -1,3 +1,13 @@
+### 2024-05-11 07:07:29 UTC
+name: www-app-v02  
+commiter: MarianRoshchupkin  
+time: 2024-05-11 07:07:29 UTC  
+utime: 1715411249  
+added: 0  
+modified: 1  
+removed: 1  
+message: updated currency logo for zksync
+
 ### 2024-05-10 15:35:50 UTC
 name: www-app-v02  
 commiter: Alex (Olor)  
