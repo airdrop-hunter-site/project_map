@@ -1,3 +1,13 @@
+### 2024-05-11 12:00:00 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-11 12:00:00 UTC  
+utime: 1715428800  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: create subscribe page if user is not subscribed on our channel
+
 ### 2024-05-11 11:02:04 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
