@@ -1,3 +1,13 @@
+### 2024-05-12 10:42:32 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-12 10:42:32 UTC  
+utime: 1715510552  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: Resizing amount field
+
 ### 2024-05-12 09:24:37 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
