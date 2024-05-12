@@ -1,3 +1,13 @@
+### 2024-05-12 13:56:57 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-12 13:56:57 UTC  
+utime: 1715522217  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: scale username first char
+
 ### 2024-05-12 12:10:11 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
