@@ -1,3 +1,13 @@
+### 2024-05-12 11:22:08 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-12 11:22:08 UTC  
+utime: 1715512928  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: wrong condition on render frens page
+
 ### 2024-05-12 10:42:32 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
