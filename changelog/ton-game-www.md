@@ -1,3 +1,23 @@
+### 2024-05-12 09:24:37 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-12 09:24:37 UTC  
+utime: 1715505877  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix wrong attribute Xlinks
+
+### 2024-05-12 09:24:02 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-12 09:24:02 UTC  
+utime: 1715505842  
+added: 1  
+modified: 5  
+removed: 5  
+message: Feat: create confetti animation after claim farming
+
 ### 2024-05-11 12:00:00 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
