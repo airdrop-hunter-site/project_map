@@ -1,3 +1,13 @@
+### 2024-05-12 11:28:56 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-12 11:28:56 UTC  
+utime: 1715513336  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix title line height & remove getUser function
+
 ### 2024-05-12 11:22:08 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
