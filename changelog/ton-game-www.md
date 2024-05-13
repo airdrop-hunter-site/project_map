@@ -1,3 +1,13 @@
+### 2024-05-13 14:03:39 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-13 14:03:39 UTC  
+utime: 1715609019  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: remove decimals from Frens Page
+
 ### 2024-05-13 13:53:20 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
