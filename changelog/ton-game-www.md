@@ -1,3 +1,13 @@
+### 2024-05-13 13:52:20 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-13 13:52:20 UTC  
+utime: 1715608340  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: removed decimals on Homepage
+
 ### 2024-05-13 13:51:20 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
