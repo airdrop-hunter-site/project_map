@@ -1,3 +1,13 @@
+### 2024-05-13 13:51:20 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-13 13:51:20 UTC  
+utime: 1715608280  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: increased the button font on task page
+
 ### 2024-05-13 11:32:02 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
