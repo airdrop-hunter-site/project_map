@@ -1,3 +1,13 @@
+### 2024-05-13 19:02:49 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-13 19:02:49 UTC  
+utime: 1715626969  
+added: 0  
+modified: 1  
+removed: 1  
+message: Add counters to take/partners
+
 ### 2024-05-13 18:58:43 UTC
 name: ton-game  
 commiter: Kindiy31  
