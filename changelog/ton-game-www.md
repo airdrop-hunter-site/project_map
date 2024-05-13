@@ -1,3 +1,13 @@
+### 2024-05-13 15:09:30 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-13 15:09:30 UTC  
+utime: 1715612970  
+added: 0  
+modified: 4  
+removed: 4  
+message: Styles: Remove CoinSvg to the separated component & use width & hight with props
+
 ### 2024-05-13 14:03:39 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
