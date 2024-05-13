@@ -1,3 +1,13 @@
+### 2024-05-13 07:52:04 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-13 07:52:04 UTC  
+utime: 1715586724  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix referral partners render
+
 ### 2024-05-12 14:00:23 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
