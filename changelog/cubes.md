@@ -1,3 +1,13 @@
+### 2024-05-13 06:35:44 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-05-13 06:35:44 UTC  
+utime: 1715582144  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix check batch liquidity
+
 ### 2024-05-13 06:19:35 UTC
 name: cubes  
 commiter: 0xZonaV  
