@@ -1,3 +1,13 @@
+### 2024-05-14 12:07:23 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-14 12:07:23 UTC  
+utime: 1715688443  
+added: 0  
+modified: 2  
+removed: 2  
+message: Add stats for refer_balance
+
 ### 2024-05-14 12:03:43 UTC
 name: ton-game  
 commiter: Kindiy31  
