@@ -1,3 +1,13 @@
+### 2024-05-14 12:00:54 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-14 12:00:54 UTC  
+utime: 1715688054  
+added: 0  
+modified: 3  
+removed: 3  
+message: Add claim refers
+
 ### 2024-05-14 11:49:52 UTC
 name: ton-game  
 commiter: Kindiy31  
