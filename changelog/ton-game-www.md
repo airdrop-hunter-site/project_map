@@ -1,3 +1,13 @@
+### 2024-05-14 08:17:04 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 08:17:04 UTC  
+utime: 1715674624  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: add space between coin icon & amount
+
 ### 2024-05-14 07:58:08 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
