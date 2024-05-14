@@ -1,3 +1,23 @@
+### 2024-05-14 13:10:46 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 13:10:46 UTC  
+utime: 1715692246  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: fix routing & loader component
+
+### 2024-05-14 13:10:00 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 13:10:00 UTC  
+utime: 1715692200  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: wrong render avatar components
+
 ### 2024-05-14 12:41:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
