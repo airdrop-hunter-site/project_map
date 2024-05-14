@@ -1,3 +1,13 @@
+### 2024-05-14 10:23:15 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 10:23:15 UTC  
+utime: 1715682195  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: add new props to avatar component
+
 ### 2024-05-14 08:17:04 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
