@@ -1,3 +1,13 @@
+### 2024-05-14 13:40:04 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-14 13:40:04 UTC  
+utime: 1715694004  
+added: 0  
+modified: 3  
+removed: 3  
+message: Add claim partner program
+
 ### 2024-05-14 12:07:23 UTC
 name: ton-game  
 commiter: Kindiy31  
