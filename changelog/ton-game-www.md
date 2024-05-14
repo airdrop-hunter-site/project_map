@@ -1,3 +1,23 @@
+### 2024-05-14 10:25:54 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 10:25:54 UTC  
+utime: 1715682354  
+added: 0  
+modified: 2  
+removed: 2  
+message: bug: fix props to avatar component
+
+### 2024-05-14 10:25:11 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 10:25:11 UTC  
+utime: 1715682311  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: add count "available task"
+
 ### 2024-05-14 10:24:16 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
