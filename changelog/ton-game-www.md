@@ -1,3 +1,13 @@
+### 2024-05-14 07:20:57 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 07:20:57 UTC  
+utime: 1715671257  
+added: 0  
+modified: 12  
+removed: 12  
+message: Fix: remove api to test api
+
 ### 2024-05-14 07:02:34 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
