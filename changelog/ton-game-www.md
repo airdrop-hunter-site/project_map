@@ -1,3 +1,13 @@
+### 2024-05-14 12:29:50 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 12:29:50 UTC  
+utime: 1715689790  
+added: 6  
+modified: 3  
+removed: 2  
+message: Feat: rework options page remove antd Progress and create own Progress animation
+
 ### 2024-05-14 10:25:54 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
