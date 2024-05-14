@@ -1,3 +1,13 @@
+### 2024-05-14 10:24:16 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-14 10:24:16 UTC  
+utime: 1715682256  
+added: 1  
+modified: 2  
+removed: 2  
+message: Feat: show referral count to the frens page
+
 ### 2024-05-14 10:23:15 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
