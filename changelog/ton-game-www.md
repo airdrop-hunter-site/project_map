@@ -1,3 +1,13 @@
+### 2024-05-15 09:37:29 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-15 09:37:29 UTC  
+utime: 1715765849  
+added: 9  
+modified: 2  
+removed: 2  
+message: feat: add tabs on frens page & separated frens page on own components
+
 ### 2024-05-15 08:47:56 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
