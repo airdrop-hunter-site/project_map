@@ -1,3 +1,13 @@
+### 2024-05-15 14:03:18 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-15 14:03:18 UTC  
+utime: 1715781798  
+added: 0  
+modified: 3  
+removed: 3  
+message: Add farmings to stats and change trigger
+
 ### 2024-05-15 09:18:44 UTC
 name: ton-game  
 commiter: Kindiy31  
