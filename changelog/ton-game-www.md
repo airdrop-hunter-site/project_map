@@ -1,3 +1,13 @@
+### 2024-05-15 09:49:11 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-15 09:49:11 UTC  
+utime: 1715766551  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: wrong tg user id
+
 ### 2024-05-15 09:40:10 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
