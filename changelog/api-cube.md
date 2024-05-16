@@ -1,3 +1,13 @@
+### 2024-05-16 17:48:07 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-05-16 17:48:07 UTC  
+utime: 1715881687  
+added: 0  
+modified: 1  
+removed: 1  
+message: update cors access for cubeadm
+
 ### 2024-05-16 16:49:50 UTC
 name: api-cube  
 commiter: 0xZonaV  
