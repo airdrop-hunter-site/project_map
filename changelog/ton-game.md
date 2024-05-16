@@ -1,3 +1,13 @@
+### 2024-05-16 13:14:10 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-16 13:14:10 UTC  
+utime: 1715865250  
+added: 0  
+modified: 2  
+removed: 2  
+message: Add language setter
+
 ### 2024-05-16 13:09:00 UTC
 name: ton-game  
 commiter: Kindiy31  
