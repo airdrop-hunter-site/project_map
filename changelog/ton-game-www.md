@@ -1,3 +1,13 @@
+### 2024-05-16 11:09:29 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-16 11:09:29 UTC  
+utime: 1715857769  
+added: 0  
+modified: 1  
+removed: 1  
+message: bug: fix flash subscribe page in main router
+
 ### 2024-05-16 10:38:03 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
