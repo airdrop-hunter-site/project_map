@@ -1,3 +1,13 @@
+### 2024-05-16 10:21:43 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-16 10:21:43 UTC  
+utime: 1715854903  
+added: 3  
+modified: 4  
+removed: 4  
+message: feat: done with html layout & css styles. on leaderboard page
+
 ### 2024-05-15 15:47:59 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
