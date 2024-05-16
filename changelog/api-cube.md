@@ -1,3 +1,13 @@
+### 2024-05-16 15:56:32 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-05-16 15:56:32 UTC  
+utime: 1715874992  
+added: 1  
+modified: 1  
+removed: 0  
+message: add get eywa owner table endpoint
+
 ### 2024-05-10 18:24:53 UTC
 name: api-cube  
 commiter: 0xZonaV  
