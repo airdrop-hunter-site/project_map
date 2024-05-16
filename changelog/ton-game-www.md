@@ -1,3 +1,13 @@
+### 2024-05-16 15:39:55 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-16 15:39:55 UTC  
+utime: 1715873995  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix progressbar color
+
 ### 2024-05-16 12:45:26 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
