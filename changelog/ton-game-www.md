@@ -1,3 +1,13 @@
+### 2024-05-16 10:38:03 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-16 10:38:03 UTC  
+utime: 1715855883  
+added: 1  
+modified: 1  
+removed: 1  
+message: feat: add done icon if progressbar status === 100%
+
 ### 2024-05-16 10:21:43 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
