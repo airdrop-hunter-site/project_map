@@ -1,3 +1,13 @@
+### 2024-05-16 12:43:09 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-16 12:43:09 UTC  
+utime: 1715863389  
+added: 0  
+modified: 2  
+removed: 2  
+message: bug: fix condition render show invite page if user has not referrals
+
 ### 2024-05-16 12:38:29 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
