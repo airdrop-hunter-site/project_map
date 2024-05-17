@@ -1,3 +1,13 @@
+### 2024-05-17 15:37:43 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-17 15:37:43 UTC  
+utime: 1715960263  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix scroll on invite page
+
 ### 2024-05-17 15:34:10 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
