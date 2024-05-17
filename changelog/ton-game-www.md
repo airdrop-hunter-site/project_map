@@ -1,3 +1,13 @@
+### 2024-05-17 15:25:00 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-17 15:25:00 UTC  
+utime: 1715959500  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: switch token icons & user icons depending on the tabs
+
 ### 2024-05-17 15:19:23 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
