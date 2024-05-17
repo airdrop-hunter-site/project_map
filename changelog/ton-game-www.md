@@ -1,3 +1,13 @@
+### 2024-05-17 14:11:12 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-17 14:11:12 UTC  
+utime: 1715955072  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix bottom navigation height from 90 to 60px
+
 ### 2024-05-17 14:02:50 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
