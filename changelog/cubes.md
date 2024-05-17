@@ -1,3 +1,19 @@
+### 2024-05-17 12:16:56 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-05-17 12:16:56 UTC  
+utime: 1715948216  
+added: 9  
+modified: 9  
+removed: 9  
+message: - add ezkalibur (swap/add liq/remove liq)
+
+- add zkSync native bridge
+
+- update izumi to work with zkSync era
+
+- update onsen
+
 ### 2024-05-16 13:49:30 UTC
 name: cubes  
 commiter: 0xZonaV  
