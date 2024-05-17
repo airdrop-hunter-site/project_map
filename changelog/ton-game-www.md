@@ -1,3 +1,13 @@
+### 2024-05-17 10:31:19 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-17 10:31:19 UTC  
+utime: 1715941879  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix frens render. add scroll
+
 ### 2024-05-17 09:40:36 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
