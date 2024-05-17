@@ -1,3 +1,13 @@
+### 2024-05-17 09:22:37 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-17 09:22:37 UTC  
+utime: 1715937757  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: add shadows on active tab
+
 ### 2024-05-17 09:01:02 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
