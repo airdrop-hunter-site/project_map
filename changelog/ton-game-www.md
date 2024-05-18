@@ -1,3 +1,13 @@
+### 2024-05-18 09:52:30 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 09:52:30 UTC  
+utime: 1716025950  
+added: 0  
+modified: 2  
+removed: 2  
+message: fix: wrong userId in function sendStartingMessage.js
+
 ### 2024-05-18 09:42:35 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
