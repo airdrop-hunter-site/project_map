@@ -1,3 +1,13 @@
+### 2024-05-18 11:21:10 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 11:21:10 UTC  
+utime: 1716031270  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix spinner animation
+
 ### 2024-05-18 11:11:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
