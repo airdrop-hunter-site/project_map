@@ -1,3 +1,13 @@
+### 2024-05-18 11:50:33 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 11:50:33 UTC  
+utime: 1716033033  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: show real self place
+
 ### 2024-05-18 11:47:04 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
