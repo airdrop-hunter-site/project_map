@@ -1,3 +1,13 @@
+### 2024-05-18 10:48:38 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 10:48:38 UTC  
+utime: 1716029318  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: disabled claim button & fix avatar font-size
+
 ### 2024-05-18 10:44:03 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
