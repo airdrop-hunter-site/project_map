@@ -1,3 +1,13 @@
+### 2024-05-18 11:47:04 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 11:47:04 UTC  
+utime: 1716032824  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix tabs border-radius
+
 ### 2024-05-18 11:30:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
