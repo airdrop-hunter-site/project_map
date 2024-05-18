@@ -1,3 +1,13 @@
+### 2024-05-18 09:59:02 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 09:59:02 UTC  
+utime: 1716026342  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: hide scrollbar on referrals & leaderboard pages
+
 ### 2024-05-18 09:52:30 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
