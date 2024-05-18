@@ -1,3 +1,13 @@
+### 2024-05-18 10:57:22 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 10:57:22 UTC  
+utime: 1716029842  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: add spin loader if data === null
+
 ### 2024-05-18 10:54:43 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
