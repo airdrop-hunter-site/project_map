@@ -1,3 +1,13 @@
+### 2024-05-18 11:28:07 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 11:28:07 UTC  
+utime: 1716031687  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix margin between leaders & fix my self place font size
+
 ### 2024-05-18 11:21:10 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
