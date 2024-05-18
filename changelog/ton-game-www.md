@@ -1,3 +1,13 @@
+### 2024-05-18 11:30:42 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 11:30:42 UTC  
+utime: 1716031842  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix spinner bug
+
 ### 2024-05-18 11:28:07 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
