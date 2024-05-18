@@ -1,3 +1,13 @@
+### 2024-05-18 11:11:42 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-18 11:11:42 UTC  
+utime: 1716030702  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: Show last place & fix spinner
+
 ### 2024-05-18 10:57:22 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
