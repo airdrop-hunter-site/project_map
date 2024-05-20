@@ -1,3 +1,13 @@
+### 2024-05-20 20:09:01 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 20:09:01 UTC  
+utime: 1716235741  
+added: 0  
+modified: 14  
+removed: 14  
+message: Feat: Change api URL's to product
+
 ### 2024-05-20 20:02:07 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
