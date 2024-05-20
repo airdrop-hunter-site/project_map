@@ -1,3 +1,13 @@
+### 2024-05-20 14:00:06 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 14:00:06 UTC  
+utime: 1716213606  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix routes
+
 ### 2024-05-20 13:59:24 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
