@@ -1,3 +1,13 @@
+### 2024-05-20 19:12:34 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 19:12:34 UTC  
+utime: 1716232354  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: scroll invite data
+
 ### 2024-05-20 19:01:49 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
