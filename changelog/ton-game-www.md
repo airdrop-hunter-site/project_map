@@ -1,3 +1,13 @@
+### 2024-05-20 13:59:24 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 13:59:24 UTC  
+utime: 1716213564  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix scroll referrals
+
 ### 2024-05-20 11:44:03 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
