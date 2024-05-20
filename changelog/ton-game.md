@@ -1,3 +1,13 @@
+### 2024-05-20 12:39:51 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-20 12:39:51 UTC  
+utime: 1716208791  
+added: 0  
+modified: 1  
+removed: 1  
+message: Add load_only
+
 ### 2024-05-20 12:34:01 UTC
 name: ton-game  
 commiter: Kindiy31  
