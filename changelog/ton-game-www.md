@@ -1,3 +1,13 @@
+### 2024-05-20 17:00:39 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 17:00:39 UTC  
+utime: 1716224439  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: fix frens bottom navigation
+
 ### 2024-05-20 16:28:26 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
