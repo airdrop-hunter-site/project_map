@@ -1,3 +1,13 @@
+### 2024-05-20 20:02:07 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 20:02:07 UTC  
+utime: 1716235327  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: add allowed IDs
+
 ### 2024-05-20 19:50:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
