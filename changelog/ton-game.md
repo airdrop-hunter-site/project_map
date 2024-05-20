@@ -1,3 +1,13 @@
+### 2024-05-20 20:06:55 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-20 20:06:55 UTC  
+utime: 1716235615  
+added: 0  
+modified: 1  
+removed: 1  
+message: Add send_all_refer_earns
+
 ### 2024-05-20 20:01:12 UTC
 name: ton-game  
 commiter: Kindiy31  
