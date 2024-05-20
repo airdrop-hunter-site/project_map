@@ -1,3 +1,13 @@
+### 2024-05-20 10:58:20 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 10:58:20 UTC  
+utime: 1716202700  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: Claim referrals balance
+
 ### 2024-05-20 10:30:32 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
