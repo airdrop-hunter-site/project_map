@@ -1,3 +1,13 @@
+### 2024-05-20 16:01:40 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 16:01:40 UTC  
+utime: 1716220900  
+added: 0  
+modified: 2  
+removed: 2  
+message: Bug: fix arguments & fetch data pages
+
 ### 2024-05-20 15:54:01 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
