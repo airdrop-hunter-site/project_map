@@ -1,3 +1,13 @@
+### 2024-05-20 16:18:09 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 16:18:09 UTC  
+utime: 1716221889  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix allowed isd
+
 ### 2024-05-20 16:14:34 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
