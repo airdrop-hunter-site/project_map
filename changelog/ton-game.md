@@ -1,3 +1,13 @@
+### 2024-05-20 07:42:12 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-20 07:42:12 UTC  
+utime: 1716190932  
+added: 0  
+modified: 1  
+removed: 1  
+message: Set default value earn for circle = 85
+
 ### 2024-05-20 07:30:05 UTC
 name: ton-game  
 commiter: Kindiy31  
