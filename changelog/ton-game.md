@@ -1,3 +1,13 @@
+### 2024-05-20 12:40:57 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-20 12:40:57 UTC  
+utime: 1716208857  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix bug with load only
+
 ### 2024-05-20 12:39:51 UTC
 name: ton-game  
 commiter: Kindiy31  
