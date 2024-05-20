@@ -1,3 +1,13 @@
+### 2024-05-20 21:23:55 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 21:23:55 UTC  
+utime: 1716240235  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix overflow scroll
+
 ### 2024-05-20 21:07:45 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
