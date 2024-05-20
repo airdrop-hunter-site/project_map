@@ -1,3 +1,13 @@
+### 2024-05-20 10:30:32 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 10:30:32 UTC  
+utime: 1716201032  
+added: 1  
+modified: 1  
+removed: 0  
+message: Styles: fix frens amount
+
 ### 2024-05-20 10:29:15 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
