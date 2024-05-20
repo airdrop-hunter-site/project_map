@@ -1,3 +1,13 @@
+### 2024-05-20 20:12:53 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-20 20:12:53 UTC  
+utime: 1716235973  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: decimals .000
+
 ### 2024-05-20 20:09:01 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
