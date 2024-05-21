@@ -1,3 +1,13 @@
+### 2024-05-21 11:06:42 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-21 11:06:42 UTC  
+utime: 1716289602  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: change button size & cut long nicknames
+
 ### 2024-05-20 21:23:55 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
