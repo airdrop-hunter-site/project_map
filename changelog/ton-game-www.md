@@ -1,3 +1,13 @@
+### 2024-05-21 12:44:50 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-21 12:44:50 UTC  
+utime: 1716295490  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: fix scroll & lazyloading
+
 ### 2024-05-21 11:06:42 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
