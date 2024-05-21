@@ -1,3 +1,13 @@
+### 2024-05-21 13:37:05 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-21 13:37:05 UTC  
+utime: 1716298625  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix tg close function
+
 ### 2024-05-21 13:30:29 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
