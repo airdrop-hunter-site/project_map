@@ -1,3 +1,13 @@
+### 2024-05-22 08:15:15 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-05-22 08:15:15 UTC  
+utime: 1716365715  
+added: 0  
+modified: 1  
+removed: 1  
+message: Try change allow_origins
+
 ### 2024-05-22 08:04:38 UTC
 name: ton-game  
 commiter: Kindiy31  
