@@ -1,3 +1,13 @@
+### 2024-05-22 08:06:07 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-22 08:06:07 UTC  
+utime: 1716365167  
+added: 0  
+modified: 1  
+removed: 1  
+message: bug: fix btn back to the bot, missing tg object before init
+
 ### 2024-05-21 13:37:05 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
