@@ -1,3 +1,13 @@
+### 2024-05-27 18:08:16 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 18:08:16 UTC  
+utime: 1716833296  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: wrong conditions status
+
 ### 2024-05-27 17:43:21 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
