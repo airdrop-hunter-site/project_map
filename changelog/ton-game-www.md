@@ -1,3 +1,13 @@
+### 2024-05-27 11:29:50 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 11:29:50 UTC  
+utime: 1716809390  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: Remove color change animation
+
 ### 2024-05-27 11:27:48 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
