@@ -1,3 +1,13 @@
+### 2024-05-27 15:56:31 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 15:56:31 UTC  
+utime: 1716825391  
+added: 1  
+modified: 2  
+removed: 2  
+message: Feat: create utils folder & separated formatNumber func
+
 ### 2024-05-27 15:36:26 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
