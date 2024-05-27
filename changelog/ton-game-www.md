@@ -1,3 +1,13 @@
+### 2024-05-27 17:43:21 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 17:43:21 UTC  
+utime: 1716831801  
+added: 3  
+modified: 2  
+removed: 2  
+message: Refactor: separated SVG files to self components
+
 ### 2024-05-27 17:23:58 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
