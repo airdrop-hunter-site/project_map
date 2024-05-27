@@ -1,3 +1,13 @@
+### 2024-05-27 15:36:26 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 15:36:26 UTC  
+utime: 1716824186  
+added: 0  
+modified: 8  
+removed: 8  
+message: fix: loader animation big fix
+
 ### 2024-05-27 14:01:33 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
