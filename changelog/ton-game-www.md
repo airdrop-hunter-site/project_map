@@ -1,3 +1,13 @@
+### 2024-05-27 13:47:57 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 13:47:57 UTC  
+utime: 1716817677  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: wrapping leader balance to formatNumber func
+
 ### 2024-05-27 13:10:57 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
