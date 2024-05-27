@@ -1,3 +1,13 @@
+### 2024-05-27 14:01:33 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 14:01:33 UTC  
+utime: 1716818493  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: cut long username
+
 ### 2024-05-27 13:47:57 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
