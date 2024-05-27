@@ -1,3 +1,13 @@
+### 2024-05-27 17:11:40 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 17:11:40 UTC  
+utime: 1716829900  
+added: 2  
+modified: 15  
+removed: 15  
+message: Feat: export api string in separated file
+
 ### 2024-05-27 15:56:31 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
