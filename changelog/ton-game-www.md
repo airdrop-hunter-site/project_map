@@ -1,3 +1,13 @@
+### 2024-05-27 17:23:58 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-27 17:23:58 UTC  
+utime: 1716830638  
+added: 0  
+modified: 4  
+removed: 4  
+message: Feat: add dapp task
+
 ### 2024-05-27 17:11:40 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
