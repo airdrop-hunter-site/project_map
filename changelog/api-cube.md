@@ -1,3 +1,13 @@
+### 2024-05-28 16:35:33 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-05-28 16:35:33 UTC  
+utime: 1716914133  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix airdrop full info
+
 ### 2024-05-28 16:31:08 UTC
 name: api-cube  
 commiter: 0xZonaV  
