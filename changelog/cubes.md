@@ -1,3 +1,14 @@
+### 2024-05-28 18:27:21 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-05-28 18:27:21 UTC  
+utime: 1716920841  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix get nonce
+- remove destroying contract ton when balance is zero
+
 ### 2024-05-28 17:02:45 UTC
 name: cubes  
 commiter: 0xZonaV  
