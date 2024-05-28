@@ -1,3 +1,13 @@
+### 2024-05-28 13:31:12 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-28 13:31:12 UTC  
+utime: 1716903072  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix passive tasks color
+
 ### 2024-05-28 11:43:10 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
