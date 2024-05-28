@@ -1,3 +1,13 @@
+### 2024-05-28 15:25:18 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-05-28 15:25:18 UTC  
+utime: 1716909918  
+added: 1  
+modified: 1  
+removed: 0  
+message: add endpoint to get all info for airdrop circle
+
 ### 2024-05-25 06:14:13 UTC
 name: api-cube  
 commiter: 0xZonaV  
