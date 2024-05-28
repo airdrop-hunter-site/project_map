@@ -1,3 +1,13 @@
+### 2024-05-28 08:48:30 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-28 08:48:30 UTC  
+utime: 1716886110  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix: Fix confitions. after claim stop treasure animation
+
 ### 2024-05-27 18:08:16 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
