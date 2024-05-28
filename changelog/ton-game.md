@@ -1,3 +1,14 @@
+### 2024-05-28 14:40:16 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-05-28 14:40:16 UTC  
+utime: 1716907216  
+added: 1  
+modified: 8  
+removed: 8  
+message: Add mailing and stats.
+Added get 100
+
 ### 2024-05-23 09:34:32 UTC
 name: ton-game  
 commiter: dev12  
