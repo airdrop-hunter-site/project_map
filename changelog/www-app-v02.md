@@ -1,3 +1,13 @@
+### 2024-05-29 09:56:53 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-05-29 09:56:53 UTC  
+utime: 1716976613  
+added: 0  
+modified: 2  
+removed: 2  
+message: chahge cost on tonapp
+
 ### 2024-05-29 09:31:26 UTC
 name: www-app-v02  
 commiter: liksagen.com  
