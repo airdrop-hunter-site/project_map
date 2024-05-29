@@ -1,3 +1,13 @@
+### 2024-05-29 16:02:21 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-29 16:02:21 UTC  
+utime: 1716998541  
+added: 7  
+modified: 5  
+removed: 2  
+message: Feat: big update. Add filtered users by point amount, add users trafic & average time actions
+
 ### 2024-05-29 09:43:15 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
