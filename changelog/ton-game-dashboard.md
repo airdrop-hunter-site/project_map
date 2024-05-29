@@ -1,3 +1,13 @@
+### 2024-05-29 16:07:02 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-05-29 16:07:02 UTC  
+utime: 1716998822  
+added: 0  
+modified: 1  
+removed: 1  
+message: styles: fix size
+
 ### 2024-05-29 16:02:21 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
