@@ -1,3 +1,13 @@
+### 2024-05-30 15:01:31 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-30 15:01:31 UTC  
+utime: 1717081291  
+added: 8  
+modified: 3  
+removed: 1  
+message: Feat: add Modal window with points description
+
 ### 2024-05-30 13:22:55 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
