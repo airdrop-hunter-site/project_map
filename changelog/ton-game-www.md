@@ -1,3 +1,13 @@
+### 2024-05-30 12:30:03 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-30 12:30:03 UTC  
+utime: 1717072203  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: Change post to get method
+
 ### 2024-05-30 12:24:06 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
