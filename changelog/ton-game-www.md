@@ -1,3 +1,13 @@
+### 2024-05-30 13:22:55 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-30 13:22:55 UTC  
+utime: 1717075375  
+added: 2  
+modified: 1  
+removed: 1  
+message: Styles: fix our tasks icon
+
 ### 2024-05-30 12:30:03 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
