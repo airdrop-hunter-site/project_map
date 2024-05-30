@@ -1,3 +1,13 @@
+### 2024-05-30 19:01:40 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-30 19:01:40 UTC  
+utime: 1717095700  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: modal background
+
 ### 2024-05-30 18:31:33 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
