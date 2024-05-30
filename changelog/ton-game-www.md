@@ -1,3 +1,13 @@
+### 2024-05-30 17:59:16 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-30 17:59:16 UTC  
+utime: 1717091956  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix animation conditions
+
 ### 2024-05-30 17:57:05 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
