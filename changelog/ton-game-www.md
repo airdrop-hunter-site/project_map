@@ -1,3 +1,13 @@
+### 2024-05-30 12:24:06 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-30 12:24:06 UTC  
+utime: 1717071846  
+added: 1  
+modified: 2  
+removed: 2  
+message: Feat: send code to Dapp
+
 ### 2024-05-28 13:31:12 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
