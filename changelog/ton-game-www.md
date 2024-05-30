@@ -1,3 +1,13 @@
+### 2024-05-30 18:31:33 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-30 18:31:33 UTC  
+utime: 1717093893  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: Typo description
+
 ### 2024-05-30 17:59:16 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
