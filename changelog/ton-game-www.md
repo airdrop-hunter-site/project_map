@@ -1,3 +1,13 @@
+### 2024-05-31 18:39:49 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-31 18:39:49 UTC  
+utime: 1717180789  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix gradient button
+
 ### 2024-05-31 14:44:36 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
