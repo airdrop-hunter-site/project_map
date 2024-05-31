@@ -1,3 +1,13 @@
+### 2024-05-31 08:05:25 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-31 08:05:25 UTC  
+utime: 1717142725  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: add scroll to all content in homepage, add gradient to button, Make function close modal outsight
+
 ### 2024-05-30 20:11:49 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
