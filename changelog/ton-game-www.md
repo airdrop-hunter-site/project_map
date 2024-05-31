@@ -1,3 +1,13 @@
+### 2024-05-31 09:00:00 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-31 09:00:00 UTC  
+utime: 1717146000  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix avatar user frist char
+
 ### 2024-05-31 08:41:59 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
