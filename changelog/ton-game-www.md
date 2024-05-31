@@ -1,3 +1,13 @@
+### 2024-05-31 08:30:54 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-05-31 08:30:54 UTC  
+utime: 1717144254  
+added: 6  
+modified: 2  
+removed: 2  
+message: Feat: add modal PopUp
+
 ### 2024-05-31 08:05:25 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
