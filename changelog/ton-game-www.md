@@ -1,3 +1,13 @@
+### 2024-05-31 14:44:36 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-05-31 14:44:36 UTC  
+utime: 1717166676  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: fix points amount char
+
 ### 2024-05-31 12:56:39 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
