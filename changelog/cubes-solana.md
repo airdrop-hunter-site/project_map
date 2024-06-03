@@ -1,3 +1,13 @@
+### 2024-06-03 18:20:21 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-06-03 18:20:21 UTC  
+utime: 1717438821  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add meme tokens for dca
+
 ### 2024-06-03 17:00:45 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
