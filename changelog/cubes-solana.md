@@ -1,3 +1,13 @@
+### 2024-06-03 17:00:45 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-06-03 17:00:45 UTC  
+utime: 1717434045  
+added: 5  
+modified: 3  
+removed: 3  
+message: - add swap space bridge cube for bsc -> sol transfer
+
 ### 2024-03-12 12:51:34 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
