@@ -1,3 +1,13 @@
+### 2024-06-03 17:21:42 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-03 17:21:42 UTC  
+utime: 1717435302  
+added: 0  
+modified: 1  
+removed: 1  
+message: Issues: Remove my ID
+
 ### 2024-06-03 17:17:57 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
