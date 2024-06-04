@@ -1,3 +1,13 @@
+### 2024-06-04 11:52:30 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-04 11:52:30 UTC  
+utime: 1717501950  
+added: 0  
+modified: 7  
+removed: 7  
+message: Styles: big update fix shadow & e.t.c.
+
 ### 2024-06-04 10:55:37 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
