@@ -1,3 +1,13 @@
+### 2024-06-04 12:17:30 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-04 12:17:30 UTC  
+utime: 1717503450  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix scroll on home page
+
 ### 2024-06-04 12:08:26 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
