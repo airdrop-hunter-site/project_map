@@ -1,3 +1,13 @@
+### 2024-06-04 12:08:26 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-04 12:08:26 UTC  
+utime: 1717502906  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix card on homepage
+
 ### 2024-06-04 12:00:01 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
