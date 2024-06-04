@@ -1,3 +1,13 @@
+### 2024-06-04 16:38:45 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-04 16:38:45 UTC  
+utime: 1717519125  
+added: 0  
+modified: 7  
+removed: 7  
+message: Update: connect Ton Wallets
+
 ### 2024-06-04 14:59:35 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
