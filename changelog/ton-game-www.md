@@ -1,3 +1,13 @@
+### 2024-06-05 10:00:35 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-05 10:00:35 UTC  
+utime: 1717581635  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: Avatar first char issue
+
 ### 2024-06-05 09:40:38 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
