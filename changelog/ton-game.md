@@ -1,3 +1,13 @@
+### 2024-06-06 14:50:54 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-06-06 14:50:54 UTC  
+utime: 1717685454  
+added: 1  
+modified: 1  
+removed: 0  
+message: move tg_bot
+
 ### 2024-06-06 14:47:55 UTC
 name: ton-game  
 commiter: dev12  
