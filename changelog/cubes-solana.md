@@ -1,3 +1,14 @@
+### 2024-06-06 18:36:00 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-06-06 18:36:00 UTC  
+utime: 1717698960  
+added: 1  
+modified: 6  
+removed: 6  
+message: - add lookup table for meme swap
+- add creating lookup table cube
+
 ### 2024-06-03 18:20:21 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
