@@ -1,3 +1,15 @@
+### 2024-06-06 14:46:38 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-06-06 14:46:38 UTC  
+utime: 1717685198  
+added: 0  
+modified: 8  
+removed: 1  
+message: Add logs.
+Add markup in mailing
+Add demons api
+
 ### 2024-05-07 20:45:41 UTC
 name: ton-game  
 commiter: Kindiy31  
