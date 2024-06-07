@@ -1,3 +1,13 @@
+### 2024-06-07 09:14:46 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-07 09:14:46 UTC  
+utime: 1717751686  
+added: 1  
+modified: 1  
+removed: 1  
+message: Styles: Fix get100 icon from svg to PNG
+
 ### 2024-06-07 08:52:49 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
