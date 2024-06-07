@@ -1,3 +1,13 @@
+### 2024-06-07 08:29:58 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-07 08:29:58 UTC  
+utime: 1717748998  
+added: 2  
+modified: 2  
+removed: 2  
+message: Styles: fix get100 animation
+
 ### 2024-06-05 13:41:40 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
