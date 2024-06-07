@@ -1,3 +1,17 @@
+### 2024-06-07 17:07:26 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-07 17:07:26 UTC  
+utime: 1717780046  
+added: 1  
+modified: 8  
+removed: 8  
+message: - edit eywa contracts
+
+- add send token for eywa
+
+-  update log best bridge eywa
+
 ### 2024-06-06 15:13:17 UTC
 name: cubes  
 commiter: 0xZonaV  
