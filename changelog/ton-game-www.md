@@ -1,3 +1,13 @@
+### 2024-06-07 13:50:19 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-07 13:50:19 UTC  
+utime: 1717768219  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: update invite urls
+
 ### 2024-06-07 13:44:28 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
