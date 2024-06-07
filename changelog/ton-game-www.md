@@ -1,3 +1,13 @@
+### 2024-06-07 13:22:20 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-07 13:22:20 UTC  
+utime: 1717766540  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: add format number to own place
+
 ### 2024-06-07 13:20:27 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
