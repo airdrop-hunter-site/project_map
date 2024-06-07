@@ -1,3 +1,13 @@
+### 2024-06-07 13:44:28 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-07 13:44:28 UTC  
+utime: 1717767868  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: wrong float points
+
 ### 2024-06-07 13:32:05 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
