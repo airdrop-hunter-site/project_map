@@ -1,3 +1,13 @@
+### 2024-06-08 13:58:15 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-08 13:58:15 UTC  
+utime: 1717855095  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: fix lot reqests to server & separrated get100 task to own func
+
 ### 2024-06-08 13:46:00 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
