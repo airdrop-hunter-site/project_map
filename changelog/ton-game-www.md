@@ -1,3 +1,13 @@
+### 2024-06-10 18:09:00 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-10 18:09:00 UTC  
+utime: 1718042940  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: wrong tasks claim condition
+
 ### 2024-06-10 15:58:28 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
