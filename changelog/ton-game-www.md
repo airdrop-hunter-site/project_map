@@ -1,3 +1,13 @@
+### 2024-06-10 15:58:28 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-10 15:58:28 UTC  
+utime: 1718035108  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: change prod apis to test
+
 ### 2024-06-10 12:02:50 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
