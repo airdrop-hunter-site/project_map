@@ -1,3 +1,13 @@
+### 2024-06-10 08:55:48 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-10 08:55:48 UTC  
+utime: 1718009748  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix modal icon size
+
 ### 2024-06-10 08:15:15 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
