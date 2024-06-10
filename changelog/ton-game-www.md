@@ -1,3 +1,13 @@
+### 2024-06-10 12:02:50 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-10 12:02:50 UTC  
+utime: 1718020970  
+added: 8  
+modified: 3  
+removed: 11  
+message: Styles: big update, home page & modal component, switch svg to png & compress png files
+
 ### 2024-06-10 08:55:48 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
