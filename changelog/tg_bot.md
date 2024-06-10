@@ -1,3 +1,13 @@
+### 2024-06-10 14:20:05 UTC
+name: tg_bot  
+commiter: airdrop-hunter.site  
+time: 2024-06-10 14:20:05 UTC  
+utime: 1718029205  
+added: 0  
+modified: 1  
+removed: 1  
+message: add skip id
+
 ### 2024-06-04 15:47:35 UTC
 name: tg_bot  
 commiter: airdrop-hunter.site  
