@@ -1,3 +1,13 @@
+### 2024-06-11 05:47:34 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-11 05:47:34 UTC  
+utime: 1718084854  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix getting tvl for sending usdt
+
 ### 2024-06-11 05:45:54 UTC
 name: cubes  
 commiter: 0xZonaV  
