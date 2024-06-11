@@ -1,3 +1,17 @@
+### 2024-06-11 05:11:34 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-11 05:11:34 UTC  
+utime: 1718082694  
+added: 1  
+modified: 8  
+removed: 8  
+message: - add api for eywa c3
+
+- edit rpc for fantom
+
+- edit start step functions for eywa maximzetvs
+
 ### 2024-06-10 07:58:20 UTC
 name: cubes  
 commiter: 0xZonaV  
