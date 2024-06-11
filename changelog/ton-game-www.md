@@ -1,3 +1,13 @@
+### 2024-06-11 13:58:42 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-11 13:58:42 UTC  
+utime: 1718114322  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: wrong claim conditions
+
 ### 2024-06-11 13:45:59 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
