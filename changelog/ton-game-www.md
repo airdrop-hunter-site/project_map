@@ -1,3 +1,13 @@
+### 2024-06-12 15:51:36 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-12 15:51:36 UTC  
+utime: 1718207496  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: add scroll on content in card page
+
 ### 2024-06-12 15:37:08 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
