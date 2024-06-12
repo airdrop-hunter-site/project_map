@@ -1,3 +1,13 @@
+### 2024-06-12 15:37:08 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-12 15:37:08 UTC  
+utime: 1718206628  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: return card banner oon homepage
+
 ### 2024-06-11 13:58:42 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
