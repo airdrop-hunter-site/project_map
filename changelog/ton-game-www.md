@@ -1,3 +1,13 @@
+### 2024-06-12 16:41:19 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-12 16:41:19 UTC  
+utime: 1718210479  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix Ai card scroll
+
 ### 2024-06-12 16:31:40 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
