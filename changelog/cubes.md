@@ -1,3 +1,17 @@
+### 2024-06-12 11:42:34 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-12 11:42:34 UTC  
+utime: 1718192554  
+added: 0  
+modified: 4  
+removed: 4  
+message: - remove log sendCoinToAddress
+
+- add more information to tg message eywa c3
+
+- update retry time for stuck positive status eywa c3
+
 ### 2024-06-12 05:53:16 UTC
 name: cubes  
 commiter: 0xZonaV  
