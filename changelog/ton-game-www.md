@@ -1,3 +1,13 @@
+### 2024-06-13 19:04:51 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-13 19:04:51 UTC  
+utime: 1718305491  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: Send remeber id
+
 ### 2024-06-13 19:01:27 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
