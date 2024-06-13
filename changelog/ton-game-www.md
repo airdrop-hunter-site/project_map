@@ -1,3 +1,13 @@
+### 2024-06-13 15:12:46 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-13 15:12:46 UTC  
+utime: 1718291566  
+added: 1  
+modified: 1  
+removed: 1  
+message: Feat: check remember id
+
 ### 2024-06-12 17:05:18 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
