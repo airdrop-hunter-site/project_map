@@ -1,3 +1,13 @@
+### 2024-06-13 20:14:49 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-06-13 20:14:49 UTC  
+utime: 1718309689  
+added: 5  
+modified: 13  
+removed: 1  
+message: change shardeum contract and card processing
+
 ### 2024-06-12 09:56:37 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
