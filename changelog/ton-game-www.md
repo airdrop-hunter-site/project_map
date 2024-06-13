@@ -1,3 +1,13 @@
+### 2024-06-13 18:56:35 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-13 18:56:35 UTC  
+utime: 1718304995  
+added: 4  
+modified: 3  
+removed: 3  
+message: Styles: upgrade cards page & separated link to popup
+
 ### 2024-06-13 18:54:59 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
