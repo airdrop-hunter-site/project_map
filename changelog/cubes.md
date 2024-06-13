@@ -1,3 +1,15 @@
+### 2024-06-13 15:50:19 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-13 15:50:19 UTC  
+utime: 1718293819  
+added: 4  
+modified: 13  
+removed: 13  
+message: - edit table name for eywa c3
+
+- add checkers for csv
+
 ### 2024-06-12 13:57:59 UTC
 name: cubes  
 commiter: 0xZonaV  
