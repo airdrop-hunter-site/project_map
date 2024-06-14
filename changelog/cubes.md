@@ -1,3 +1,13 @@
+### 2024-06-14 15:11:31 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-14 15:11:31 UTC  
+utime: 1718377891  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update eywa api url
+
 ### 2024-06-14 14:26:46 UTC
 name: cubes  
 commiter: 0xZonaV  
