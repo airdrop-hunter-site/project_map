@@ -1,3 +1,15 @@
+### 2024-06-14 10:09:43 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-14 10:09:43 UTC  
+utime: 1718359783  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update cron time for checkingNFT balance
+
+- add debug for tg message eywaC3
+
 ### 2024-06-14 10:04:23 UTC
 name: cubes  
 commiter: 0xZonaV  
