@@ -1,3 +1,13 @@
+### 2024-06-14 04:04:34 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-14 04:04:34 UTC  
+utime: 1718337874  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix table name send token to address eywa
+
 ### 2024-06-14 04:01:27 UTC
 name: cubes  
 commiter: 0xZonaV  
