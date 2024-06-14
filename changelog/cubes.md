@@ -1,3 +1,13 @@
+### 2024-06-14 08:26:24 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-14 08:26:24 UTC  
+utime: 1718353584  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix checking nft for eywa c3
+
 ### 2024-06-14 08:25:36 UTC
 name: cubes  
 commiter: 0xZonaV  
