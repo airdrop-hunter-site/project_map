@@ -1,3 +1,17 @@
+### 2024-06-16 16:25:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-16 16:25:46 UTC  
+utime: 1718555146  
+added: 3  
+modified: 3  
+removed: 3  
+message: - add processing to claim zkSync
+
+- edit fee ah for claim
+
+- start claimer cube zksync
+
 ### 2024-06-16 12:34:33 UTC
 name: cubes  
 commiter: 0xZonaV  
