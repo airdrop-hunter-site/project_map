@@ -1,3 +1,13 @@
+### 2024-06-17 07:12:53 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-06-17 07:12:53 UTC  
+utime: 1718608373  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update rpc for zksync
+
 ### 2024-06-17 07:07:56 UTC
 name: cubes  
 commiter: 0xZonaV  
