@@ -1,3 +1,13 @@
+### 2024-06-17 10:38:16 UTC
+name: ton-game  
+commiter: Kindiy31  
+time: 2024-06-17 10:38:16 UTC  
+utime: 1718620696  
+added: 1  
+modified: 4  
+removed: 4  
+message: Add mailing functional
+
 ### 2024-06-17 09:26:24 UTC
 name: ton-game  
 commiter: dev12  
