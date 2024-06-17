@@ -1,3 +1,13 @@
+### 2024-06-17 15:59:38 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-06-17 15:59:38 UTC  
+utime: 1718639978  
+added: 6  
+modified: 1  
+removed: 1  
+message: Feat: add remove accs from db
+
 ### 2024-06-17 11:49:02 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
