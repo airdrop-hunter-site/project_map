@@ -1,3 +1,13 @@
+### 2024-06-17 15:37:43 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-17 15:37:43 UTC  
+utime: 1718638663  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: remove settings icon & cut lagnuage component
+
 ### 2024-06-17 13:41:52 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
