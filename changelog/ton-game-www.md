@@ -1,3 +1,13 @@
+### 2024-06-17 10:38:25 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-17 10:38:25 UTC  
+utime: 1718620705  
+added: 0  
+modified: 5  
+removed: 5  
+message: Feat: finished translate application
+
 ### 2024-06-17 10:10:32 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
