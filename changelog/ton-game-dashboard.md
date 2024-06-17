@@ -1,3 +1,13 @@
+### 2024-06-17 11:49:02 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-06-17 11:49:02 UTC  
+utime: 1718624942  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: change adress to Nikita's wallet
+
 ### 2024-06-12 07:28:51 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  

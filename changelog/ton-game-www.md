@@ -1,3 +1,13 @@
+### 2024-06-17 13:21:53 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-17 13:21:53 UTC  
+utime: 1718630513  
+added: 0  
+modified: 5  
+removed: 5  
+message: Feat: fix show hide modal animation
+
 ### 2024-06-17 10:38:25 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
