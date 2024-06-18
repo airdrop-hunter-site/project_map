@@ -1,3 +1,13 @@
+### 2024-06-18 08:28:43 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-06-18 08:28:43 UTC  
+utime: 1718699323  
+added: 0  
+modified: 4  
+removed: 4  
+message: - add price info inserting to jupiter swap
+
 ### 2024-06-06 18:36:00 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
