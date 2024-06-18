@@ -1,3 +1,13 @@
+### 2024-06-18 10:01:02 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-18 10:01:02 UTC  
+utime: 1718704862  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: remove Russian switch items
+
 ### 2024-06-17 15:37:43 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
