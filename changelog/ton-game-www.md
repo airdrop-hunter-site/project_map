@@ -1,3 +1,13 @@
+### 2024-06-18 11:35:02 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-18 11:35:02 UTC  
+utime: 1718710502  
+added: 0  
+modified: 3  
+removed: 3  
+message: Feat: add our wallet to send test txs
+
 ### 2024-06-18 10:01:02 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
