@@ -1,3 +1,13 @@
+### 2024-06-20 08:59:10 UTC
+name: ton-game  
+commiter: Andrey Petrov  
+time: 2024-06-20 08:59:10 UTC  
+utime: 1718873950  
+added: 1  
+modified: 2  
+removed: 2  
+message: AH-54 Любой юзер может обновить username другому пользователю | fixed
+
 ### 2024-06-17 10:38:16 UTC
 name: ton-game  
 commiter: Kindiy31  
