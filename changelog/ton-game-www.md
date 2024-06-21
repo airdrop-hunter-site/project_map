@@ -1,3 +1,13 @@
+### 2024-06-21 15:19:25 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-21 15:19:25 UTC  
+utime: 1718983165  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: add redirect to hexn task link
+
 ### 2024-06-21 14:02:01 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
