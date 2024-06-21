@@ -1,3 +1,13 @@
+### 2024-06-21 16:35:49 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-21 16:35:49 UTC  
+utime: 1718987749  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: wrong field taks.id
+
 ### 2024-06-21 16:15:31 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
