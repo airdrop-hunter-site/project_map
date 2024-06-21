@@ -1,3 +1,13 @@
+### 2024-06-21 09:03:48 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-21 09:03:48 UTC  
+utime: 1718960628  
+added: 0  
+modified: 3  
+removed: 1  
+message: Fix: update manifest & ton connect provider
+
 ### 2024-06-21 08:29:52 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
