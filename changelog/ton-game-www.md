@@ -1,3 +1,13 @@
+### 2024-06-25 10:42:13 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 10:42:13 UTC  
+utime: 1719312133  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: hide language switcher & card payments
+
 ### 2024-06-25 10:39:18 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
