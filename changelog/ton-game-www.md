@@ -1,3 +1,23 @@
+### 2024-06-25 10:57:40 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 10:57:40 UTC  
+utime: 1719313060  
+added: 0  
+modified: 1  
+removed: 1  
+message: Update: make default language en
+
+### 2024-06-25 10:49:11 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 10:49:11 UTC  
+utime: 1719312551  
+added: 0  
+modified: 1  
+removed: 1  
+message: Update: fix Nikita's ID
+
 ### 2024-06-25 10:43:31 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
