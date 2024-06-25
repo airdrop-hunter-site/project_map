@@ -1,3 +1,13 @@
+### 2024-06-25 06:49:27 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-25 06:49:27 UTC  
+utime: 1719298167  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: separated hook to own file
+
 ### 2024-06-24 08:27:13 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
