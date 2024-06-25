@@ -1,3 +1,13 @@
+### 2024-06-25 10:43:31 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 10:43:31 UTC  
+utime: 1719312211  
+added: 0  
+modified: 1  
+removed: 1  
+message: Update: switch test url to prod
+
 ### 2024-06-25 10:42:13 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
