@@ -1,3 +1,13 @@
+### 2024-06-25 16:57:18 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 16:57:18 UTC  
+utime: 1719334638  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: update icon
+
 ### 2024-06-25 16:48:17 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
