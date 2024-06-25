@@ -1,3 +1,13 @@
+### 2024-06-25 14:53:47 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-25 14:53:47 UTC  
+utime: 1719327227  
+added: 2  
+modified: 2  
+removed: 2  
+message: Feat: add new tusk "to the moon"
+
 ### 2024-06-25 11:29:38 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
