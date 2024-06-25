@@ -1,3 +1,13 @@
+### 2024-06-25 11:20:26 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 11:20:26 UTC  
+utime: 1719314426  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix claim border & button top
+
 ### 2024-06-25 11:09:10 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
