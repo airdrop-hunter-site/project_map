@@ -1,3 +1,13 @@
+### 2024-06-25 09:34:14 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-06-25 09:34:14 UTC  
+utime: 1719308054  
+added: 0  
+modified: 1  
+removed: 1  
+message: Refactor: remove languageswitcher ref
+
 ### 2024-06-25 06:49:27 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
