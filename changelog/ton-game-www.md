@@ -1,3 +1,13 @@
+### 2024-06-25 11:09:10 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 11:09:10 UTC  
+utime: 1719313750  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: invite frens remove button wrapper
+
 ### 2024-06-25 10:57:40 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
