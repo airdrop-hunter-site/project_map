@@ -1,3 +1,13 @@
+### 2024-06-25 16:48:17 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-25 16:48:17 UTC  
+utime: 1719334097  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: update svg
+
 ### 2024-06-25 16:46:27 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
