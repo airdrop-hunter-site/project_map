@@ -1,3 +1,13 @@
+### 2024-06-26 08:02:00 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-06-26 08:02:00 UTC  
+utime: 1719388920  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: wrong invite link
+
 ### 2024-06-25 16:57:18 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
