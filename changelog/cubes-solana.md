@@ -1,3 +1,13 @@
+### 2024-06-26 09:57:32 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-06-26 09:57:32 UTC  
+utime: 1719395852  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix add tx to table in evm chains
+
 ### 2024-06-26 09:54:53 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
