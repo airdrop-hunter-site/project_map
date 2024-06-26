@@ -1,3 +1,13 @@
+### 2024-06-26 10:11:02 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-06-26 10:11:02 UTC  
+utime: 1719396662  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix add to table evm
+
 ### 2024-06-26 10:09:42 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
