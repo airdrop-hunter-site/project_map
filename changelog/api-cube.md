@@ -1,3 +1,15 @@
+### 2024-07-01 19:39:56 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-07-01 19:39:56 UTC  
+utime: 1719862796  
+added: 2  
+modified: 4  
+removed: 4  
+message: - add updating time_sent and time_confirmed
+
+- add post method to get status of payment
+
 ### 2024-07-01 19:18:12 UTC
 name: api-cube  
 commiter: 0xZonaV  
