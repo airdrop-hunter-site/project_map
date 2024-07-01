@@ -1,3 +1,13 @@
+### 2024-07-01 09:56:39 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-07-01 09:56:39 UTC  
+utime: 1719827799  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix insert query into ton_payments table
+
 ### 2024-07-01 09:50:10 UTC
 name: api-cube  
 commiter: 0xZonaV  
