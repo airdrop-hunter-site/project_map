@@ -1,3 +1,13 @@
+### 2024-07-02 16:59:37 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-07-02 16:59:37 UTC  
+utime: 1719939577  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix amount not in nano on response
+
 ### 2024-07-02 16:57:14 UTC
 name: api-cube  
 commiter: 0xZonaV  
