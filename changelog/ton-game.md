@@ -1,3 +1,14 @@
+### 2024-07-02 13:30:58 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-02 13:30:58 UTC  
+utime: 1719927058  
+added: 0  
+modified: 2  
+removed: 2  
+message: Changed: getting configs from env.
+Added: python-dotenv to requirements.txt
+
 ### 2024-07-02 13:23:10 UTC
 name: ton-game  
 commiter: Kindiy31  
