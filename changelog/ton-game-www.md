@@ -1,3 +1,13 @@
+### 2024-07-02 12:19:56 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-02 12:19:56 UTC  
+utime: 1719922796  
+added: 0  
+modified: 1  
+removed: 1  
+message: Refactor: remove images files from client, transit to server
+
 ### 2024-07-02 10:03:07 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
