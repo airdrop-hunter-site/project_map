@@ -1,3 +1,13 @@
+### 2024-07-02 11:11:06 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-07-02 11:11:06 UTC  
+utime: 1719918666  
+added: 0  
+modified: 2  
+removed: 2  
+message: change price eywa and mintchain
+
 ### 2024-06-28 17:48:12 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
