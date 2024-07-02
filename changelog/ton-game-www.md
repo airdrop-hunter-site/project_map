@@ -1,3 +1,13 @@
+### 2024-07-02 13:53:06 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-02 13:53:06 UTC  
+utime: 1719928386  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: remove tglink to tgopenlink
+
 ### 2024-07-02 13:19:09 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
