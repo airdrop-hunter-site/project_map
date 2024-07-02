@@ -1,3 +1,13 @@
+### 2024-07-02 15:40:22 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-07-02 15:40:22 UTC  
+utime: 1719934822  
+added: 0  
+modified: 1  
+removed: 1  
+message: - remove cors access on localhost
+
 ### 2024-07-01 19:52:32 UTC
 name: api-cube  
 commiter: 0xZonaV  
