@@ -1,3 +1,15 @@
+### 2024-07-02 16:57:14 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-07-02 16:57:14 UTC  
+utime: 1719939434  
+added: 1  
+modified: 1  
+removed: 1  
+message: - fix amount not in nano on response
+
+- refactor get payment status
+
 ### 2024-07-02 15:40:22 UTC
 name: api-cube  
 commiter: 0xZonaV  
