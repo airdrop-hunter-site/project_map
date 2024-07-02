@@ -1,3 +1,13 @@
+### 2024-07-02 06:58:08 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-02 06:58:08 UTC  
+utime: 1719903488  
+added: 1  
+modified: 2  
+removed: 2  
+message: Feat: Check plug & based on it assigned the state of the checkbox
+
 ### 2024-07-01 16:38:53 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
