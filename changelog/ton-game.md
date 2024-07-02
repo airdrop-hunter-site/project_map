@@ -1,3 +1,14 @@
+### 2024-07-02 17:12:19 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-02 17:12:19 UTC  
+utime: 1719940339  
+added: 0  
+modified: 3  
+removed: 3  
+message: Added: invite_code_time_expired text.
+Changed: only_invite and invites_used texts.
+
 ### 2024-07-02 13:41:22 UTC
 name: ton-game  
 commiter: Kindiy31  
