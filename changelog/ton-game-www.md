@@ -1,3 +1,13 @@
+### 2024-07-02 12:34:53 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-02 12:34:53 UTC  
+utime: 1719923693  
+added: 0  
+modified: 3  
+removed: 3  
+message: Fix: rework leaderboard layout
+
 ### 2024-07-02 12:19:56 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
