@@ -1,3 +1,13 @@
+### 2024-07-03 12:36:26 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-03 12:36:26 UTC  
+utime: 1720010186  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix claim border size
+
 ### 2024-07-03 12:40:37 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
