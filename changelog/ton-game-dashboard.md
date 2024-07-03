@@ -1,3 +1,13 @@
+### 2024-07-03 08:23:12 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-03 08:23:12 UTC  
+utime: 1719994992  
+added: 0  
+modified: 3  
+removed: 3  
+message: Fix: wrong conditions after add plug
+
 ### 2024-07-02 21:46:01 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
