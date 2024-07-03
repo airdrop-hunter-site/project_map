@@ -1,3 +1,13 @@
+### 2024-07-03 11:04:02 UTC
+name: ton-game-www  
+commiter: 0xZonaV  
+time: 2024-07-03 11:04:02 UTC  
+utime: 1720004642  
+added: 1  
+modified: 2  
+removed: 2  
+message: add building with index.php
+
 ### 2024-07-02 15:39:58 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
