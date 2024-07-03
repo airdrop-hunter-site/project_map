@@ -1,3 +1,13 @@
+### 2024-07-03 08:52:50 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-03 08:52:50 UTC  
+utime: 1719996770  
+added: 8  
+modified: 2  
+removed: 6  
+message: Feat: add new tab, sepparated icons components, changed access users
+
 ### 2024-07-03 08:23:12 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
