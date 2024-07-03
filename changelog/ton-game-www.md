@@ -1,3 +1,13 @@
+### 2024-07-03 14:01:15 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-03 14:01:15 UTC  
+utime: 1720015275  
+added: 1  
+modified: 3  
+removed: 3  
+message: Feat: update cash issue
+
 ### 2024-07-03 12:36:26 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
