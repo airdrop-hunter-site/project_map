@@ -1,3 +1,13 @@
+### 2024-07-03 08:14:59 UTC
+name: www-main-v02  
+commiter: BrownieJunior  
+time: 2024-07-03 08:14:59 UTC  
+utime: 1719994499  
+added: 0  
+modified: 1  
+removed: 1  
+message: uptate terms of use
+
 ### 2024-06-26 11:40:22 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
