@@ -1,3 +1,13 @@
+### 2024-07-03 14:49:39 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-03 14:49:39 UTC  
+utime: 1720018179  
+added: 1  
+modified: 1  
+removed: 0  
+message: Added: .gitignore
+
 ### 2024-07-02 17:12:19 UTC
 name: ton-game  
 commiter: dev20  
