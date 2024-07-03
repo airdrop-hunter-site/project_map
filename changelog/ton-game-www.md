@@ -1,3 +1,13 @@
+### 2024-07-03 15:35:13 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-03 15:35:13 UTC  
+utime: 1720020913  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: update state button purchase
+
 ### 2024-07-03 14:40:33 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
