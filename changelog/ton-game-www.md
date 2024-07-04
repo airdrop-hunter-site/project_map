@@ -1,3 +1,13 @@
+### 2024-07-04 15:22:58 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-04 15:22:58 UTC  
+utime: 1720106578  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: get tg link from back
+
 ### 2024-07-04 14:29:22 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
