@@ -1,3 +1,13 @@
+### 2024-07-04 10:52:35 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-04 10:52:35 UTC  
+utime: 1720090355  
+added: 0  
+modified: 2  
+removed: 2  
+message: Added: UserNotFound exception to set_user_language method.
+
 ### 2024-07-04 10:40:33 UTC
 name: ton-game  
 commiter: dev20  
