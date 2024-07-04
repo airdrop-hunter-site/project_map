@@ -1,3 +1,13 @@
+### 2024-07-04 12:29:25 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-04 12:29:25 UTC  
+utime: 1720096165  
+added: 1  
+modified: 1  
+removed: 1  
+message: Feat: add change language from back
+
 ### 2024-07-04 11:11:28 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
