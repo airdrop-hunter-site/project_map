@@ -1,3 +1,13 @@
+### 2024-07-04 15:51:51 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-04 15:51:51 UTC  
+utime: 1720108311  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: instant claim referrals points
+
 ### 2024-07-04 15:22:58 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
