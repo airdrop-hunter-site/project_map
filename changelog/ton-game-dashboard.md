@@ -1,3 +1,13 @@
+### 2024-07-04 13:26:12 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-04 13:26:12 UTC  
+utime: 1720099572  
+added: 4  
+modified: 3  
+removed: 6  
+message: Fix: separate prod & test plugs, to own urls
+
 ### 2024-07-03 10:50:57 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
