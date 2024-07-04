@@ -1,3 +1,13 @@
+### 2024-07-04 14:29:22 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-07-04 14:29:22 UTC  
+utime: 1720103362  
+added: 0  
+modified: 1  
+removed: 1  
+message: Feat: add api to set plug
+
 ### 2024-07-04 12:29:25 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
