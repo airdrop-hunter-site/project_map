@@ -1,3 +1,13 @@
+### 2024-07-05 13:46:58 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-05 13:46:58 UTC  
+utime: 1720187218  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: wrong query params
+
 ### 2024-07-05 13:18:49 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
