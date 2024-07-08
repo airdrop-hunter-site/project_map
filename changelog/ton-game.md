@@ -1,3 +1,13 @@
+### 2024-07-08 12:25:00 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-08 12:25:00 UTC  
+utime: 1720441500  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fixed: is_invite_code_time_active function bug fixed.
+
 ### 2024-07-08 10:19:58 UTC
 name: ton-game  
 commiter: Kindiy31  
