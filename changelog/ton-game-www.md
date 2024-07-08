@@ -1,3 +1,13 @@
+### 2024-07-08 11:02:32 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-07-08 11:02:32 UTC  
+utime: 1720436552  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: get tasks link from server
+
 ### 2024-07-08 08:21:36 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
