@@ -1,3 +1,13 @@
+### 2024-07-08 08:21:36 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-07-08 08:21:36 UTC  
+utime: 1720426896  
+added: 0  
+modified: 1  
+removed: 1  
+message: Bug: claim instant ref points
+
 ### 2024-07-05 14:30:18 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
