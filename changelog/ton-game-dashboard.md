@@ -1,3 +1,13 @@
+### 2024-07-08 13:28:15 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-08 13:28:15 UTC  
+utime: 1720445295  
+added: 12  
+modified: 4  
+removed: 4  
+message: Feat: add tasks page Layout
+
 ### 2024-07-05 14:24:08 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
