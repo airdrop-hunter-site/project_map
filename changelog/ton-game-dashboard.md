@@ -1,3 +1,13 @@
+### 2024-07-09 12:48:47 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-09 12:48:47 UTC  
+utime: 1720529327  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix modal bgc opacity
+
 ### 2024-07-09 11:30:08 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
