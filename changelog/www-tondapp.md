@@ -1,3 +1,15 @@
+### 2024-07-09 12:51:06 UTC
+name: www-tondapp  
+commiter: 0xZonaV  
+time: 2024-07-09 12:51:06 UTC  
+utime: 1720529466  
+added: 0  
+modified: 2  
+removed: 2  
+message: - update ton dapp api url
+
+- edit timeout time before checking status
+
 ### 2024-07-09 12:10:05 UTC
 name: www-tondapp  
 commiter: 0xZonaV  
