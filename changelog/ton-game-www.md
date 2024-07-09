@@ -1,3 +1,13 @@
+### 2024-07-09 14:51:09 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-09 14:51:09 UTC  
+utime: 1720536669  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: wrapped dapp fn to React Ton Connect
+
 ### 2024-07-09 14:46:38 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
