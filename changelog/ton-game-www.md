@@ -1,3 +1,13 @@
+### 2024-07-09 14:52:19 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-09 14:52:19 UTC  
+utime: 1720536739  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: ton connect txs
+
 ### 2024-07-09 14:51:09 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
