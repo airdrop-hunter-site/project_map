@@ -1,3 +1,13 @@
+### 2024-07-09 14:46:38 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-09 14:46:38 UTC  
+utime: 1720536398  
+added: 1  
+modified: 3  
+removed: 3  
+message: Feat: add new payments
+
 ### 2024-07-08 11:02:32 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
