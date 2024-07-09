@@ -1,3 +1,13 @@
+### 2024-07-09 14:05:30 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-07-09 14:05:30 UTC  
+utime: 1720533930  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add http://ton-game.airdrop-hunter.site to cors access
+
 ### 2024-07-03 13:43:28 UTC
 name: api-cube  
 commiter: 0xZonaV  
