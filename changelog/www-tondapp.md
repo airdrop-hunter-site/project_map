@@ -1,3 +1,13 @@
+### 2024-07-09 12:10:05 UTC
+name: www-tondapp  
+commiter: 0xZonaV  
+time: 2024-07-09 12:10:05 UTC  
+utime: 1720527005  
+added: 2  
+modified: 1  
+removed: 1  
+message: - add ton manifest
+
 ### 2024-07-03 13:25:40 UTC
 name: www-tondapp  
 commiter: 0xZonaV  
