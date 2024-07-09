@@ -1,3 +1,13 @@
+### 2024-07-09 11:01:25 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-09 11:01:25 UTC  
+utime: 1720522885  
+added: 0  
+modified: 4  
+removed: 4  
+message: Added: create_mailing API function.
+
 ### 2024-07-09 10:27:50 UTC
 name: ton-game  
 commiter: dev20  
