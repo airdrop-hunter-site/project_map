@@ -1,3 +1,13 @@
+### 2024-07-10 07:20:58 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-07-10 07:20:58 UTC  
+utime: 1720596058  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: show tg wallet adress
+
 ### 2024-07-09 15:00:56 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
