@@ -1,3 +1,13 @@
+### 2024-07-10 09:51:56 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-10 09:51:56 UTC  
+utime: 1720605116  
+added: 1  
+modified: 2  
+removed: 2  
+message: Feat: show logo input if !socials
+
 ### 2024-07-09 12:48:47 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
