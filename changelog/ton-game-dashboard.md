@@ -1,3 +1,13 @@
+### 2024-07-10 11:38:18 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-10 11:38:18 UTC  
+utime: 1720611498  
+added: 1  
+modified: 1  
+removed: 1  
+message: Feat: get all users from server
+
 ### 2024-07-10 11:28:04 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
