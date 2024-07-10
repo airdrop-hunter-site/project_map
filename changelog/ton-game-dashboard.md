@@ -1,3 +1,13 @@
+### 2024-07-10 11:59:36 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-10 11:59:36 UTC  
+utime: 1720612776  
+added: 0  
+modified: 5  
+removed: 5  
+message: Update: switch to Amirs APi
+
 ### 2024-07-10 11:38:18 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
