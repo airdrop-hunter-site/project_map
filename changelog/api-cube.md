@@ -1,3 +1,15 @@
+### 2024-07-10 10:23:23 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-07-10 10:23:23 UTC  
+utime: 1720607003  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add https://ton-test2.airdrop-hunter.site/e to cors access
+
+- add stateinit payload into new payment function
+
 ### 2024-07-09 14:05:30 UTC
 name: api-cube  
 commiter: 0xZonaV  
