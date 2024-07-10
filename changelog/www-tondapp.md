@@ -1,3 +1,13 @@
+### 2024-07-10 19:08:46 UTC
+name: www-tondapp  
+commiter: 0xZonaV  
+time: 2024-07-10 19:08:46 UTC  
+utime: 1720638526  
+added: 0  
+modified: 2  
+removed: 2  
+message: - add new api for payment processing
+
 ### 2024-07-09 13:01:17 UTC
 name: www-tondapp  
 commiter: 0xZonaV  
