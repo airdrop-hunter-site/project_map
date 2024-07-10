@@ -1,3 +1,13 @@
+### 2024-07-10 09:52:44 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-07-10 09:52:44 UTC  
+utime: 1720605164  
+added: 0  
+modified: 5  
+removed: 5  
+message: Add last version
+
 ### 2024-07-10 07:36:42 UTC
 name: ton-game  
 commiter: dev20  
