@@ -1,3 +1,13 @@
+### 2024-07-11 20:32:19 UTC
+name: cubes-ton  
+commiter: 0xZonaV  
+time: 2024-07-11 20:32:19 UTC  
+utime: 1720729939  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add ddao token
+
 ### 2024-07-11 20:22:06 UTC
 name: cubes-ton  
 commiter: 0xZonaV  
