@@ -1,3 +1,15 @@
+### 2024-07-11 20:22:06 UTC
+name: cubes-ton  
+commiter: 0xZonaV  
+time: 2024-07-11 20:22:06 UTC  
+utime: 1720729326  
+added: 1  
+modified: 1  
+removed: 1  
+message: - add get token balance cube
+
+- fix send token logs
+
 ### 2024-07-11 20:11:04 UTC
 name: cubes-ton  
 commiter: 0xZonaV  
