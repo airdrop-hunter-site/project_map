@@ -1,3 +1,13 @@
+### 2024-07-11 13:10:37 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-11 13:10:37 UTC  
+utime: 1720703437  
+added: 0  
+modified: 1  
+removed: 1  
+message: Changed: fill_invites() database method.
+
 ### 2024-07-11 11:47:00 UTC
 name: ton-game  
 commiter: dev20  
