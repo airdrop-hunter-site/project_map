@@ -1,3 +1,13 @@
+### 2024-07-12 09:28:42 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-12 09:28:42 UTC  
+utime: 1720776522  
+added: 0  
+modified: 4  
+removed: 4  
+message: Added: update_invite API function.
+
 ### 2024-07-11 16:13:40 UTC
 name: ton-game  
 commiter: dev20  
