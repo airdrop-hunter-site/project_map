@@ -1,3 +1,13 @@
+### 2024-07-12 13:10:32 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-07-12 13:10:32 UTC  
+utime: 1720789832  
+added: 0  
+modified: 5  
+removed: 5  
+message: Fix: update api urls
+
 ### 2024-07-10 16:05:25 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
