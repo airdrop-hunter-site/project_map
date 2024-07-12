@@ -1,3 +1,13 @@
+### 2024-07-12 11:00:45 UTC
+name: cubes-ton  
+commiter: 0xZonaV  
+time: 2024-07-12 11:00:45 UTC  
+utime: 1720782045  
+added: 1  
+modified: 2  
+removed: 2  
+message: - add get payload cube for jetton transfer
+
 ### 2024-07-11 20:32:19 UTC
 name: cubes-ton  
 commiter: 0xZonaV  
