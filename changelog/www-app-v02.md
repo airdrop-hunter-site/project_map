@@ -1,3 +1,13 @@
+### 2024-07-15 15:25:47 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-07-15 15:25:47 UTC  
+utime: 1721057147  
+added: 0  
+modified: 1  
+removed: 1  
+message: add close soon flag on ai card
+
 ### 2024-07-11 14:42:01 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
