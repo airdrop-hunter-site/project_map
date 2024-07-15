@@ -1,3 +1,13 @@
+### 2024-07-15 13:10:47 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-15 13:10:47 UTC  
+utime: 1721049047  
+added: 0  
+modified: 3  
+removed: 3  
+message: Changed: register_user API function (AH-168).
+
 ### 2024-07-15 12:21:26 UTC
 name: ton-game  
 commiter: rr3333mmAA  
