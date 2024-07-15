@@ -1,3 +1,13 @@
+### 2024-07-15 12:21:26 UTC
+name: ton-game  
+commiter: rr3333mmAA  
+time: 2024-07-15 12:21:26 UTC  
+utime: 1721046086  
+added: 0  
+modified: 4  
+removed: 4  
+message: Added: catch blocked users (AH-227).
+
 ### 2024-07-15 11:22:24 UTC
 name: ton-game  
 commiter: dev12  
