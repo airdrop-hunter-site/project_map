@@ -1,3 +1,13 @@
+### 2024-07-16 12:36:12 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-16 12:36:12 UTC  
+utime: 1721133372  
+added: 0  
+modified: 6  
+removed: 6  
+message: Added: get_task_history API function and every hour tasks stats (AH-221).
+
 ### 2024-07-16 10:14:59 UTC
 name: ton-game  
 commiter: rr3333mmAA  
