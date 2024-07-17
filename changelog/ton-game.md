@@ -1,3 +1,13 @@
+### 2024-07-17 11:31:57 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-17 11:31:57 UTC  
+utime: 1721215917  
+added: 0  
+modified: 1  
+removed: 1  
+message: Added: callback_query answer (AH-96).
+
 ### 2024-07-17 09:56:48 UTC
 name: ton-game  
 commiter: dev12  
