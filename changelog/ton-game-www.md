@@ -1,3 +1,13 @@
+### 2024-07-17 12:47:26 UTC
+name: ton-game-www  
+commiter: Chingiz-Arziev  
+time: 2024-07-17 12:47:26 UTC  
+utime: 1721220446  
+added: 8  
+modified: 9  
+removed: 9  
+message: Feat: Big Update, add api AI card payments
+
 ### 2024-07-10 07:20:58 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
