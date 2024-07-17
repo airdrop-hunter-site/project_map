@@ -1,3 +1,23 @@
+### 2024-07-17 09:56:48 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-07-17 09:56:48 UTC  
+utime: 1721210208  
+added: 0  
+modified: 1  
+removed: 1  
+message: fix bug no refer
+
+### 2024-07-17 09:56:09 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-07-17 09:56:09 UTC  
+utime: 1721210169  
+added: 0  
+modified: 8  
+removed: 8  
+message: Fix bug no refer and piush admin
+
 ### 2024-07-16 16:25:59 UTC
 name: ton-game  
 commiter: dev20  
