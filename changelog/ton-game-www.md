@@ -1,3 +1,13 @@
+### 2024-07-18 12:42:52 UTC
+name: ton-game-www  
+commiter: Chingiz-Arziev  
+time: 2024-07-18 12:42:52 UTC  
+utime: 1721306572  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix modal payment
+
 ### 2024-07-18 10:41:34 UTC
 name: ton-game-www  
 commiter: Chingiz-Arziev  
