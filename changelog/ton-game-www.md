@@ -1,3 +1,13 @@
+### 2024-07-18 10:25:59 UTC
+name: ton-game-www  
+commiter: Chingiz-Arziev  
+time: 2024-07-18 10:25:59 UTC  
+utime: 1721298359  
+added: 1  
+modified: 5  
+removed: 5  
+message: Feat: add google metrics
+
 ### 2024-07-17 14:33:28 UTC
 name: ton-game-www  
 commiter: Chingiz-Arziev  
