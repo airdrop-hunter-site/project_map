@@ -1,3 +1,13 @@
+### 2024-07-18 14:22:05 UTC
+name: ton-game-www  
+commiter: Chingiz-Arziev  
+time: 2024-07-18 14:22:05 UTC  
+utime: 1721312525  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: remove height from app.css
+
 ### 2024-07-18 14:13:05 UTC
 name: ton-game-www  
 commiter: Chingiz-Arziev  
