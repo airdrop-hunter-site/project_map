@@ -1,3 +1,13 @@
+### 2024-07-18 13:16:11 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-18 13:16:11 UTC  
+utime: 1721308571  
+added: 0  
+modified: 2  
+removed: 2  
+message: Changed: added text for newbies and create_message_out skip_is_join set to True as default (AH-234).
+
 ### 2024-07-18 09:56:19 UTC
 name: ton-game  
 commiter: dev20  
