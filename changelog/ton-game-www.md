@@ -1,3 +1,13 @@
+### 2024-07-18 15:58:50 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-07-18 15:58:50 UTC  
+utime: 1721318330  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix task button width
+
 ### 2024-07-18 15:53:50 UTC
 name: ton-game-www  
 commiter: Chingiz-Arziev  
