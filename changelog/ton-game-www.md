@@ -1,3 +1,13 @@
+### 2024-07-18 15:53:50 UTC
+name: ton-game-www  
+commiter: Chingiz-Arziev  
+time: 2024-07-18 15:53:50 UTC  
+utime: 1721318030  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: wronf tg id
+
 ### 2024-07-18 14:59:54 UTC
 name: ton-game-www  
 commiter: Chingiz-Arziev  
