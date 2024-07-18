@@ -1,3 +1,13 @@
+### 2024-07-18 14:57:21 UTC
+name: ton-game-www  
+commiter: Chingiz-Arziev  
+time: 2024-07-18 14:57:21 UTC  
+utime: 1721314641  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: remove tg var height
+
 ### 2024-07-18 14:53:26 UTC
 name: ton-game-www  
 commiter: Chingiz-Arziev  
