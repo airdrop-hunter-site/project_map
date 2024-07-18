@@ -1,3 +1,13 @@
+### 2024-07-18 09:21:34 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-18 09:21:34 UTC  
+utime: 1721294494  
+added: 0  
+modified: 2  
+removed: 2  
+message: Changed: get_query_users_count API function (AH-236).
+
 ### 2024-07-17 16:29:46 UTC
 name: ton-game  
 commiter: dev20  
