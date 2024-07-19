@@ -1,3 +1,13 @@
+### 2024-07-19 15:45:28 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-07-19 15:45:28 UTC  
+utime: 1721403928  
+added: 0  
+modified: 5  
+removed: 5  
+message: move to dev server
+
 ### 2024-07-19 11:15:17 UTC
 name: ton-game  
 commiter: dev20  
