@@ -1,3 +1,13 @@
+### 2024-07-19 09:43:35 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-19 09:43:35 UTC  
+utime: 1721382215  
+added: 0  
+modified: 3  
+removed: 3  
+message: Changed: get_query_users_count to get_mailing_users_count (AH-236).
+
 ### 2024-07-18 13:27:43 UTC
 name: ton-game  
 commiter: Kindiy31  
