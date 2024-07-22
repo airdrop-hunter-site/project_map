@@ -1,3 +1,15 @@
+### 2024-07-22 16:56:05 UTC
+name: www-tontest  
+commiter: 0xZonaV  
+time: 2024-07-22 16:56:05 UTC  
+utime: 1721667365  
+added: 0  
+modified: 3  
+removed: 3  
+message: - add rendering cards value by preset id from url (example: https://ton-test.airdrop-hunter.site/?pid=p01)
+
+- bug fix with button Connect Wallet + Select Variant
+
 ### 2024-07-16 13:16:28 UTC
 name: www-tontest  
 commiter: chingiz-arziev  
