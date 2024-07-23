@@ -1,3 +1,19 @@
+### 2024-07-23 17:08:55 UTC
+name: www-tontest  
+commiter: 0xZonaV  
+time: 2024-07-23 17:08:55 UTC  
+utime: 1721754535  
+added: 6  
+modified: 4  
+removed: 4  
+message: - add short description for card
+
+- add long description on read more click
+
+- add redirecting to terms of use and privacy policy on main site in new tab
+
+- some code refactoring
+
 ### 2024-07-23 14:43:05 UTC
 name: www-tontest  
 commiter: 0xZonaV  
