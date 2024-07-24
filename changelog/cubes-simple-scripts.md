@@ -1,3 +1,15 @@
+### 2024-07-24 12:07:21 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-07-24 12:07:21 UTC  
+utime: 1721822841  
+added: 3  
+modified: 3  
+removed: 3  
+message: - add test ton sender
+
+- add avail fee claimer
+
 ### 2024-04-24 06:29:24 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
