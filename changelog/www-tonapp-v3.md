@@ -1,3 +1,13 @@
+### 2024-07-24 12:45:02 UTC
+name: www-tonapp-v3  
+commiter: BrownieJunior  
+time: 2024-07-24 12:45:02 UTC  
+utime: 1721825102  
+added: 14  
+modified: 1  
+removed: 1  
+message: add ai card with deposit popup and readmore
+
 ### 2024-07-23 14:50:26 UTC
 name: www-tonapp-v3  
 commiter: BrownieJunior  
