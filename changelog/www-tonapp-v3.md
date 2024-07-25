@@ -1,3 +1,13 @@
+### 2024-07-25 15:16:21 UTC
+name: www-tonapp-v3  
+commiter: BrownieJunior  
+time: 2024-07-25 15:16:21 UTC  
+utime: 1721920581  
+added: 2  
+modified: 2  
+removed: 2  
+message: add registration page
+
 ### 2024-07-25 12:45:34 UTC
 name: www-tonapp-v3  
 commiter: BrownieJunior  
