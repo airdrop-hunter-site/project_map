@@ -1,3 +1,13 @@
+### 2024-07-25 12:45:34 UTC
+name: www-tonapp-v3  
+commiter: BrownieJunior  
+time: 2024-07-25 12:45:34 UTC  
+utime: 1721911534  
+added: 0  
+modified: 2  
+removed: 2  
+message: add nav on page2 and page3
+
 ### 2024-07-25 10:49:30 UTC
 name: www-tonapp-v3  
 commiter: TankerKTV  
