@@ -1,3 +1,13 @@
+### 2024-07-26 11:33:25 UTC
+name: www-tontest  
+commiter: 0xZonaV  
+time: 2024-07-26 11:33:25 UTC  
+utime: 1721993605  
+added: 3  
+modified: 3  
+removed: 2  
+message: - add prod and test manifest into public folder
+
 ### 2024-07-26 10:55:18 UTC
 name: www-tontest  
 commiter: 0xZonaV  
