@@ -1,3 +1,13 @@
+### 2024-07-29 13:22:57 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-07-29 13:22:57 UTC  
+utime: 1722259377  
+added: 0  
+modified: 1  
+removed: 1  
+message: Type: remove i18 from task status
+
 ### 2024-07-29 13:20:46 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
