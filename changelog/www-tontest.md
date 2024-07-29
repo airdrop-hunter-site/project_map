@@ -1,3 +1,15 @@
+### 2024-07-29 14:40:09 UTC
+name: www-tontest  
+commiter: 0xZonaV  
+time: 2024-07-29 14:40:09 UTC  
+utime: 1722264009  
+added: 0  
+modified: 3  
+removed: 3  
+message: - add stateInit for deploying new wallet
+
+- fix that user can buy more than 1 card value
+
 ### 2024-07-29 11:04:52 UTC
 name: www-tontest  
 commiter: chingiz-arziev  
