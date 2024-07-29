@@ -1,3 +1,13 @@
+### 2024-07-29 11:28:52 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-07-29 11:28:52 UTC  
+utime: 1722252532  
+added: 0  
+modified: 5  
+removed: 5  
+message: Feat: add AI card into the new iframe
+
 ### 2024-07-29 08:05:19 UTC
 name: ton-game-www  
 commiter: dev12  
