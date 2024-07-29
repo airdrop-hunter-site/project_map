@@ -1,3 +1,13 @@
+### 2024-07-29 13:20:46 UTC
+name: ton-game-www  
+commiter: Chingiz Arziev  
+time: 2024-07-29 13:20:46 UTC  
+utime: 1722259246  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: remove gtag
+
 ### 2024-07-29 13:17:44 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
