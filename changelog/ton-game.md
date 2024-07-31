@@ -1,3 +1,13 @@
+### 2024-07-31 09:49:11 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-07-31 09:49:11 UTC  
+utime: 1722419351  
+added: 0  
+modified: 4  
+removed: 4  
+message: Added: set_mailing_status API function (AH-186).
+
 ### 2024-07-30 15:31:53 UTC
 name: ton-game  
 commiter: dev20  
