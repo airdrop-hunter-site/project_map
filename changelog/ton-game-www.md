@@ -1,3 +1,13 @@
+### 2024-08-01 09:39:50 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-08-01 09:39:50 UTC  
+utime: 1722505190  
+added: 0  
+modified: 3  
+removed: 3  
+message: Fix: fix wallet modal
+
 ### 2024-08-01 09:10:05 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
