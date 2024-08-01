@@ -1,3 +1,13 @@
+### 2024-08-01 13:25:38 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-08-01 13:25:38 UTC  
+utime: 1722518738  
+added: 0  
+modified: 3  
+removed: 3  
+message: Styles: change wallet cover
+
 ### 2024-08-01 13:20:05 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
