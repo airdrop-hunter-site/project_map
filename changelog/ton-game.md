@@ -1,3 +1,13 @@
+### 2024-08-01 11:24:40 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-08-01 11:24:40 UTC  
+utime: 1722511480  
+added: 0  
+modified: 8  
+removed: 8  
+message: Add AI card and task prio
+
 ### 2024-07-31 12:15:37 UTC
 name: ton-game  
 commiter: dev20  
