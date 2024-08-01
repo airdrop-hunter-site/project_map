@@ -1,3 +1,13 @@
+### 2024-08-01 14:00:52 UTC
+name: ton-game-www  
+commiter: rr3333mmAA  
+time: 2024-08-01 14:00:52 UTC  
+utime: 1722520852  
+added: 0  
+modified: 1  
+removed: 1  
+message: remove sorting
+
 ### 2024-08-01 13:44:08 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
