@@ -1,3 +1,13 @@
+### 2024-08-01 11:32:43 UTC
+name: www-tonapp-v3  
+commiter: BrownieJunior  
+time: 2024-08-01 11:32:43 UTC  
+utime: 1722511963  
+added: 5  
+modified: 2  
+removed: 2  
+message: change game page design
+
 ### 2024-08-01 09:59:50 UTC
 name: www-tonapp-v3  
 commiter: BrownieJunior  
