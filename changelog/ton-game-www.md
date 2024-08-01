@@ -1,3 +1,13 @@
+### 2024-08-01 11:41:02 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-08-01 11:41:02 UTC  
+utime: 1722512462  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: add open wallets
+
 ### 2024-08-01 09:52:31 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
