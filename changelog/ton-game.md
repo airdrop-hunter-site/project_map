@@ -1,3 +1,13 @@
+### 2024-08-02 16:40:23 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-02 16:40:23 UTC  
+utime: 1722616823  
+added: 0  
+modified: 4  
+removed: 4  
+message: Added: get_mailing_history API function (AH-186).
+
 ### 2024-08-02 14:01:48 UTC
 name: ton-game  
 commiter: dev20  
