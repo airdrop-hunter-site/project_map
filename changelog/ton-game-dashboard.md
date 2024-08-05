@@ -1,3 +1,13 @@
+### 2024-08-05 09:02:30 UTC
+name: ton-game-dashboard  
+commiter: Chingiz-Arziev  
+time: 2024-08-05 09:02:30 UTC  
+utime: 1722848550  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: send photo to server
+
 ### 2024-08-05 08:12:12 UTC
 name: ton-game-dashboard  
 commiter: Chingiz-Arziev  
