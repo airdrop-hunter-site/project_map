@@ -1,3 +1,13 @@
+### 2024-08-07 15:13:41 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-07 15:13:41 UTC  
+utime: 1723043621  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fixed: take_tasks, create_mailing_query.
+
 ### 2024-08-07 10:33:58 UTC
 name: ton-game  
 commiter: dev20  
