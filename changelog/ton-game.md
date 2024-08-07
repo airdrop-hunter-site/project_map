@@ -1,3 +1,14 @@
+### 2024-08-07 10:33:58 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-07 10:33:58 UTC  
+utime: 1723026838  
+added: 0  
+modified: 3  
+removed: 3  
+message: Changed: get_mailing_users_count, get_mailing_records_count, take_open_mailing functions.
+Added: text to take_tasks function.
+
 ### 2024-08-06 12:34:10 UTC
 name: ton-game  
 commiter: dev20  
