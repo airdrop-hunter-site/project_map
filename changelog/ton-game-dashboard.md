@@ -1,3 +1,13 @@
+### 2024-08-08 10:59:46 UTC
+name: ton-game-dashboard  
+commiter: rr3333mmAA  
+time: 2024-08-08 10:59:46 UTC  
+utime: 1723114786  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: wrong condition with roles & renders
+
 ### 2024-08-08 10:56:52 UTC
 name: ton-game-dashboard  
 commiter: rr3333mmAA  
