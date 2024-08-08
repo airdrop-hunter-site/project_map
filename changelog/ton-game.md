@@ -1,3 +1,13 @@
+### 2024-08-08 11:14:49 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-08 11:14:49 UTC  
+utime: 1723115689  
+added: 0  
+modified: 3  
+removed: 3  
+message: Added: edit_task API function (AH-290).
+
 ### 2024-08-08 09:51:05 UTC
 name: ton-game  
 commiter: dev12  
