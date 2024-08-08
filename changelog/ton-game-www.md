@@ -1,3 +1,13 @@
+### 2024-08-08 15:19:26 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-08-08 15:19:26 UTC  
+utime: 1723130366  
+added: 3  
+modified: 2  
+removed: 2  
+message: Feat: add limit page layout
+
 ### 2024-08-08 15:12:11 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
