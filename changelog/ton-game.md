@@ -1,3 +1,13 @@
+### 2024-08-08 16:14:17 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-08 16:14:17 UTC  
+utime: 1723133657  
+added: 0  
+modified: 2  
+removed: 2  
+message: Added: is_started API function (AH-294).
+
 ### 2024-08-08 14:51:36 UTC
 name: ton-game  
 commiter: dev20  
