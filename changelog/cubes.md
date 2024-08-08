@@ -1,3 +1,14 @@
+### 2024-08-08 23:20:57 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-08-08 23:20:57 UTC  
+utime: 1723159257  
+added: 1  
+modified: 8  
+removed: 8  
+message: - uniswap add liq fix
+- add uniswap v2 create pair
+
 ### 2024-07-22 09:59:15 UTC
 name: cubes  
 commiter: 0xZonaV  
