@@ -1,3 +1,14 @@
+### 2024-08-09 13:02:57 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-09 13:02:57 UTC  
+utime: 1723208577  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fixed: all socials changing image bug.
+Changed: brand new created task prio set to 9999.
+
 ### 2024-08-08 16:14:17 UTC
 name: ton-game  
 commiter: dev20  
