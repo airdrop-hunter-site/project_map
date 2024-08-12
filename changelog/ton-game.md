@@ -1,3 +1,13 @@
+### 2024-08-12 10:21:26 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-12 10:21:26 UTC  
+utime: 1723458086  
+added: 0  
+modified: 1  
+removed: 1  
+message: Changed: create_task text_ru set to optional.
+
 ### 2024-08-09 13:02:57 UTC
 name: ton-game  
 commiter: dev20  
