@@ -1,3 +1,13 @@
+### 2024-08-12 07:18:17 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-08-12 07:18:17 UTC  
+utime: 1723447097  
+added: 2  
+modified: 1  
+removed: 1  
+message: Feat: add ru limit page
+
 ### 2024-08-09 09:26:05 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
