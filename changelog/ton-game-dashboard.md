@@ -1,3 +1,13 @@
+### 2024-08-12 16:51:02 UTC
+name: ton-game-dashboard  
+commiter: chingiz-arziev  
+time: 2024-08-12 16:51:02 UTC  
+utime: 1723481462  
+added: 1  
+modified: 8  
+removed: 8  
+message: Feat: Add filtered mailing
+
 ### 2024-08-09 11:57:54 UTC
 name: ton-game-dashboard  
 commiter: chingiz-arziev  
