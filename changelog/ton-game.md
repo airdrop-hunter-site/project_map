@@ -1,3 +1,13 @@
+### 2024-08-13 12:00:55 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-13 12:00:55 UTC  
+utime: 1723550455  
+added: 0  
+modified: 3  
+removed: 3  
+message: Changed: check if instruction done before ai.
+
 ### 2024-08-13 11:34:37 UTC
 name: ton-game  
 commiter: dev20  
