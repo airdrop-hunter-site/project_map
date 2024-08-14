@@ -1,3 +1,13 @@
+### 2024-08-14 16:41:16 UTC
+name: www-app-v02  
+commiter: BrownieJunior  
+time: 2024-08-14 16:41:16 UTC  
+utime: 1723653676  
+added: 4  
+modified: 2  
+removed: 2  
+message: add info circle btn and info circle modal and hide btn from prod
+
 ### 2024-08-14 16:39:26 UTC
 name: www-app-v02  
 commiter: BrownieJunior  
