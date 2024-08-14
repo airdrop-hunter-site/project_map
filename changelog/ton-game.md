@@ -1,3 +1,13 @@
+### 2024-08-14 12:41:18 UTC
+name: ton-game  
+commiter: chingiz-arziev  
+time: 2024-08-14 12:41:18 UTC  
+utime: 1723639278  
+added: 0  
+modified: 1  
+removed: 1  
+message: add requirements.txt
+
 ### 2024-08-14 12:34:30 UTC
 name: ton-game  
 commiter: dev12  
