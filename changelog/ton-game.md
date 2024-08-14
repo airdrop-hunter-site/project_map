@@ -1,3 +1,13 @@
+### 2024-08-14 08:27:41 UTC
+name: ton-game  
+commiter: dev12  
+time: 2024-08-14 08:27:41 UTC  
+utime: 1723624061  
+added: 0  
+modified: 2  
+removed: 2  
+message: Add bot subscribe endpoint
+
 ### 2024-08-14 08:03:27 UTC
 name: ton-game  
 commiter: dev20  
