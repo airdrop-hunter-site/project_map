@@ -1,3 +1,13 @@
+### 2024-08-14 08:03:27 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-14 08:03:27 UTC  
+utime: 1723622607  
+added: 0  
+modified: 1  
+removed: 1  
+message: Changed: getting invite codes if lefts code count greater than 0 (AH-168).
+
 ### 2024-08-13 12:51:19 UTC
 name: ton-game  
 commiter: dev20  
