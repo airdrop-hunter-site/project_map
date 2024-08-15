@@ -1,3 +1,13 @@
+### 2024-08-15 13:36:34 UTC
+name: ton-game-dashboard  
+commiter: Chingiz-Arziev  
+time: 2024-08-15 13:36:34 UTC  
+utime: 1723728994  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: hide sellers invite controll
+
 ### 2024-08-15 13:31:07 UTC
 name: ton-game-dashboard  
 commiter: Chingiz-Arziev  
