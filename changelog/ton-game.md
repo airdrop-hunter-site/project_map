@@ -1,3 +1,13 @@
+### 2024-08-15 13:17:21 UTC
+name: ton-game  
+commiter: dev20  
+time: 2024-08-15 13:17:21 UTC  
+utime: 1723727841  
+added: 0  
+modified: 2  
+removed: 2  
+message: Changed: default mailing page set to None.
+
 ### 2024-08-15 11:20:25 UTC
 name: ton-game  
 commiter: rr3333mmAA  
