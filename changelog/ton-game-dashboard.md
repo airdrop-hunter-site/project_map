@@ -1,3 +1,13 @@
+### 2024-08-15 13:31:07 UTC
+name: ton-game-dashboard  
+commiter: Chingiz-Arziev  
+time: 2024-08-15 13:31:07 UTC  
+utime: 1723728667  
+added: 0  
+modified: 2  
+removed: 2  
+message: Feat: add seller roles to invite pages
+
 ### 2024-08-15 07:34:17 UTC
 name: ton-game-dashboard  
 commiter: Chingiz-Arziev  
