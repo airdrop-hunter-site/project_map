@@ -1,3 +1,13 @@
+### 2024-08-16 09:01:27 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-08-16 09:01:27 UTC  
+utime: 1723798887  
+added: 0  
+modified: 5  
+removed: 5  
+message: Feat: add new plurals functions to frens & referrals page
+
 ### 2024-08-15 14:35:25 UTC
 name: ton-game-www  
 commiter: Chingiz Arziev  
