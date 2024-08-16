@@ -1,3 +1,13 @@
+### 2024-08-16 13:24:07 UTC
+name: ton-game  
+commiter: rr3333mmAA  
+time: 2024-08-16 13:24:07 UTC  
+utime: 1723814647  
+added: 0  
+modified: 1  
+removed: 1  
+message: add mailing
+
 ### 2024-08-15 13:17:21 UTC
 name: ton-game  
 commiter: dev20  
