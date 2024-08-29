@@ -1,3 +1,14 @@
+### 2024-08-29 10:37:53 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-08-29 10:37:53 UTC  
+utime: 1724927873  
+added: 1  
+modified: 1  
+removed: 1  
+message: - add to mintchain checker cron every 40 mins
+- add mintchain checker status text
+
 ### 2024-08-29 10:15:20 UTC
 name: cubes  
 commiter: 0xZonaV  
