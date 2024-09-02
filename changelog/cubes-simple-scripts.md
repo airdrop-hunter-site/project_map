@@ -1,3 +1,13 @@
+### 2024-09-02 09:05:10 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-09-02 09:05:10 UTC  
+utime: 1725267910  
+added: 3  
+modified: 3  
+removed: 0  
+message: - add mintchain filter
+
 ### 2024-07-25 18:33:43 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
