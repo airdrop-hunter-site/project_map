@@ -1,3 +1,13 @@
+### 2024-09-10 12:56:29 UTC
+name: cubes-simple-scripts  
+commiter: 0xZonaV  
+time: 2024-09-10 12:56:29 UTC  
+utime: 1725972989  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add getting all user ids
+
 ### 2024-09-10 12:52:10 UTC
 name: cubes-simple-scripts  
 commiter: 0xZonaV  
