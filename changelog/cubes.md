@@ -1,3 +1,15 @@
+### 2024-09-11 08:13:21 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-09-11 08:13:21 UTC  
+utime: 1726042401  
+added: 5  
+modified: 5  
+removed: 5  
+message: - add cube to mint random ndt on mintchain
+
+- update mintchain processing for minting random nft
+
 ### 2024-09-11 06:28:18 UTC
 name: cubes  
 commiter: 0xZonaV  
