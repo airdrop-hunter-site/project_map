@@ -1,3 +1,13 @@
+### 2024-09-11 08:46:46 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-09-11 08:46:46 UTC  
+utime: 1726044406  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update mintchain checker to check balance eth
+
 ### 2024-09-11 08:20:40 UTC
 name: cubes  
 commiter: 0xZonaV  
