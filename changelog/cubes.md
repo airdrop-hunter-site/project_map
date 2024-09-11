@@ -1,3 +1,13 @@
+### 2024-09-11 08:20:40 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-09-11 08:20:40 UTC  
+utime: 1726042840  
+added: 0  
+modified: 1  
+removed: 1  
+message: - update mintchain c3 tg sender to send all balances and nft mint info by number
+
 ### 2024-09-11 08:13:21 UTC
 name: cubes  
 commiter: 0xZonaV  
