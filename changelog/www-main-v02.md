@@ -1,3 +1,13 @@
+### 2024-09-13 13:02:27 UTC
+name: www-main-v02  
+commiter: BrownieJunior  
+time: 2024-09-13 13:02:27 UTC  
+utime: 1726232547  
+added: 24  
+modified: 9  
+removed: 9  
+message: update main page and add open league page and slider popup
+
 ### 2024-09-05 15:31:14 UTC
 name: www-main-v02  
 commiter: BrownieJunior  
