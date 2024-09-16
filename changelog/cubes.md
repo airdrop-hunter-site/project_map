@@ -1,3 +1,15 @@
+### 2024-09-16 11:40:56 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-09-16 11:40:56 UTC  
+utime: 1726486856  
+added: 7  
+modified: 1  
+removed: 1  
+message: - add elixir processing
+
+- add checking for max stake on elixir stake cube
+
 ### 2024-09-16 11:10:36 UTC
 name: cubes  
 commiter: 0xZonaV  
