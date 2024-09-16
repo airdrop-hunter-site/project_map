@@ -1,3 +1,13 @@
+### 2024-09-16 13:18:22 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-09-16 13:18:22 UTC  
+utime: 1726492702  
+added: 1  
+modified: 1  
+removed: 0  
+message: - add cube to get solana balance
+
 ### 2024-06-27 04:49:49 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
