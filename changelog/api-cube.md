@@ -1,3 +1,13 @@
+### 2024-09-17 06:15:35 UTC
+name: api-cube  
+commiter: 0xZonaV  
+time: 2024-09-17 06:15:35 UTC  
+utime: 1726553735  
+added: 3  
+modified: 3  
+removed: 0  
+message: - add elixir api for table info
+
 ### 2024-09-02 08:41:27 UTC
 name: api-cube  
 commiter: 0xZonaV  
