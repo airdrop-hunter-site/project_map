@@ -1,3 +1,13 @@
+### 2024-09-18 12:00:30 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-09-18 12:00:30 UTC  
+utime: 1726660830  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: remove mock data
+
 ### 2024-09-18 11:51:13 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
