@@ -1,3 +1,13 @@
+### 2024-09-18 14:04:21 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-09-18 14:04:21 UTC  
+utime: 1726668261  
+added: 0  
+modified: 1  
+removed: 1  
+message: Fix: update api referrals count
+
 ### 2024-09-18 13:47:30 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
