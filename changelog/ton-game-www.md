@@ -1,3 +1,13 @@
+### 2024-09-18 10:46:02 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-09-18 10:46:02 UTC  
+utime: 1726656362  
+added: 0  
+modified: 1  
+removed: 1  
+message: Styles: fix referral group size
+
 ### 2024-09-12 13:47:51 UTC
 name: ton-game-www  
 commiter: airdrop-hunter-dev-rw  
