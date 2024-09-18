@@ -1,3 +1,13 @@
+### 2024-09-18 11:51:13 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-09-18 11:51:13 UTC  
+utime: 1726660273  
+added: 1  
+modified: 7  
+removed: 7  
+message: Feat: add new screen wuth wallet connection
+
 ### 2024-09-18 11:33:09 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
