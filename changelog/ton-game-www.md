@@ -1,3 +1,13 @@
+### 2024-09-19 10:20:09 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-09-19 10:20:09 UTC  
+utime: 1726741209  
+added: 0  
+modified: 12  
+removed: 12  
+message: Update: fix css isues
+
 ### 2024-09-18 14:04:21 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
