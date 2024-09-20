@@ -1,3 +1,13 @@
+### 2024-09-20 08:44:53 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-09-20 08:44:53 UTC  
+utime: 1726821893  
+added: 0  
+modified: 2  
+removed: 2  
+message: Fix: wrong link
+
 ### 2024-09-20 08:27:40 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
