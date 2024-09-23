@@ -1,3 +1,13 @@
+### 2024-09-23 09:26:06 UTC
+name: ton-game-www  
+commiter: chingiz-arziev  
+time: 2024-09-23 09:26:06 UTC  
+utime: 1727083566  
+added: 0  
+modified: 2  
+removed: 2  
+message: Styles: fix rocket size
+
 ### 2024-09-23 09:03:23 UTC
 name: ton-game-www  
 commiter: chingiz-arziev  
