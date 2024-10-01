@@ -1,3 +1,13 @@
+### 2024-10-01 11:24:56 UTC
+name: www-main-v02  
+commiter: liksagen.com  
+time: 2024-10-01 11:24:56 UTC  
+utime: 1727781896  
+added: 19  
+modified: 19  
+removed: 1  
+message: add translate jsons
+
 ### 2024-10-01 10:50:33 UTC
 name: www-main-v02  
 commiter: liksagen.com  
