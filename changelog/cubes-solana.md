@@ -1,3 +1,13 @@
+### 2024-10-31 06:44:20 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-10-31 06:44:20 UTC  
+utime: 1730357060  
+added: 0  
+modified: 7  
+removed: 7  
+message: - add fee payer feature to send token cube
+
 ### 2024-10-28 17:25:41 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
