@@ -1,3 +1,13 @@
+### 2024-11-05 16:38:04 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-11-05 16:38:04 UTC  
+utime: 1730824684  
+added: 0  
+modified: 1  
+removed: 1  
+message: - add proxy for connection
+
 ### 2024-11-05 16:29:51 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
