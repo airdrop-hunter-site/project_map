@@ -1,3 +1,13 @@
+### 2024-11-05 11:15:57 UTC
+name: cubes-solana  
+commiter: 0xZonaV  
+time: 2024-11-05 11:15:57 UTC  
+utime: 1730805357  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix fee payer function
+
 ### 2024-11-04 22:15:04 UTC
 name: cubes-solana  
 commiter: 0xZonaV  
