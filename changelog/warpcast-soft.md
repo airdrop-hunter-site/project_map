@@ -1,3 +1,13 @@
+### 2024-11-05 09:30:03 UTC
+name: warpcast-soft  
+commiter: 0xZonaV  
+time: 2024-11-05 09:30:03 UTC  
+utime: 1730799003  
+added: 0  
+modified: 1  
+removed: 1  
+message: - fix logger double
+
 ### 2024-11-05 09:11:50 UTC
 name: warpcast-soft  
 commiter: 0xZonaV  
