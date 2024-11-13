@@ -1,3 +1,13 @@
+### 2024-11-13 13:30:11 UTC
+name: warpcast-soft  
+commiter: 0xZonaV  
+time: 2024-11-13 13:30:11 UTC  
+utime: 1731504611  
+added: 0  
+modified: 2  
+removed: 2  
+message: - fix language not set in get_msg
+
 ### 2024-11-12 13:18:44 UTC
 name: warpcast-soft  
 commiter: 0xZonaV  
