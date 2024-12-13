@@ -1,3 +1,13 @@
+### 2024-12-13 11:45:11 UTC
+name: rainbowkit  
+commiter: liksagen.com  
+time: 2024-12-13 11:45:11 UTC  
+utime: 1734090311  
+added: 0  
+modified: 1  
+removed: 147  
+message: add dist to .gitignore
+
 ### 2024-12-13 11:43:47 UTC
 name: rainbowkit  
 commiter: liksagen.com  
