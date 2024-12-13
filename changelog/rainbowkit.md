@@ -1,3 +1,13 @@
+### 2024-12-13 14:44:57 UTC
+name: rainbowkit  
+commiter: 0xZonaV  
+time: 2024-12-13 14:44:57 UTC  
+utime: 1734101097  
+added: 0  
+modified: 1  
+removed: 1  
+message: add modal popup when disconnect
+
 ### 2024-12-13 14:39:16 UTC
 name: rainbowkit  
 commiter: 0xZonaV  
