@@ -1,3 +1,13 @@
+### 2024-12-13 09:38:56 UTC
+name: rainbowkit  
+commiter: 0xZonaV  
+time: 2024-12-13 09:38:56 UTC  
+utime: 1734082736  
+added: 74  
+modified: 2  
+removed: 8  
+message: remove next and add vite for native react
+
 ### 2024-12-12 16:46:12 UTC
 name: rainbowkit  
 commiter: 0xZonaV  
