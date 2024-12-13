@@ -1,3 +1,13 @@
+### 2024-12-13 11:59:54 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-12-13 11:59:54 UTC  
+utime: 1734091194  
+added: 2  
+modified: 1  
+removed: 1  
+message: - add vesting deployer cube
+
 ### 2024-11-27 11:29:33 UTC
 name: cubes  
 commiter: 0xZonaV  
