@@ -1,3 +1,13 @@
+### 2024-12-19 16:33:19 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2024-12-19 16:33:19 UTC  
+utime: 1734625999  
+added: 3  
+modified: 2  
+removed: 2  
+message: - update eywa vesting deployment and checking vesting contract status
+
 ### 2024-12-13 11:59:54 UTC
 name: cubes  
 commiter: 0xZonaV  
