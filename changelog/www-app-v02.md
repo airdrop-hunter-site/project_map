@@ -1,3 +1,13 @@
+### 2024-12-30 23:19:38 UTC
+name: www-app-v02  
+commiter: liksagen.com  
+time: 2024-12-30 23:19:38 UTC  
+utime: 1735600778  
+added: 14  
+modified: 39  
+removed: 39  
+message: add eywa confirm popup and fixed for stake page
+
 ### 2024-12-23 14:05:09 UTC
 name: www-app-v02  
 commiter: liksagen.com  
