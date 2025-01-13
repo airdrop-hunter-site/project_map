@@ -1,3 +1,13 @@
+### 2025-01-13 09:26:48 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2025-01-13 09:26:48 UTC  
+utime: 1736760408  
+added: 1  
+modified: 1  
+removed: 0  
+message: - add xp checker for shardeum
+
 ### 2024-12-20 05:52:50 UTC
 name: cubes  
 commiter: 0xZonaV  
