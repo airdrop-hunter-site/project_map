@@ -1,3 +1,13 @@
+### 2025-02-07 13:00:19 UTC
+name: cubes  
+commiter: 0xZonaV  
+time: 2025-02-07 13:00:19 UTC  
+utime: 1738933219  
+added: 2  
+modified: 4  
+removed: 4  
+message: - add eywa staking
+
 ### 2025-02-07 10:25:31 UTC
 name: cubes  
 commiter: 0xZonaV  
